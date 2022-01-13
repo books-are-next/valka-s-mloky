@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "valka_s_mloky_001.md",
             "xhtml": "valka_s_mloky_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -48,9 +49,9 @@
             "filename": "valka_s_mloky_002.md",
             "xhtml": "valka_s_mloky_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,9 +59,9 @@
             "filename": "valka_s_mloky_003.md",
             "xhtml": "valka_s_mloky_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -68,9 +69,9 @@
             "filename": "valka_s_mloky_004.md",
             "xhtml": "valka_s_mloky_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -82,7 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "valka_s_mloky_006.md",
@@ -92,127 +94,141 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_007.md",
-            "xhtml": "valka_s_mloky_007.html",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_008.md",
-            "xhtml": "valka_s_mloky_008.html",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_009.md",
-            "xhtml": "valka_s_mloky_009.html",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_010.md",
-            "xhtml": "valka_s_mloky_010.html",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_011.md",
-            "xhtml": "valka_s_mloky_011.html",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_012.md",
-            "xhtml": "valka_s_mloky_012.html",
-            "id": 11,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_013.md",
-            "xhtml": "valka_s_mloky_013.html",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_014.md",
-            "xhtml": "valka_s_mloky_014.html",
-            "id": 13,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_015.md",
-            "xhtml": "valka_s_mloky_015.html",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_016.md",
-            "xhtml": "valka_s_mloky_016.html",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_017.md",
-            "xhtml": "valka_s_mloky_017.html",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_018.md",
-            "xhtml": "valka_s_mloky_018.html",
-            "id": 17,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "valka_s_mloky_007.md",
+                "xhtml": "valka_s_mloky_007.html",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n1.\nPodivínství kapitána Van Tocha"
+              },
+              {
+                "filename": "valka_s_mloky_008.md",
+                "xhtml": "valka_s_mloky_008.html",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n2.\nPan Golombek[4]\na pan Valenta[5]"
+              },
+              {
+                "filename": "valka_s_mloky_009.md",
+                "xhtml": "valka_s_mloky_009.html",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n3.\nG. H. Bondy a jeho krajan"
+              },
+              {
+                "filename": "valka_s_mloky_010.md",
+                "xhtml": "valka_s_mloky_010.html",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n4.\nObchodní podnik kapitána Van Tocha"
+              },
+              {
+                "filename": "valka_s_mloky_011.md",
+                "xhtml": "valka_s_mloky_011.html",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n5.\nKapitán J. Van Toch a jeho cvičení ještěři"
+              },
+              {
+                "filename": "valka_s_mloky_012.md",
+                "xhtml": "valka_s_mloky_012.html",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n6.\nJachta na laguně"
+              },
+              {
+                "filename": "valka_s_mloky_013.md",
+                "xhtml": "valka_s_mloky_013.html",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n7.\nPokračování jachty na laguně"
+              },
+              {
+                "filename": "valka_s_mloky_014.md",
+                "xhtml": "valka_s_mloky_014.html",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n8.\nAndrias Schuechzeri"
+              },
+              {
+                "filename": "valka_s_mloky_015.md",
+                "xhtml": "valka_s_mloky_015.html",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n9.\nAndrew Scheuchzer"
+              },
+              {
+                "filename": "valka_s_mloky_016.md",
+                "xhtml": "valka_s_mloky_016.html",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n10.\nPosvícení v Novém Strašecí"
+              },
+              {
+                "filename": "valka_s_mloky_017.md",
+                "xhtml": "valka_s_mloky_017.html",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n11.\nO Lidogešterkách"
+              },
+              {
+                "filename": "valka_s_mloky_018.md",
+                "xhtml": "valka_s_mloky_018.html",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n12.\nSalamander-Syndicate"
+              }
+            ],
+            "title": "Kniha\nprvní\nAndrias Scheuchzeri"
           },
           {
             "filename": "valka_s_mloky_019.md",
@@ -222,37 +238,42 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_020.md",
-            "xhtml": "valka_s_mloky_020.html",
-            "id": 19,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_021.md",
-            "xhtml": "valka_s_mloky_021.html",
-            "id": 20,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_022.md",
-            "xhtml": "valka_s_mloky_022.html",
-            "id": 21,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "valka_s_mloky_020.md",
+                "xhtml": "valka_s_mloky_020.html",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n1.\nPan Povondra čte noviny"
+              },
+              {
+                "filename": "valka_s_mloky_021.md",
+                "xhtml": "valka_s_mloky_021.html",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n2.\nPo stupních civilizace (Dějiny Mloků)1"
+              },
+              {
+                "filename": "valka_s_mloky_022.md",
+                "xhtml": "valka_s_mloky_022.html",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n3.\nPan Povondra čte opět noviny"
+              }
+            ],
+            "title": "Kniha\ndruhá\nPo stupních civilizace"
           },
           {
             "filename": "valka_s_mloky_023.md",
@@ -262,117 +283,130 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_024.md",
-            "xhtml": "valka_s_mloky_024.html",
-            "id": 23,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_025.md",
-            "xhtml": "valka_s_mloky_025.html",
-            "id": 24,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_026.md",
-            "xhtml": "valka_s_mloky_026.html",
-            "id": 25,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_027.md",
-            "xhtml": "valka_s_mloky_027.html",
-            "id": 26,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_028.md",
-            "xhtml": "valka_s_mloky_028.html",
-            "id": 27,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_029.md",
-            "xhtml": "valka_s_mloky_029.html",
-            "id": 28,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_030.md",
-            "xhtml": "valka_s_mloky_030.html",
-            "id": 29,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_031.md",
-            "xhtml": "valka_s_mloky_031.html",
-            "id": 30,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_032.md",
-            "xhtml": "valka_s_mloky_032.html",
-            "id": 31,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_033.md",
-            "xhtml": "valka_s_mloky_033.html",
-            "id": 32,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "valka_s_mloky_034.md",
-            "xhtml": "valka_s_mloky_034.html",
-            "id": 33,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "valka_s_mloky_024.md",
+                "xhtml": "valka_s_mloky_024.html",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n1.\nMasakr na Ostrovech kokosových"
+              },
+              {
+                "filename": "valka_s_mloky_025.md",
+                "xhtml": "valka_s_mloky_025.html",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n2.\nSrážka v Normandii"
+              },
+              {
+                "filename": "valka_s_mloky_026.md",
+                "xhtml": "valka_s_mloky_026.html",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n3.\nIncident v La Manche"
+              },
+              {
+                "filename": "valka_s_mloky_027.md",
+                "xhtml": "valka_s_mloky_027.html",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n4.\nDer Nordmloch"
+              },
+              {
+                "filename": "valka_s_mloky_028.md",
+                "xhtml": "valka_s_mloky_028.html",
+                "id": 27,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n5.\nWolf Meynert píše své dílo"
+              },
+              {
+                "filename": "valka_s_mloky_029.md",
+                "xhtml": "valka_s_mloky_029.html",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n6.\nX varuje"
+              },
+              {
+                "filename": "valka_s_mloky_030.md",
+                "xhtml": "valka_s_mloky_030.html",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n7.\nZemětřesení v Louisianě"
+              },
+              {
+                "filename": "valka_s_mloky_031.md",
+                "xhtml": "valka_s_mloky_031.html",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n8.\nChief Salamander klade požadavky"
+              },
+              {
+                "filename": "valka_s_mloky_032.md",
+                "xhtml": "valka_s_mloky_032.html",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n9.\nKonference ve Vaduzu"
+              },
+              {
+                "filename": "valka_s_mloky_033.md",
+                "xhtml": "valka_s_mloky_033.html",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n10.\nPan Povondra to bere na sebe"
+              },
+              {
+                "filename": "valka_s_mloky_034.md",
+                "xhtml": "valka_s_mloky_034.html",
+                "id": 33,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapitola\n11.\nAutor mluví sám se sebou"
+              }
+            ],
+            "title": "Kniha\ntřetí\nVálka s mloky"
           },
           {
             "filename": "valka_s_mloky_035.md",
@@ -382,7 +416,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "valka_s_mloky_036.md",
@@ -392,7 +427,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Život a doba spisovatele\nKarla Čapka v datech"
           },
           {
             "filename": "valka_s_mloky_037.md",
@@ -402,7 +438,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "První\nvydání knih Karla Čapka"
           },
           {
             "filename": "valka_s_mloky_038.md",
@@ -412,15 +449,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "valka_s_mloky_039.md",
             "xhtml": "valka_s_mloky_039.html",
             "id": 38,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -434,7 +472,7 @@
       "identifier": "3756d69d-fe12-47ab-90c4-fa9f5e7d87f2",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-13T14:23:23.973Z"
+      "modified": "2022-01-13T14:37:38.065Z"
     },
     "chapters": [
       {
@@ -824,6 +862,6 @@
       "user": "books-are-next",
       "repo": "valka-s-mloky"
     },
-    "generatedAt": 1642083804751
+    "generatedAt": 1642084658950
   }
 }
