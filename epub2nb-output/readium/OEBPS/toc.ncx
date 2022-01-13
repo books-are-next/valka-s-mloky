@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="3756d69d-fe12-47ab-90c4-fa9f5e7d87f2"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Válka s mloky</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Kniha první Andrias Scheuchzeri</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Kapitola 1. Podivínství kapitána Van Tocha</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Kapitola 2. Pan Golombek a pan Valenta</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Kapitola 3. G. H. Bondy a jeho krajan</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Kapitola 4. Obchodní podnik kapitána Van Tocha</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Kapitola 5. Kapitán J. Van Toch a jeho cvičení ještěři</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Kapitola 6. Jachta na laguně</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Kapitola 7. Pokračování jachty na laguně</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Kapitola 8. Andrias Schuechzeri</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Kapitola 9. Andrew Scheuchzer</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Kapitola 10. Posvícení v Novém Strašecí</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Kapitola 11. O Lidogešterkách</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Kapitola 12. Salamander-Syndicate</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_018.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Kniha druhá Po stupních civilizace</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_019.html"/>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Kapitola 1. Pan Povondra čte noviny</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Kapitola 2. Po stupních civilizace (Dějiny Mloků)1</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Kapitola 3. Pan Povondra čte opět noviny</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_022.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Kniha třetí Válka s mloky</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_023.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Kapitola 1. Masakr na Ostrovech kokosových</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Kapitola 2. Srážka v Normandii</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Kapitola 3. Incident v La Manche</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Kapitola 4. Der Nordmloch</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Kapitola 5. Wolf Meynert píše své dílo</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Kapitola 6. X varuje</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Kapitola 7. Zemětřesení v Louisianě</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Kapitola 8. Chief Salamander klade požadavky</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Kapitola 9. Konference ve Vaduzu</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Kapitola 10. Pan Povondra to bere na sebe</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Kapitola 11. Autor mluví sám se sebou</text>
+        </navLabel>
+        <content src="Text/valka_s_mloky_034.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/valka_s_mloky_038.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

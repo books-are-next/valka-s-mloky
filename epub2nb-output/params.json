@@ -1,0 +1,400 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Válka s mloky",
+      "identifier": "3756d69d-fe12-47ab-90c4-fa9f5e7d87f2",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-13T12:42:24.644Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_001.md",
+        "xhtml": "valka_s_mloky_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_002.md",
+        "xhtml": "valka_s_mloky_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_003.md",
+        "xhtml": "valka_s_mloky_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_004.md",
+        "xhtml": "valka_s_mloky_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_005.md",
+        "xhtml": "valka_s_mloky_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_006.md",
+        "xhtml": "valka_s_mloky_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_007.md",
+        "xhtml": "valka_s_mloky_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_008.md",
+        "xhtml": "valka_s_mloky_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_009.md",
+        "xhtml": "valka_s_mloky_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_010.md",
+        "xhtml": "valka_s_mloky_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_011.md",
+        "xhtml": "valka_s_mloky_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_012.md",
+        "xhtml": "valka_s_mloky_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_013.md",
+        "xhtml": "valka_s_mloky_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_014.md",
+        "xhtml": "valka_s_mloky_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_015.md",
+        "xhtml": "valka_s_mloky_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_016.md",
+        "xhtml": "valka_s_mloky_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_017.md",
+        "xhtml": "valka_s_mloky_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_018.md",
+        "xhtml": "valka_s_mloky_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_019.md",
+        "xhtml": "valka_s_mloky_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_020.md",
+        "xhtml": "valka_s_mloky_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_021.md",
+        "xhtml": "valka_s_mloky_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_022.md",
+        "xhtml": "valka_s_mloky_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_023.md",
+        "xhtml": "valka_s_mloky_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_024.md",
+        "xhtml": "valka_s_mloky_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_025.md",
+        "xhtml": "valka_s_mloky_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_026.md",
+        "xhtml": "valka_s_mloky_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_027.md",
+        "xhtml": "valka_s_mloky_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_028.md",
+        "xhtml": "valka_s_mloky_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_029.md",
+        "xhtml": "valka_s_mloky_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_030.md",
+        "xhtml": "valka_s_mloky_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_031.md",
+        "xhtml": "valka_s_mloky_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_032.md",
+        "xhtml": "valka_s_mloky_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_033.md",
+        "xhtml": "valka_s_mloky_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_034.md",
+        "xhtml": "valka_s_mloky_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_035.md",
+        "xhtml": "valka_s_mloky_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_036.md",
+        "xhtml": "valka_s_mloky_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_037.md",
+        "xhtml": "valka_s_mloky_037.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_038.md",
+        "xhtml": "valka_s_mloky_038.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "valka_s_mloky_039.md",
+        "xhtml": "valka_s_mloky_039.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/1.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/3.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/4.jpg"
+      }
+    ],
+    "classes": [
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre20",
+      "calibre21",
+      "calibre22",
+      "calibre23",
+      "calibre24",
+      "calibre25",
+      "calibre26",
+      "calibre27",
+      "calibre28",
+      "calibre29",
+      "calibre3",
+      "calibre30",
+      "calibre31",
+      "calibre32",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "e-bookhyphorindexmlok11bchar",
+      "mlpdopisbez1radku",
+      "mlpdopisbez1radkui",
+      "mlpdopisi",
+      "mlpdopispodpisi",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpmlociosoby",
+      "mlpmlociosoby1",
+      "mlpmlocipoznamkapodcarou",
+      "mlpmlocipoznamkovyclanek",
+      "mlpmlocipoznamkovyclanekbez",
+      "mlpmlocipoznamkovyclanekdoprava",
+      "mlpmlocipoznamkynadpis",
+      "mlpmlocipoznamkystred",
+      "mlpobrazky",
+      "mlppopisobrazkustred",
+      "mlptext",
+      "mlptext1",
+      "mlptext2",
+      "mlptext3",
+      "mlptext4",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptextuprostredi",
+      "mlptextuprostredi1",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven1zvlastnipripady",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "msonormal",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection12",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "valka-s-mloky"
+    },
+    "generatedAt": 1642077745224
+  }
+}
