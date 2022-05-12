@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  8.
-  Andrias Schuechzeri
+title: Kapitola 8\. Andrias Schuechzeri
+contentType: prose
 ---
 
 Bez konce je lidská všetečnost. Lidem nestačilo, že profesor J. W. Hopkins (Yale Un.), největší té doby autorita v oboru reptilií[\[13\]](./resources/undefined), prohlásil ony záhadné tvory za nevědecký humbuk a pouhou fantazii; v odborném tisku i v novinách se počaly množit zprávy o výskytu dosud neznámých zvířat, podobných obrovským mlokům, na nejrůznějších místech Tichého oceánu. Poměrně spolehlivé údaje uváděly naleziště na ostrovech Šalomounských, na ostrově Schoutenově, na Kapingamarangi, Butaritari a Tapeteuea, dále na celé skupině ostrůvků: Nukufetau, Fanufuti, Nukonono a Fukaofu, potom až na Hiau, Uahuka, Uapu a Pukapuka. Byly citovány pověsti o čertech kapitána van Tocha (hlavně v oblasti melanéské) a o tritonech slečny Lily (spíše v Polynésii); i usoudily noviny, že jde asi o různé druhy podmořských a předpotopních oblud, zvláště proto, že nastala letní sezona a nebylo o čem psát. Podmořské obludy mívají u čtenářů značný úspěch. Zejména v USA přišli tritoni do módy; v New Yorku se hrála třistakrát výpravná revue Poseidon s třemi sty nejkrásnějšími tritonkami, nereidkami[\[14\]](./resources/undefined) a sirénami; v Miami i na plážích kalifornských se mládež koupala v kostýmech tritonů a nereidek (tj. tři šňůry perel a nic víc), kdežto ve středních a středozápadních státech neobyčejně zmohutnělo Hnutí pro Potírání Nemravnosti (HPN); přitom došlo k veřejným projevům a několik černochů bylo dílem pověšeno, dílem upáleno.

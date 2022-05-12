@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kniha
-  první
-  Andrias Scheuchzeri
+title: Kniha první Andrias Scheuchzeri
+contentType: prose
 ---
 
 

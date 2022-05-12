@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  1.
-  Pan Povondra čte noviny
+title: Kapitola 1\. Pan Povondra čte noviny
+contentType: prose
 ---
 
 Jsou lidé, kteří sbírají známky, a jiní, kteří sbírají prvotisky. Pan Povondra, vrátný v domě G. H. Bondyho, dlouho nenašel smysl svého života; váhal po léta mezi zájmem o pravěké hroby a vášní pro zahraniční politiku; jednoho večera se mu však znenadání zjevilo, co mu až dotud chybělo, aby jeho život byl životem plným. Veliké věci obyčejně přicházejí znenadání.

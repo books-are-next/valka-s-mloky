@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  11.
-  Autor mluví sám se sebou
+title: Kapitola 11\. Autor mluví sám se sebou
+contentType: prose
 ---
 
 „Ty to takhle necháš?“ ozval se na tomto místě autorův vnitřní hlas.

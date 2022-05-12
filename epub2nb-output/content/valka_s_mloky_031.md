@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  8.
-  Chief Salamander klade požadavky
+title: Kapitola 8\. Chief Salamander klade požadavky
+contentType: prose
 ---
 
 Tři dny po zemětřesení v Louisianě byla hlášena nová geologická katastrofa, tentokrát v Číně. Za mohutného, dunivého otřesu země se roztrhlo v provincii Kiangsu mořské pobřeží severně od Nankingu, asi uprostřed mezi ústím Jang-tse a starým korytem Hwang-ho; do této trhliny vniklo moře a spojilo se s velikými jezery Pan-jün a Hung-tsu mezi městy Hwaingan a Fugjang. Zdá se, že následkem zemětřesení opouští Jang-tse pod Nankingem své koryto a valí se směrem k jezeru Tai a dále na Hang-čou. Ztráty na lidských životech nelze zatím ani přibližně odhadnout. Statisíce lidí prchají do severních a jižních provincií. Japonské válečné lodi dostaly rozkaz vyplout k postiženému pobřeží.

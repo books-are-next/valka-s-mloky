@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  5.
-  Wolf Meynert píše své dílo
+title: Kapitola 5\. Wolf Meynert píše své dílo
+contentType: prose
 ---
 
 Snad to byly právě zmíněné velkolepé a tragické západy slunce, které inspirovaly samotářského královeckého filozofa Wolfa Meynerta k sepsání jeho monumentálního díla Untergang der Menschheit[\[53\]](./resources/undefined). Můžeme si ho živě představit, jak putuje po mořském pobřeží, prostovlasý a ve vlajícím plášti, a zírá uchvácenýma očima do té záplavy ohně a krve, zažíhající víc než polovinu oblohy. „Ano,“ šeptá u vytržení, „ano, je už načase psát doslov k dějinám člověka!“ A napsal jej.

@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  9.
-  Konference ve Vaduzu
+title: Kapitola 9\. Konference ve Vaduzu
+contentType: prose
 ---
 
 Byla to podivná válka, lze-li to vůbec nazvat válkou; neboť nebylo žádného mločího státu ani uznané mločí vlády, které by se mohlo oficiálně opovědět nepřátelství. První stát, který se octl ve válečném stavu se Salamandry, byla Velká Británie. Hned v prvních hodinách potopili Mloci skoro všechny její koráby kotvící v přístavech; tomu se nedalo nijak čelit. Toliko lodi na širém moři byly pro tu chvíli v poměrném bezpečí, hlavně pokud křižovaly nad většími hlubinami; tím se zachránila část válečného loďstva britského, která prorazila mločí blokádu na Maltě a soustředila se nad hlubinou jónskou; ale i tyto jednotky byly záhy vyhledávány malými mločími ponorkami a potápěny jedna po druhé. Do šesti neděl ztratila Velká Británie čtyři pětiny své veškeré lodní tonáže.

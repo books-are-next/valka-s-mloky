@@ -1,9 +1,6 @@
 ---
-title: |-
-  Kapitola
-  2.
-  Pan Golombek[4]
-  a pan Valenta[5]
+title: Kapitola 2\. Pan Golombek[4] a pan Valenta[5]
+contentType: prose
 ---
 
 Bylo horké redakční léto, kdy se nic, ale zhola nic neděje, kdy se nedělá politika a kdy není ani žádná evropská situace; a přece i v tuto dobu čtenáři novin, ležící v agonii nudy na březích vod nebo v řídkém stínu stromů, zdemoralizovaní vedrem, přírodou, venkovským klidem a vůbec zdravým a prostým životem na dovolené, čekají s denně zklamávanou nadějí, že aspoň v těch novinách bude něco nového a osvěžujícího, nějaká vražda nebo válka nebo zemětřesení, zkrátka Něco; a když to tam není, tlukou novinami a roztrpčeně prohlašují, že v těch novinách nic, ale docela Nic není a že to vůbec nestojí za čtení a že už to nebudou odebírat.

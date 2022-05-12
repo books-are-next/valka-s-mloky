@@ -1,21 +1,61 @@
 {
-  "author": "Karel Čapek",
-  "edition": "beletrie",
-  "identifier": "capek-valka-s-mloky-bbd4570",
-  "languagecode": "cs",
-  "modified": "2022-01-13T12:42:24.644Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Válka s mloky",
-  "revision": "bbd4570",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-valka-s-mloky-5e1f704",
+  "revision": "5e1f704",
+  "readingOrder": [
+    "promo.html",
+    "valka_s_mloky_005.html",
+    "valka_s_mloky_006.html",
+    "valka_s_mloky_007.html",
+    "valka_s_mloky_008.html",
+    "valka_s_mloky_009.html",
+    "valka_s_mloky_010.html",
+    "valka_s_mloky_011.html",
+    "valka_s_mloky_012.html",
+    "valka_s_mloky_013.html",
+    "valka_s_mloky_014.html",
+    "valka_s_mloky_015.html",
+    "valka_s_mloky_016.html",
+    "valka_s_mloky_017.html",
+    "valka_s_mloky_018.html",
+    "valka_s_mloky_019.html",
+    "valka_s_mloky_020.html",
+    "valka_s_mloky_021.html",
+    "valka_s_mloky_022.html",
+    "valka_s_mloky_023.html",
+    "valka_s_mloky_024.html",
+    "valka_s_mloky_025.html",
+    "valka_s_mloky_026.html",
+    "valka_s_mloky_027.html",
+    "valka_s_mloky_028.html",
+    "valka_s_mloky_029.html",
+    "valka_s_mloky_030.html",
+    "valka_s_mloky_031.html",
+    "valka_s_mloky_032.html",
+    "valka_s_mloky_033.html",
+    "valka_s_mloky_034.html",
+    "valka_s_mloky_035.html",
+    "valka_s_mloky_036.html",
+    "valka_s_mloky_037.html",
+    "valka_s_mloky_038.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Jan 13 2022 14:38:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642084715662
+    "date": "Thu May 12 2022 10:38:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351881025
   },
   "documents": [
     {
-      "title": "Válka s mloky",
-      "file": "valka_s_mloky_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +63,17 @@
       "order": 0,
       "prev": null,
       "next": "valka_s_mloky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Válka s mloky",
+      "title": "Předmluva",
       "file": "valka_s_mloky_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "valka_s_mloky_002.html",
+      "prev": "promo.html",
       "next": "valka_s_mloky_006.html",
       "toc": [
         {
@@ -54,11 +86,11 @@
       ]
     },
     {
-      "title": "Kniha\nprvní\nAndrias Scheuchzeri • Válka s mloky",
+      "title": "Kniha první Andrias Scheuchzeri",
       "file": "valka_s_mloky_006.html",
       "words": 4,
-      "chars": 29,
-      "ideas": 3,
+      "chars": 31,
+      "ideas": 1,
       "role": "chapter",
       "order": 2,
       "prev": "valka_s_mloky_005.html",
@@ -67,18 +99,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kniha\nprvní\nAndrias Scheuchzeri",
+          "name": "Kniha první Andrias Scheuchzeri",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n1.\nPodivínství kapitána Van Tocha • Válka s mloky",
+      "title": "Kapitola 1. Podivínství kapitána Van Tocha",
       "file": "valka_s_mloky_007.html",
       "words": 3667,
-      "chars": 21544,
-      "ideas": 91,
+      "chars": 21546,
+      "ideas": 89,
       "role": "chapter",
       "order": 3,
       "prev": "valka_s_mloky_006.html",
@@ -87,18 +119,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n1.\nPodivínství kapitána Van Tocha",
+          "name": "Kapitola 1. Podivínství kapitána Van Tocha",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n2.\nPan Golombek[4]\na pan Valenta[5] • Válka s mloky",
+      "title": "Kapitola 2. Pan Golombek[4] a pan Valenta[5]",
       "file": "valka_s_mloky_008.html",
       "words": 1884,
-      "chars": 10746,
-      "ideas": 121,
+      "chars": 10749,
+      "ideas": 118,
       "role": "chapter",
       "order": 4,
       "prev": "valka_s_mloky_007.html",
@@ -107,18 +139,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n2.\nPan Golombek[4]\na pan Valenta[5]",
+          "name": "Kapitola 2. Pan Golombek[4] a pan Valenta[5]",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n3.\nG. H. Bondy a jeho krajan • Válka s mloky",
+      "title": "Kapitola 3. G. H. Bondy a jeho krajan",
       "file": "valka_s_mloky_009.html",
       "words": 3250,
-      "chars": 18368,
-      "ideas": 85,
+      "chars": 18370,
+      "ideas": 83,
       "role": "chapter",
       "order": 5,
       "prev": "valka_s_mloky_008.html",
@@ -127,18 +159,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n3.\nG. H. Bondy a jeho krajan",
+          "name": "Kapitola 3. G. H. Bondy a jeho krajan",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n4.\nObchodní podnik kapitána Van Tocha • Válka s mloky",
+      "title": "Kapitola 4. Obchodní podnik kapitána Van Tocha",
       "file": "valka_s_mloky_010.html",
       "words": 2010,
-      "chars": 11128,
-      "ideas": 47,
+      "chars": 11130,
+      "ideas": 45,
       "role": "chapter",
       "order": 6,
       "prev": "valka_s_mloky_009.html",
@@ -147,18 +179,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n4.\nObchodní podnik kapitána Van Tocha",
+          "name": "Kapitola 4. Obchodní podnik kapitána Van Tocha",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n5.\nKapitán J. Van Toch a jeho cvičení ještěři • Válka s mloky",
+      "title": "Kapitola 5. Kapitán J. Van Toch a jeho cvičení ještěři",
       "file": "valka_s_mloky_011.html",
       "words": 1624,
-      "chars": 9008,
-      "ideas": 54,
+      "chars": 9010,
+      "ideas": 52,
       "role": "chapter",
       "order": 7,
       "prev": "valka_s_mloky_010.html",
@@ -167,18 +199,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n5.\nKapitán J. Van Toch a jeho cvičení ještěři",
+          "name": "Kapitola 5. Kapitán J. Van Toch a jeho cvičení ještěři",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n6.\nJachta na laguně • Válka s mloky",
+      "title": "Kapitola 6. Jachta na laguně",
       "file": "valka_s_mloky_012.html",
       "words": 3523,
-      "chars": 19813,
-      "ideas": 138,
+      "chars": 19815,
+      "ideas": 136,
       "role": "chapter",
       "order": 8,
       "prev": "valka_s_mloky_011.html",
@@ -187,18 +219,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n6.\nJachta na laguně",
+          "name": "Kapitola 6. Jachta na laguně",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n7.\nPokračování jachty na laguně • Válka s mloky",
+      "title": "Kapitola 7. Pokračování jachty na laguně",
       "file": "valka_s_mloky_013.html",
       "words": 2582,
-      "chars": 15521,
-      "ideas": 109,
+      "chars": 15523,
+      "ideas": 107,
       "role": "chapter",
       "order": 9,
       "prev": "valka_s_mloky_012.html",
@@ -207,18 +239,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n7.\nPokračování jachty na laguně",
+          "name": "Kapitola 7. Pokračování jachty na laguně",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n8.\nAndrias Schuechzeri • Válka s mloky",
+      "title": "Kapitola 8. Andrias Schuechzeri",
       "file": "valka_s_mloky_014.html",
       "words": 1432,
-      "chars": 9658,
-      "ideas": 16,
+      "chars": 9660,
+      "ideas": 14,
       "role": "chapter",
       "order": 10,
       "prev": "valka_s_mloky_013.html",
@@ -227,18 +259,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n8.\nAndrias Schuechzeri",
+          "name": "Kapitola 8. Andrias Schuechzeri",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n9.\nAndrew Scheuchzer • Válka s mloky",
+      "title": "Kapitola 9. Andrew Scheuchzer",
       "file": "valka_s_mloky_015.html",
       "words": 1638,
-      "chars": 10225,
-      "ideas": 134,
+      "chars": 10227,
+      "ideas": 132,
       "role": "chapter",
       "order": 11,
       "prev": "valka_s_mloky_014.html",
@@ -247,18 +279,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n9.\nAndrew Scheuchzer",
+          "name": "Kapitola 9. Andrew Scheuchzer",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n10.\nPosvícení v Novém Strašecí • Válka s mloky",
+      "title": "Kapitola 10. Posvícení v Novém Strašecí",
       "file": "valka_s_mloky_016.html",
       "words": 1143,
-      "chars": 6953,
-      "ideas": 58,
+      "chars": 6955,
+      "ideas": 56,
       "role": "chapter",
       "order": 12,
       "prev": "valka_s_mloky_015.html",
@@ -267,18 +299,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n10.\nPosvícení v Novém Strašecí",
+          "name": "Kapitola 10. Posvícení v Novém Strašecí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n11.\nO Lidogešterkách • Válka s mloky",
+      "title": "Kapitola 11. O Lidogešterkách",
       "file": "valka_s_mloky_017.html",
       "words": 1525,
-      "chars": 9595,
-      "ideas": 19,
+      "chars": 9597,
+      "ideas": 17,
       "role": "chapter",
       "order": 13,
       "prev": "valka_s_mloky_016.html",
@@ -287,18 +319,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n11.\nO Lidogešterkách",
+          "name": "Kapitola 11. O Lidogešterkách",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n12.\nSalamander-Syndicate • Válka s mloky",
+      "title": "Kapitola 12. Salamander-Syndicate",
       "file": "valka_s_mloky_018.html",
       "words": 4961,
-      "chars": 32173,
-      "ideas": 68,
+      "chars": 32175,
+      "ideas": 66,
       "role": "chapter",
       "order": 14,
       "prev": "valka_s_mloky_017.html",
@@ -307,18 +339,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n12.\nSalamander-Syndicate",
+          "name": "Kapitola 12. Salamander-Syndicate",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kniha\ndruhá\nPo stupních civilizace • Válka s mloky",
+      "title": "Kniha druhá Po stupních civilizace",
       "file": "valka_s_mloky_019.html",
       "words": 5,
-      "chars": 32,
-      "ideas": 3,
+      "chars": 34,
+      "ideas": 1,
       "role": "chapter",
       "order": 15,
       "prev": "valka_s_mloky_018.html",
@@ -327,18 +359,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kniha\ndruhá\nPo stupních civilizace",
+          "name": "Kniha druhá Po stupních civilizace",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n1.\nPan Povondra čte noviny • Válka s mloky",
+      "title": "Kapitola 1. Pan Povondra čte noviny",
       "file": "valka_s_mloky_020.html",
       "words": 1150,
-      "chars": 6981,
-      "ideas": 23,
+      "chars": 6983,
+      "ideas": 21,
       "role": "chapter",
       "order": 16,
       "prev": "valka_s_mloky_019.html",
@@ -347,18 +379,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n1.\nPan Povondra čte noviny",
+          "name": "Kapitola 1. Pan Povondra čte noviny",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n2.\nPo stupních civilizace (Dějiny Mloků)1 • Válka s mloky",
+      "title": "Kapitola 2. Po stupních civilizace (Dějiny Mloků)1",
       "file": "valka_s_mloky_021.html",
       "words": 16411,
-      "chars": 105805,
-      "ideas": 256,
+      "chars": 105807,
+      "ideas": 254,
       "role": "chapter",
       "order": 17,
       "prev": "valka_s_mloky_020.html",
@@ -367,18 +399,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n2.\nPo stupních civilizace (Dějiny Mloků)1",
+          "name": "Kapitola 2. Po stupních civilizace (Dějiny Mloků)1",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n3.\nPan Povondra čte opět noviny • Válka s mloky",
+      "title": "Kapitola 3. Pan Povondra čte opět noviny",
       "file": "valka_s_mloky_022.html",
       "words": 948,
-      "chars": 5607,
-      "ideas": 37,
+      "chars": 5609,
+      "ideas": 35,
       "role": "chapter",
       "order": 18,
       "prev": "valka_s_mloky_021.html",
@@ -387,18 +419,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n3.\nPan Povondra čte opět noviny",
+          "name": "Kapitola 3. Pan Povondra čte opět noviny",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kniha\ntřetí\nVálka s mloky • Válka s mloky",
+      "title": "Kniha třetí Válka s mloky",
       "file": "valka_s_mloky_023.html",
       "words": 5,
-      "chars": 23,
-      "ideas": 3,
+      "chars": 25,
+      "ideas": 1,
       "role": "chapter",
       "order": 19,
       "prev": "valka_s_mloky_022.html",
@@ -407,18 +439,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kniha\ntřetí\nVálka s mloky",
+          "name": "Kniha třetí Válka s mloky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n1.\nMasakr na Ostrovech kokosových • Válka s mloky",
+      "title": "Kapitola 1. Masakr na Ostrovech kokosových",
       "file": "valka_s_mloky_024.html",
       "words": 1653,
-      "chars": 10068,
-      "ideas": 23,
+      "chars": 10070,
+      "ideas": 21,
       "role": "chapter",
       "order": 20,
       "prev": "valka_s_mloky_023.html",
@@ -427,18 +459,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n1.\nMasakr na Ostrovech kokosových",
+          "name": "Kapitola 1. Masakr na Ostrovech kokosových",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n2.\nSrážka v Normandii • Válka s mloky",
+      "title": "Kapitola 2. Srážka v Normandii",
       "file": "valka_s_mloky_025.html",
       "words": 1252,
-      "chars": 8257,
-      "ideas": 12,
+      "chars": 8259,
+      "ideas": 10,
       "role": "chapter",
       "order": 21,
       "prev": "valka_s_mloky_024.html",
@@ -447,18 +479,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n2.\nSrážka v Normandii",
+          "name": "Kapitola 2. Srážka v Normandii",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n3.\nIncident v La Manche • Válka s mloky",
+      "title": "Kapitola 3. Incident v La Manche",
       "file": "valka_s_mloky_026.html",
       "words": 1038,
-      "chars": 6815,
-      "ideas": 12,
+      "chars": 6817,
+      "ideas": 10,
       "role": "chapter",
       "order": 22,
       "prev": "valka_s_mloky_025.html",
@@ -467,18 +499,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n3.\nIncident v La Manche",
+          "name": "Kapitola 3. Incident v La Manche",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n4.\nDer Nordmloch • Válka s mloky",
+      "title": "Kapitola 4. Der Nordmloch",
       "file": "valka_s_mloky_027.html",
       "words": 1273,
-      "chars": 8373,
-      "ideas": 13,
+      "chars": 8375,
+      "ideas": 11,
       "role": "chapter",
       "order": 23,
       "prev": "valka_s_mloky_026.html",
@@ -487,18 +519,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n4.\nDer Nordmloch",
+          "name": "Kapitola 4. Der Nordmloch",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n5.\nWolf Meynert píše své dílo • Válka s mloky",
+      "title": "Kapitola 5. Wolf Meynert píše své dílo",
       "file": "valka_s_mloky_028.html",
       "words": 1454,
-      "chars": 9222,
-      "ideas": 11,
+      "chars": 9224,
+      "ideas": 9,
       "role": "chapter",
       "order": 24,
       "prev": "valka_s_mloky_027.html",
@@ -507,18 +539,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n5.\nWolf Meynert píše své dílo",
+          "name": "Kapitola 5. Wolf Meynert píše své dílo",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n6.\nX varuje • Válka s mloky",
+      "title": "Kapitola 6. X varuje",
       "file": "valka_s_mloky_029.html",
       "words": 2021,
-      "chars": 12807,
-      "ideas": 18,
+      "chars": 12809,
+      "ideas": 16,
       "role": "chapter",
       "order": 25,
       "prev": "valka_s_mloky_028.html",
@@ -527,18 +559,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n6.\nX varuje",
+          "name": "Kapitola 6. X varuje",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n7.\nZemětřesení v Louisianě • Válka s mloky",
+      "title": "Kapitola 7. Zemětřesení v Louisianě",
       "file": "valka_s_mloky_030.html",
       "words": 1266,
-      "chars": 8127,
-      "ideas": 19,
+      "chars": 8129,
+      "ideas": 17,
       "role": "chapter",
       "order": 26,
       "prev": "valka_s_mloky_029.html",
@@ -547,18 +579,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n7.\nZemětřesení v Louisianě",
+          "name": "Kapitola 7. Zemětřesení v Louisianě",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n8.\nChief Salamander klade požadavky • Válka s mloky",
+      "title": "Kapitola 8. Chief Salamander klade požadavky",
       "file": "valka_s_mloky_031.html",
       "words": 1230,
-      "chars": 8227,
-      "ideas": 13,
+      "chars": 8229,
+      "ideas": 11,
       "role": "chapter",
       "order": 27,
       "prev": "valka_s_mloky_030.html",
@@ -567,18 +599,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n8.\nChief Salamander klade požadavky",
+          "name": "Kapitola 8. Chief Salamander klade požadavky",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n9.\nKonference ve Vaduzu • Válka s mloky",
+      "title": "Kapitola 9. Konference ve Vaduzu",
       "file": "valka_s_mloky_032.html",
       "words": 2587,
-      "chars": 16738,
-      "ideas": 37,
+      "chars": 16740,
+      "ideas": 35,
       "role": "chapter",
       "order": 28,
       "prev": "valka_s_mloky_031.html",
@@ -587,18 +619,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n9.\nKonference ve Vaduzu",
+          "name": "Kapitola 9. Konference ve Vaduzu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n10.\nPan Povondra to bere na sebe • Válka s mloky",
+      "title": "Kapitola 10. Pan Povondra to bere na sebe",
       "file": "valka_s_mloky_033.html",
       "words": 2173,
-      "chars": 12021,
-      "ideas": 72,
+      "chars": 12023,
+      "ideas": 70,
       "role": "chapter",
       "order": 29,
       "prev": "valka_s_mloky_032.html",
@@ -607,18 +639,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n10.\nPan Povondra to bere na sebe",
+          "name": "Kapitola 10. Pan Povondra to bere na sebe",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola\n11.\nAutor mluví sám se sebou • Válka s mloky",
+      "title": "Kapitola 11. Autor mluví sám se sebou",
       "file": "valka_s_mloky_034.html",
       "words": 1833,
-      "chars": 10723,
-      "ideas": 69,
+      "chars": 10725,
+      "ideas": 67,
       "role": "chapter",
       "order": 30,
       "prev": "valka_s_mloky_033.html",
@@ -627,14 +659,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola\n11.\nAutor mluví sám se sebou",
+          "name": "Kapitola 11. Autor mluví sám se sebou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ediční poznámka • Válka s mloky",
+      "title": "Ediční poznámka",
       "file": "valka_s_mloky_035.html",
       "words": 77,
       "chars": 606,
@@ -654,11 +686,11 @@
       ]
     },
     {
-      "title": "Život a doba spisovatele\nKarla Čapka v datech • Válka s mloky",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "valka_s_mloky_036.html",
       "words": 293,
-      "chars": 2025,
-      "ideas": 32,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 32,
       "prev": "valka_s_mloky_035.html",
@@ -667,18 +699,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka • Válka s mloky",
+      "title": "První vydání knih Karla Čapka",
       "file": "valka_s_mloky_037.html",
       "words": 233,
-      "chars": 1154,
-      "ideas": 68,
+      "chars": 1155,
+      "ideas": 67,
       "role": "chapter",
       "order": 33,
       "prev": "valka_s_mloky_036.html",
@@ -687,14 +719,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Karla Čapka",
+          "name": "První vydání knih Karla Čapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Válka s mloky",
+      "title": "Poznámky pod čarou",
       "file": "valka_s_mloky_038.html",
       "words": 576,
       "chars": 3596,
@@ -714,11 +746,11 @@
       ]
     },
     {
-      "title": "Tiráž • Válka s mloky",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 138,
-      "chars": 892,
-      "ideas": 23,
+      "words": 108,
+      "chars": 704,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "valka_s_mloky_038.html",
@@ -736,14 +768,14 @@
   ],
   "totals": {
     "all": {
-      "words": 67007,
-      "chars": 413826,
-      "ideas": 1762
+      "words": 66977,
+      "chars": 413699,
+      "ideas": 1692
     },
     "chapters": {
       "words": 66862,
-      "chars": 412899,
-      "ideas": 1735
+      "chars": 412960,
+      "ideas": 1674
     }
   }
 }

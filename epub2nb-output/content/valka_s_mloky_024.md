@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  1.
-  Masakr na Ostrovech kokosových
+title: Kapitola 1\. Masakr na Ostrovech kokosových
+contentType: prose
 ---
 
 V jedné věci se pan Povondra mýlil: přestřelka u města Kankesanturai nebyla první srážkou mezi lidmi a Mloky. K prvnímu historicky známému konfliktu došlo několik let předtím na Kokosových ostrovech ještě za zlatého věku pirátských výprav na Salamandry; ale ani to nebyl nejstarší incident toho druhu, a v tichomořských přístavech se dost povídalo o jistých politováníhodných případech, kdy Mloci kladli jakýs takýs činný odpor dokonce i normálnímu S-Trade; ovšem o takových lapáliích se v dějinách nepíše.

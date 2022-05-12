@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  2.
-  Srážka v Normandii
+title: Kapitola 2\. Srážka v Normandii
+contentType: prose
 ---
 
 Jiného rázu byla srážka v Normandii, k níž došlo o něco později. Tam si Mloci, pracující hlavně v Cherbourgu a obývající okolní pobřeží, nesmírně oblíbili jablka; ale protože jejich zaměstnavatelé jim je nechtěli dodávat vedle obvyklé mločí stravy (prý by to zvýšilo stavební náklady nad stanovený rozpočet), podnikali Mloci zlodějské výpravy do blízkých ovocných sadů. Sedláci si na to stěžovali na prefektuře a Mloci dostali přísný zákaz potloukat se po břehu mimo takzvané mločí pásmo, ale nic to nepomohlo; ovoce se v sadech ztrácelo stále, ztrácela se prý i vejce v posadách a čím dál tím víc hlídacích psů bylo každého rána nalézáno ubitých. Tu tedy počali sedláci hlídat své sady sami, ozbrojeni starými puškami, a odstřelovali pytlačící Mloky. Koneckonců to by bylo zůstalo jen lokální záležitostí; ale normandští sedláci, roztrpčení mimo jiné také tím, že byly zvýšeny daně a že podražilo střelivo, pojali vůči Mlokům smrtelnou zášť a podnikali proti nim nájezdy celými ozbrojenými tlupami. Když houfně odstřelovali Mloky i v jejich pracovištích, stěžovali si u prefekta zase podnikatelé vodních staveb, a prefekt nařídil, aby byly sedlákům zabaveny jejich zrezavělé bouchačky. Sedláci se tomu ovšem bránili a docházelo k nemilým konfliktům se žendarmerií; tvrdohlaví Normanďané kromě Mloků počali odstřelovat také četníky. Do Normandie byly staženy četnické posily a prohledávaly vesnice dům od domu.

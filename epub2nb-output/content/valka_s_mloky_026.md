@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  3.
-  Incident v La Manche
+title: Kapitola 3\. Incident v La Manche
+contentType: prose
 ---
 
 O něco málo později plula belgická dopravní loď Oudenbourg z Ostende do Ramsgate. Když byla uprostřed Calaiské úžiny, pozoroval důstojník konající službu, že se půl míle na jih od obvyklého kurzu „něco ve vodě děje“; protože nemohl rozeznat, netone-li tam někdo, kázal plout k tomu silně rozčeřenému místu. Na dvě stě pasažérů přihlíželo z návětrné strany lodi podivnému divadlu: tu a tam vyšplíchla voda kolmým výtryskem, tu a tam se z ní vymrštilo něco jako černé tělo; přitom mořská hladina se v průměru asi tří set metrů divoce zmítala a vřela a bylo slyšet z hlubiny prudký rachot nebo hukot. „Bylo to, jako by pod vodou soptil nějaký menší vulkán.“ Když se Oudenbourg pomalu přiblížila k tomu místu, vyrazila náhle asi deset metrů od přídě ohromná strmá vlna a zaduněl strašný výbuch. Celá loď se prudce nadzvedla a na palubu se snesl déšť vody skoro vařící; zároveň s ní plesklo na přídu silné černé tělo, které se svíjelo a vyráželo ječivý skřek; byl to přeražený a opařený Mlok. Velící důstojník nařídil dát zpětnou páru, aby loď nevjela rovnou do středu toho vybuchujícího pekla; ale zatím to začalo explodovat na všech stranách a hladina moře byla poseta kusy roztrhaných Mloků. Konečně se podařilo loď obrátit a Oudenbourg plnou parou prchala k severu. Tu zaburácel děsný výbuch asi šest set metrů za jejím týlem a z moře vyrazil obrovský, snad sto metrů vysoký sloup vody a páry. Oudenbourg zamířila k Harwich a vysílala na všechny strany bezdrátovou výstrahu: „Pozor, pozor, pozor! Na linii Ostende – Ramsgate veliké nebezpečí podmořských explozí. Nevíme, co to je. Radíme všem lodím vyhnout se!“ Zatím trvalo dunění a burácení, skoro jako když jsou námořní manévry; ale nebylo nic vidět pro vystřikující vodu a páru. To už z Doveru i z Calais vyplouvaly plnou parou torpédovky a destroyery[\[48\]](./resources/undefined) a hnaly se flotily vojenských letadel k tomu místu; ale když tam dorazily, našly jenom hladinu zkalenou žlutým bahnem a pokrytou leklými rybami a roztrhanými Mloky.

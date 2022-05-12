@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  7.
-  Pokračování jachty na laguně
+title: Kapitola 7\. Pokračování jachty na laguně
+contentType: prose
 ---
 
 Toho večera nebylo na jachtě Gloria Pickford osobních sporů; jenom vědecké názory se hlučně rozcházely. Fred (loajálně podporovaný Abem) soudil, že to určitě museli být nějací ještěři, kdežto kapitán hádal na savce. V moři žádní ještěři nejsou, tvrdil kapitán horkokrevně; ale mladí páni z univerzity na jeho námitky nedali; ještěři jsou jaksi větší senzace. Drahoušek Li se spokojil s tím, že to byli tritoni, že byli prostě rozkošní a vůbec že to byl takový úspěch; a Li (v modře proužkovaném pyžama, které se Abeovi tak líbilo) snila se zářícíma očima o perlách a mořských bozích. Judy byla ovšem přesvědčena, že to všechno je švanda a humbuk a že si to Li s Abem vymysleli, a mrkala zuřivě na Freda, aby toho už nechal. Abe si myslel, že by se Li mohla zmínit o tom, jak on, Abe, šel bez bázně mezi ty ještěry pro její koupací plášť; proto třikrát vypravoval, jak jim Li ohromně čelila, zatímco on, Abe, odstrkoval člun do vody, a právě to začínal líčit počtvrté; ale Fred a kapitán vůbec neposlouchali, vášnivě se hádajíce o ještěry a savce. (Jako by na tom tak moc záleželo, co to bylo, myslel si Abe.) Konečně Judy zívla a řekla, že jde spat; podívala se významně na Freda, ale Fred si právě vzpomněl, že před potopou světa žili takoví staří legrační ještěři, jak se hrome jmenovali, diplosauři, bigosauři nebo tak nějak, a ti se procházeli po zadních nohách, pane; Fred to sám viděl na jednom legračním učeném obrázku, pane, v takhle tlusté knize. Ohromná kniha, pane, tu byste měl znát.
