@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  12.
-  Salamander-Syndicate
+title: Kapitola 12\. Salamander-Syndicate
+contentType: prose
 ---
 
 Předseda G. H. Bondy zazvonil a povstal.

@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  3.
-  Pan Povondra čte opět noviny
+title: Kapitola 3\. Pan Povondra čte opět noviny
+contentType: prose
 ---
 
 Na ničem není tak vidět běh času jako na dětech. Kde je malý Frantík, jehož jsme opustili (jak nedávno je tomu!) nad přítoky Dunaje z levého břehu?

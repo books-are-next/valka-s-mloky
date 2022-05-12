@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  7.
-  Zemětřesení v Louisianě
+title: Kapitola 7\. Zemětřesení v Louisianě
+contentType: prose
 ---
 
 Toho dne – bylo to 11. listopadu o jedné hodině ranní – byl pocítěn v New Orleans prudký otřes země; několik baráků v černošských čtvrtích se sesulo; lidé v panice vybíhali na ulice, ale otřesy už se neopakovaly; jenom zavál zběsilým nárazem hučící, krátký cyklon, který rozbil okna a smetl střechy v nigerských uličkách; několik desítek lidí bylo zabito; nato se snesl prudký liják bahna.

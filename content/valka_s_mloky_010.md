@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  4.
-  Obchodní podnik kapitána Van Tocha
+title: Kapitola 4\. Obchodní podnik kapitána Van Tocha
+contentType: prose
 ---
 
 Když kapitán van Toch toto vypravoval, zježily se mu vlasy v týle úchvatem a vzrušením.

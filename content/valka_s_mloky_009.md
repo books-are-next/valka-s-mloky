@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  3.
-  G. H. Bondy a jeho krajan
+title: Kapitola 3\. G\. H\. Bondy a jeho krajan
+contentType: prose
 ---
 
 Jak známo, čím větší pán, tím míň toho má napsáno na tabulce u svých dveří. Takový starý pan Max Bondy v Jevíčku musel mít nad krámem, po stranách dveří i na oknech velkými písmeny vymalováno, že tu je Max Bondy, obchod všeho druhu střižným zbožím, výbavy pro nevěsty, véby, ručníky, utěrky, ubrusy a povlaky, kartouny a grádly, Ia sukna, hedvábí, záclony, lambrekýny[\[7\]](./resources/undefined), pozamentérie[\[8\]](./resources/undefined) a veškeré šicí potřeby. Založeno roku 1885. – Jeho syn, G. H. Bondy, kapitán průmyslu, prezident společnosti MEAS, komerční rada, burzovní rada, místopředseda Svazu průmyslníků, Consulado de la República Ecuador, člen mnoha správních rad atd. atd., má na svém domě už jenom malou černou skleněnou tabulku se zlatým nápisem

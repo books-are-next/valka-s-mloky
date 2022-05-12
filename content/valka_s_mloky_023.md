@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kniha
-  třetí
-  Válka s mloky
+title: Kniha třetí Válka s mloky
+contentType: prose
 ---
 
 

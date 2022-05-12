@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  9.
-  Andrew Scheuchzer
+title: Kapitola 9\. Andrew Scheuchzer
+contentType: prose
 ---
 
 I stalo se jednoho čtvrtku, kdy londýnské zoo bylo obecenstvu uzavřeno, že pan Thomas Greggs, hlídač v pavilonu ještěrů, čistil nádrže a terária svých svěřenců. Byl sám a sám v oddílu mloků, kde byl vystaven velemlok japonský, americký hellbendr, Andrias Scheuchzeri a množství drobných čolků, mločíků, axolotlů, ouhoříků, surýnů a macarátů, žebrovníků i žábronošů. Pan Greggs se oháněl hadrem a koštětem, pískaje si Annie Laurie; a najednou někdo za ním skřehotavě povídá:

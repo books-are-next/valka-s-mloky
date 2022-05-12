@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  5.
-  Kapitán J. Van Toch a jeho cvičení ještěři
+title: Kapitola 5\. Kapitán J\. Van Toch a jeho cvičení ještěři
+contentType: prose
 ---
 
 „Ať se propadnu,“ řekl člověk v Marseille, „není-li tohle Jensen.“

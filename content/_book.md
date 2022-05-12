@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Válka s mloky
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - valka_s_mloky_002.html
+  - promo.html
   - valka_s_mloky_005.html
   - valka_s_mloky_006.html
   - valka_s_mloky_007.html

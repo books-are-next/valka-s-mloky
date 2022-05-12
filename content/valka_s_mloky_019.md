@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kniha
-  druhá
-  Po stupních civilizace
+title: Kniha druhá Po stupních civilizace
+contentType: prose
 ---
 
 

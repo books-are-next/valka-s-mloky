@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  4.
-  Der Nordmloch
+title: Kapitola 4\. Der Nordmloch
+contentType: prose
 ---
 
 Nemnoho let po osazení prvních mločích kolonií v Severním a Baltském moři zjistil německý badatel dr. Hans Thüring, že baltský Mlok vykazuje – patrně vlivem prostředí – některé odlišné tělesné vlastnosti; tak prý je o něco světlejší, kráčí vzpřímeněji a jeho lebeční index svědčí o lebce delší a užší, než je hlava jiných Mloků. Tato varieta dostala jméno der Nordmolch čili der Edelmolch (Andrias Scheuchzeri var. nobilis erecta Thüring).

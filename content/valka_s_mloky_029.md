@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  6.
-  X varuje
+title: Kapitola 6\. X varuje
+contentType: prose
 ---
 
 Snad i to byl následek prorocké knihy Meynertovy, že literární a umělecká avantgarda v kulturních centrech vyhlásila devízu: Po nás ať přijdou Salamandři! Budoucnost náleží Mlokům. Mloci, toť kulturní revoluce. Ať nemají svého umění: aspoň nejsou zatíženi idiotskými ideály, zaschlými tradicemi a celou tou ztyřelou, nudnou, školometskou veteší, které se říkalo poezie, hudba, architektura, filozofie a vůbec kultura, – senilní slova, při nichž se nám obrací žaludek. Tím lépe, že dosud nepropadli přežvykování přežilého lidského umění: my jim uděláme nové. My mladí razíme cestu budoucímu světovému salamandrismu: my chceme být prvními Mloky, my jsme Salamandři zítřka! A tak se zrodilo mladé básnické hnutí salamandriánů, vznikla tritonská (třítónová) hudba a pelagické malířství, které se inspirovalo tvarovým světem medúz, mořských láčkovců a korálů. Krom toho bylo objeveno regulační dílo Mloků jako nový zdroj krásy a monumentality. Už máme po krk přírody, volalo se; sem s hladkými betonovými břehy místo starých rozervaných útesů! Romantika je mrtva; budoucí pevniny budou obrýsovány čistými přímkami a předělány na sférické trojúhelníky a kosočtverce; starý geologický svět musí být nahrazen geometrickým. Zkrátka bylo tu zase jednou něco nového a budoucího, nové duchovní senzace a nové kulturní manifesty; ti pak, kdo opomenuli včas nastoupit cestu příštího salamandrismu, cítili s hořkostí, že propásli svou dobu, a mstili se za to tím, že hlásali čisté lidství, návrat k člověku a k přírodě a jiná reakcionářská hesla. Ve Vídni byl vypískán koncert tritonské hudby, v pařížském Salonu Nezávislých rozřezal neznámý pachatel pelagický obraz nazvaný Capriccio en bleu; prostě salamandrismus byl na vítězném a nezadržitelném postupu.

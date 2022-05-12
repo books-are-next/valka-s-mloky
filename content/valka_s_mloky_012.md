@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  6.
-  Jachta na laguně
+title: Kapitola 6\. Jachta na laguně
+contentType: prose
 ---
 
 Mr Abe Loeb mhouřil oči do zapadajícího slunce; chtěl by nějak vyslovit, jak je to krásné, ale jeho drahoušek Li, alias Miss Lily Valley, vlastním jménem slečna Lilian Nowak, zkrátka zlatovlasá Li, White Lily, ta nohatá Lilian a jak se jí ještě do jejích sedmnácti let říkalo, spala na teplém písku, zachumlána do huňatého koupacího pláště a stočena jako spící pes. Proto neřekl Abe nic o kráse světa a jenom vzdychl, hýbaje prsty na bosých nohou, neboť měl mezi nimi zrnka písku. Tamhle na moři leží jachta jménem Gloria Pickford; tu jachtu dostal Abe od papa Loeba za to, že udělal zkoušky na univerzitě. Papa Loeb je pašák. Jesse Loeb, filmový magnát a tak dále. Abe, pozvi si pár přátel nebo přítelkyň a hleď poznat kus světa, řekl starý pán. Papa Jesse je ohromný pašák. Tamhle tedy leží na perleťové hladině Gloria Pickford a tady v teplém písku spí drahoušek Li. Abe vzdychl štěstím. Spí jako malé dítě, chudinka. Mr Abe pocítil nesmírnou touhu ji nějak chránit. Vlastně bych se s ní měl opravdu oženit, myslí si mladý pan Loeb a cítí přitom v srdci krásný a mučivý tlak, složený z pevného odhodlání a strachu. Mamma Loeb s tím asi nebude souhlasit a papa Loeb rozhodí rukama: Ty jsi blázen, Abe. Prostě rodiče to nemohou pochopit, to je to celé. A Mr Abe, vzdychaje něhou, přikryl cípem koupacího pláště běloučký kotník drahouška Li. To je hloupé, myslel si rozpačitě, že mám tak děsně chlupaté nohy!

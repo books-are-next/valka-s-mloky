@@ -1,8 +1,6 @@
 ---
-title: |-
-  Kapitola
-  2.
-  Po stupních civilizace (Dějiny Mloků)1
+title: Kapitola 2\. Po stupních civilizace (Dějiny Mloků)1
+contentType: prose
 ---
 
 V dějinné epoše, kterou ohlásil G. H. Bondy na památné valné hromadě Pacifické Exportní Společnosti svými prorockými slovy o počínající se utopii2, nemůžeme už měřit historické dění staletími ani desítkami let, jako se dálo v dosavadních dějinách světa, nýbrž čtvrtletími, ve kterých vycházejí kvartální hospodářské statistiky.3
