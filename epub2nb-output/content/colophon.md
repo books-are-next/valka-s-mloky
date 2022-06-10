@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Karel Čapek**  
 **Válka s mloky**  
 Edice Bratři Čapkové  
@@ -9,11 +10,8 @@ Obálka Alena Kubíková
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Válka s mloky](https://search.mlp.cz/cz/titul/valka-s-mloky/8353/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1981. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 

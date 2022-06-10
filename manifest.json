@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-valka-s-mloky-5e1f704",
-  "revision": "5e1f704",
+  "identifier": "capek-valka-s-mloky-ed9f854",
+  "revision": "ed9f854",
   "readingOrder": [
     "promo.html",
     "valka_s_mloky_005.html",
@@ -49,8 +49,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:38:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351881025
+    "date": "Fri Jun 10 2022 17:57:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883847612
   },
   "documents": [
     {
@@ -748,9 +748,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 108,
-      "chars": 704,
-      "ideas": 14,
+      "words": 45,
+      "chars": 324,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "valka_s_mloky_038.html",
@@ -768,9 +768,9 @@
   ],
   "totals": {
     "all": {
-      "words": 66977,
-      "chars": 413699,
-      "ideas": 1692
+      "words": 66914,
+      "chars": 413319,
+      "ideas": 1683
     },
     "chapters": {
       "words": 66862,

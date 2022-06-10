@@ -3,6 +3,8 @@ title: Kapitola 5\. Kapitán J\. Van Toch a jeho cvičení ještěři
 contentType: prose
 ---
 
+<section>
+
 „Ať se propadnu,“ řekl člověk v Marseille, „není-li tohle Jensen.“
 
 Švéd Jensen zvedl oči. „Počkej,“ řekl, „a nemluv, pokud tě nenajdu.“ Položil si ruku na čelo. „Sea-gull, ne. Empress of India, ne. Pernambuco, ne. Už to mám. Vancouver. Před pěti roky na Vancouver, Osaka-Line, Frisco. A jmenuješ se Dingle, ty rošťáku, a jsi Irčan.“
@@ -106,3 +108,5 @@ A pan Dingle pomalu, vyplazuje námahou jazyk a slině tužku, psal:
 „Přece ty, ty vole,“ řekl Švéd samozřejmě. „To je proto, aby člověk nezapomněl, že dostal peníze.“
 
 Těch dvanáct franků pan Dingle propil v Havru a mimoto místo do Irska jel do Džibuti; zkrátka ta mše sloužena nebyla, následkem čehož do přirozeného průběhu věcí nezasáhla žádná vyšší moc.
+
+</section>

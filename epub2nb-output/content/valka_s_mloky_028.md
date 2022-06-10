@@ -3,6 +3,8 @@ title: Kapitola 5\. Wolf Meynert píše své dílo
 contentType: prose
 ---
 
+<section>
+
 Snad to byly právě zmíněné velkolepé a tragické západy slunce, které inspirovaly samotářského královeckého filozofa Wolfa Meynerta k sepsání jeho monumentálního díla Untergang der Menschheit[\[53\]](./resources/undefined). Můžeme si ho živě představit, jak putuje po mořském pobřeží, prostovlasý a ve vlajícím plášti, a zírá uchvácenýma očima do té záplavy ohně a krve, zažíhající víc než polovinu oblohy. „Ano,“ šeptá u vytržení, „ano, je už načase psát doslov k dějinám člověka!“ A napsal jej.
 
 Dohrává se tragédie lidského rodu, začal Wolf Meynert. Ať nás nemate jeho horečná podnikavost a technický blahobyt; to je jen hektická červeň na tváři organismu už poznamenaného smrtí. Nikdy lidstvo neprocházelo tak vysokou životní konjunkturou jako dnes; ale najděte mi jednoho člověka, který by byl šťasten; ukažte mi třídu, která by byla spokojena, nebo národ, který by se necítil ohrožen ve svém bytí. Uprostřed všech darů civilizace, v krésovském bohatství duchovních i hmotných statků se nás všech víc a víc zmocňuje neodbytný pocit nejistoty, tísně a nepohodlí. A Wolf Meynert neúprosně analyzoval duševní stav dnešního světa, tuto směsici strachu a nenávisti, nedůvěry a megalomanie, cynismu a malomyslnosti: jedním slovem desperace, uzavřel Wolf Meynert krátce. Typické příznaky konce. Morální agonie.
@@ -18,3 +20,5 @@ Dnes žije na celé zeměkouli asi dvacet miliard civilizovaných Mloků, čili 
 Není pochyby, že mločí svět bude šťastnější, než býval svět lidí; bude jednotný, homogenní a ovládaný stejným duchem. Mlok se nebude od Mloka lišit řečí, názory, vírou ani životními nároky. Nebude mezi nimi kulturních ani třídních rozdílů, nýbrž jen dělba práce. Nikdo nebude pánem ani otrokem, neboť všichni budou sloužit jenom Velikému Mločímu Celku, jenž bude bohem, vládcem, zaměstnavatelem i duchovním vůdcem. Bude jen jeden národ a jen jedna úroveň. Bude to lepší a dokonalejší svět, než býval náš. Bude to jediný možný Šťastný Nový Svět. Nuže, udělejme mu místo; nic jiného už zhasínající lidstvo vykonat nemůže než urychlit svůj konec – v tragické kráse, pokud i na to nebude pozdě. –
 
 Podáváme zde názory Wolfa Meynerta ve formě pokud možno přístupné; jsme si vědomi, že tím ztrácejí mnoho na své působivosti a hloubce, jimiž svého času fascinovaly celou Evropu a zejména mládež, která s nadšením přijímala víru v úpadek a nastávající konec lidstva. Říšská vláda sice zakázala učení Velikého Pesimisty pro některé politické důsledky a Wolf Meynert se musil uchýlit do Švýcar; nicméně celý vzdělaný svět si přisvojil s uspokojením Meynertovu teorii o zániku lidstva; kniha (o 632 stranách) vyšla ve všech jazycích světa a byla v mnoha milionech rozšířena i mezi Mloky.
+
+</section>

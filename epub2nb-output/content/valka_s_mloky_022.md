@@ -3,6 +3,8 @@ title: Kapitola 3\. Pan Povondra čte opět noviny
 contentType: prose
 ---
 
+<section>
+
 Na ničem není tak vidět běh času jako na dětech. Kde je malý Frantík, jehož jsme opustili (jak nedávno je tomu!) nad přítoky Dunaje z levého břehu?
 
 „Kde zase je ten Frantík?“ bručí pan Povondra otvíraje své večerní noviny.
@@ -70,3 +72,5 @@ Paní Povondrová sevřela rty a rychlými stehy dokončovala vyhlazení ostrova
 „Třeba se ti Mloci jenom bránili,“ chlácholila paní Povondrová a odložila punčochy.
 
 „Právě,“ bručel pan Povondra znepokojeně. „Jak se ty potvory jednou začnou bránit, tak bude zle. To je poprvé, co to udělali… Kruci, to nerad vidím!“ Pan Povondra se váhavě zastavil. „Já nevím, ale… snad jsem přece jen neměl toho kapitána k panu Bondymu pouštět!“
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 3\. G\. H\. Bondy a jeho krajan
 contentType: prose
 ---
 
+<section>
+
 Jak známo, čím větší pán, tím míň toho má napsáno na tabulce u svých dveří. Takový starý pan Max Bondy v Jevíčku musel mít nad krámem, po stranách dveří i na oknech velkými písmeny vymalováno, že tu je Max Bondy, obchod všeho druhu střižným zbožím, výbavy pro nevěsty, véby, ručníky, utěrky, ubrusy a povlaky, kartouny a grádly, Ia sukna, hedvábí, záclony, lambrekýny[\[7\]](./resources/undefined), pozamentérie[\[8\]](./resources/undefined) a veškeré šicí potřeby. Založeno roku 1885. – Jeho syn, G. H. Bondy, kapitán průmyslu, prezident společnosti MEAS, komerční rada, burzovní rada, místopředseda Svazu průmyslníků, Consulado de la República Ecuador, člen mnoha správních rad atd. atd., má na svém domě už jenom malou černou skleněnou tabulku se zlatým nápisem
 
 * * *
@@ -170,3 +172,5 @@ Pan Bondy pokývl na znamení souhlasu.
 „Jako u vidění,“ napověděl pan Bondy.
 
 „Ja, richtik. Jako u vidění. Tož to mně tak vrtalo hlavou, že jsem tam s tou mou lodí zůstal ležet ještě jeden den. A večer zas do toho Devil Bay a zas jsem se koukal, jak ty sharks žerou ty my ještěrky. Tu noc jsem přisahal, chlapce, že to tak nenechám. Taky jim jsem dal svy čestny slovo, pane Bondy. Tapa-boys, Captain J. van Toch vám tady pod tema strašnejma hvězdama slibuje, že vám pomože.“
+
+</section>
