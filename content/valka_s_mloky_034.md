@@ -3,6 +3,8 @@ title: Kapitola 11\. Autor mluví sám se sebou
 contentType: prose
 ---
 
+<section>
+
 „Ty to takhle necháš?“ ozval se na tomto místě autorův vnitřní hlas.
 
 Co totiž? ptal se pisatel poněkud nejistě.
@@ -134,3 +136,5 @@ Lidé? Ah pravda, lidé. Nu, ti se začnou pomalu vracet z hor na břehy toho, c
 „A potom?“
 
 – – – Dál už to nevím.
+
+</section>

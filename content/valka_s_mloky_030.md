@@ -3,6 +3,8 @@ title: Kapitola 7\. Zemětřesení v Louisianě
 contentType: prose
 ---
 
+<section>
+
 Toho dne – bylo to 11. listopadu o jedné hodině ranní – byl pocítěn v New Orleans prudký otřes země; několik baráků v černošských čtvrtích se sesulo; lidé v panice vybíhali na ulice, ale otřesy už se neopakovaly; jenom zavál zběsilým nárazem hučící, krátký cyklon, který rozbil okna a smetl střechy v nigerských uličkách; několik desítek lidí bylo zabito; nato se snesl prudký liják bahna.
 
 Zatímco orleánští hasiči vyjížděli na pomoc do nejhůř postižených ulic, odklepávaly telegramy z Morgan City, Plaquemine, Baton Rouge a Lafayette: SOS! Vyšlete záchranné kolony! Jsme napolo smeteni zemětřesením a cykloónem; hráze Mississippi hrozí prolomením; vypravte ihned zákopníky, ambulance a všechny muže schopné práce! – Z Fort Livingston došla jen lakonická otázka: Haló, máte tam taky nadělení? – Nato došla depeše z Lafayette: Pozor! Pozor! Nejhůř postižena New Iberia. Zdá se, že přerušeno spojení mezi Iberií a Morgan City. Pošlete tam pomoc! – Vzápětí telefonuje Morgan City: Nemáme spojení s New Iberií. Je asi přerušena silnice a trať. Pošlete lodi a letadla do Vermillion Bay! My už nic nepotřebujeme. Máme asi třicet mrtvých a sto raněných. – Nato dochází telegram z Baton Rouge: Máme zprávu, že nejhůř New Iberia. Starejte se hlavně New Iberia. Sem jenom dělníky, ale rychle, nebo nám prasknou hráze. Děláme, co můžeme. – Nato: Hallo, hallo, Shreveport, Natchitoches, Alexandria posílají pomocné vlaky do New Iberie. Hallo, hallo, Memphis, Winana, Jackson posílají vlaky via Orleans. Všechna auta vezou lidi směr hráze Baton Rouge. – Hallo, tady Pascagoula. Máme několik mrtvých. Potřebujete pomoc?
@@ -34,3 +36,5 @@ Zatímco Brownellovy vyhlídky na geologické katastrofy běžely rotačkami nov
 LITUJEME ZTRÁT NA LIDSKÝCH ŽIVOTECH STOP HLEDĚLI JSME SE VYHNOUT VAŠIM MĚSTŮM AVŠAK NEPOČÍTALI JSME S ODRAZEM A NÁRAZEM MOŘSKÉ VODY PŘI VÝBUCHU STOP ZJISTILI JSME TŘI STA ČTYŘICET ŠEST LIDSKÝCH OBĚTÍ NA CELÉM POBŘEŽÍ STOP VYSLOVUJEME SOUSTRAST STOP CHIEF SALAMANDER STOP HALÓ HALÓ TADY FRED DALTON POŠTOVNÍ STANICE FORT JACKSON PRÁVĚ ODTUD ODEŠLI TŘI MLOCI PŘIŠLI PŘED DESETI MINUTAMI NA POŠTU PODALI TELEGRAM NAMÍŘILI NA MNE PISTOLEMI ALE UŽ JSOU PRYČ ŠEREDNÉ POTVORY ZAPLATILI A BĚŽELI DO VODY HONIL JE JENOM LÉKÁRNÍKŮV PES NEMĚLI BY CHODIT PO MĚSTĚ JINAK NIC NOVÉHO POZDRAVUJTE MINNII LACOSTOVOU ŽE JI LÍBÁM TELEGRAFISTA FRED DALTON
 
 Guvernér státu Louisiana kroutil nad tímto telegramem dlouho hlavou. Nějaký šprýmař, ten Fred Dalton, řekl si posléze. Raději to ani nedáme do novin.
+
+</section>

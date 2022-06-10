@@ -3,6 +3,8 @@ title: Kapitola 10\. Posvícení v Novém Strašecí
 contentType: prose
 ---
 
+<section>
+
 Pan Povondra, vrátný domu Bondyova, trávil dovolenou tentokrát ve svém rodném městě. Nazítří mělo být posvícení; a když pan Povondra vyšel ven, veda za ruku svého osmiletého Frantíka, vonělo celé Nové Strašecí koláči a přes ulici se míhaly ženy a dívky nesoucí syrové koláče k pekaři. Na náměstí už postavili své stánky dva cukráři, jeden kramář se sklem a porculánem a jedna povykující paní, prodávající střižní zboží všeho druhu. A pak tam byla plátěná bouda ze všech stran zakrytá plachtami. Nějaký drobný muž, stojící na žebříčku, zrovna připevňoval nahoru nápis.
 
 Pan Povondra se zastavil, aby viděl, co to bude.
@@ -116,3 +118,5 @@ Pan Povondra táhl vyjeveného Frantíka ven. „Rukulíbám,“ zaskřehotalo t
 „Tak co, Frantíku,“ ptal se pan Povondra, když byli venku. „Poučil ses?“
 
 „Poučil,“ řekl Frantík. „Tati, proč má ta paní červené punčochy?“
+
+</section>

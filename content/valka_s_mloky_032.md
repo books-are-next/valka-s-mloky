@@ -3,6 +3,8 @@ title: Kapitola 9\. Konference ve Vaduzu
 contentType: prose
 ---
 
+<section>
+
 Byla to podivná válka, lze-li to vůbec nazvat válkou; neboť nebylo žádného mločího státu ani uznané mločí vlády, které by se mohlo oficiálně opovědět nepřátelství. První stát, který se octl ve válečném stavu se Salamandry, byla Velká Británie. Hned v prvních hodinách potopili Mloci skoro všechny její koráby kotvící v přístavech; tomu se nedalo nijak čelit. Toliko lodi na širém moři byly pro tu chvíli v poměrném bezpečí, hlavně pokud křižovaly nad většími hlubinami; tím se zachránila část válečného loďstva britského, která prorazila mločí blokádu na Maltě a soustředila se nad hlubinou jónskou; ale i tyto jednotky byly záhy vyhledávány malými mločími ponorkami a potápěny jedna po druhé. Do šesti neděl ztratila Velká Británie čtyři pětiny své veškeré lodní tonáže.
 
 John Bull zase jednou v dějinách mohl ukázat svou proslulou tvrdošíjnost. Vláda Jeho Veličenstva s Mloky nejednala a zákaz dodávek neodvolala. „Britský gentleman,“ prohlásil anglický premiér za celý národ, „zvířata chrání, ale nevyjednává s nimi.“ Už po několika týdnech se projevil na britských ostrovech zoufalý nedostatek potravin. Jenom děti dostávaly krajíček chleba a několik lžic čaje nebo mléka denně; britský národ to nesl s bezpříkladnou statečností, i když klesl tak hluboko, že snědl všechny své závodní koně. Waleský princ vlastní rukou vyoral první brázdu na hřišti Royal Golf Clubu, aby tam byla pěstována mrkev pro londýnské sirotčince. Na tenisových kurtech ve Wimbledonu byly nasázeny brambory, na závodišti v Ascott byla naseta pšenice. „Přineseme všechny, i ty největší oběti,“ ujistil v parlamentě vůdce konzervativní strany, „ale britské cti se nevzdáme.“
@@ -70,3 +72,5 @@ Profesor van Dott sebou netrpělivě zavrtěl a zvedl ruku. „Pane předsedo, s
 V tu chvíli naslouchali noční amatéři mločímu rozhlasu. „Právě jste slyšeli z gramofonové desky barkarolu z Hoffmannových povídek[\[59\]](./resources/undefined),“ skřehotal hlasatel. „Hallo, hallo, nyní přepínáme na italské Benátsko.“
 
 A potom bylo slyšet jenom černé a nesmírné šumění jakoby stoupajících vod.
+
+</section>

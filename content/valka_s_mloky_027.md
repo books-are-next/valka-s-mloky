@@ -3,6 +3,8 @@ title: Kapitola 4\. Der Nordmloch
 contentType: prose
 ---
 
+<section>
+
 Nemnoho let po osazení prvních mločích kolonií v Severním a Baltském moři zjistil německý badatel dr. Hans Thüring, že baltský Mlok vykazuje – patrně vlivem prostředí – některé odlišné tělesné vlastnosti; tak prý je o něco světlejší, kráčí vzpřímeněji a jeho lebeční index svědčí o lebce delší a užší, než je hlava jiných Mloků. Tato varieta dostala jméno der Nordmolch čili der Edelmolch (Andrias Scheuchzeri var. nobilis erecta Thüring).
 
 Nato se i německý tisk počal horlivě obírat baltským Mlokem. Zvláštní váha se kladla na to, že právě vlivem německého prostředí se tento Mlok vyvinul v odlišný a vyšší rasový typus, nesporně nadřaděný všem jiným Salamandrům. S opovržením se psalo o degenerovaných Mlocích mediteránních, zakrnělých tělesně i mravně, o divošských Mlocích tropických a vůbec o nízkých, barbarských a zvířecích Salamandrech jiných národů. Od Velemloka k německému Nadmloku, tak znělo okřídlené slovo té doby. Což nebyl prapůvod všech novodobých Mloků na půdě německé? Nestála jejich kolébka u Öhningen, kde německý učenec dr. Johannes Jakob Scheuchzer našel jejich nádhernou stopu už v miocénu? Není tudíž nejmenší pochybnosti, že původní Andrias Scheuchzeri se zrodil před geologickými věky na půdě germánské; rozptýlil-li se potom do jiných moří a pásem, doplatil na to svým vývojovým sestupem a degenerací; jakmile se však usadil opět na půdě své pravlasti, stává se znovu tím, čím byl původně: ušlechtilým nordickým Mlokem Scheuchzerovým, světlým, vzpřímeným a dlouholebým. Tudíž jen na německé půdě se mohou Mloci vrátit k svému čistému a nejvyššímu typu, jak jej našel veliký Johannes Jakob Scheuchzer na otisku v lomech öhningenských. Proto Německo potřebuje nových a delších břehů, potřebuje kolonií, potřebuje světových moří, aby se všude v německých vodách mohly vyvinout nové generace rasově čistých, prapůvodních německých Salamandrů. Potřebujeme nového prostoru pro své Mloky, psaly německé noviny; a aby ta skutečnost byla německému národu stále na očích, byl v Berlíně postaven velkolepý pomník Johanna Jakoba Scheuchzera. Veliký doktor byl tu zobrazen s tlustou knihou v ruce; u jeho nohou sedí vztyčeně ušlechtilý nordický Mlok, zírající do dálky, na nedozírná pobřeží světového oceánu.
@@ -22,3 +24,5 @@ Tato výstraha brilantního francouzského publicisty vzbudila v Anglii ohromné
 Moře, jež zalilo rozmetaný kus pobřeží, dostalo potom název Scheuchzer-See a bylo cílem nesčetných školních výletů a výprav německých dítek, pějících oblíbenou mločí hymnu:
 
 SOLCHE ERFOLCHE ERREICHEN NUR DEUTSCHE MOLCHE.[\[52\]](./resources/undefined)
+
+</section>

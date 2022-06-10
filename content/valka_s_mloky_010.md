@@ -3,6 +3,8 @@ title: Kapitola 4\. Obchodní podnik kapitána Van Tocha
 contentType: prose
 ---
 
+<section>
+
 Když kapitán van Toch toto vypravoval, zježily se mu vlasy v týle úchvatem a vzrušením.
 
 „Ja, pane, to teda jsem přisahal. Od ty doby, chlapče, jsem neměl chvílu pokoje. V Padang jsem vzal svy prázdniny a poslal jsem tem židům v Amsterdam sto padesát sedum perel, všecko, co mně ty my zvířátka donesly. Potom jsem našel takovyho jednoho chlapa, on to byl Dajak a shark-killer, co zabíjí ty žraloky nožem ve vodě. Hrozné zloděj a vrah, ten Dajak. A s ním po takovy maly tramp-lodi zpátky na Tana Masa, a teď, fella, tu budeš tym svym nožem zabíjet ty žraloky. Já chcel, aby tam ty sharks vybil, aby dali pokoj mým ještěrkům. On byl takové vrah a pohan, ten Dajak, že si nic nedělal ani z těch tapa-boys. Čert nečert, jemu to bylo jedno. A já jsem zatím dělal na těch lizards svy observations a experiments, – tož počkat, já o tom mám takovou lodní knihu, do ktery jsem to každé den psal.“ Kapitán vytáhl z náprsní kapsy objemný notes, ve kterém počal listovat.
@@ -90,3 +92,5 @@ Captain van Toch pochopil, jak mnoho takové slovo znamená. Zrudl radostí a vy
 „Co?“
 
 „Sakra, jak oni se jmenovali.“ Kapitán van Toch mrkal zamyšleně blankytnýma očima. „Já mám takovou hloupou hlavu, člověče. Já už nevím, jak se ty dva boys vlastně jmenovali.“
+
+</section>

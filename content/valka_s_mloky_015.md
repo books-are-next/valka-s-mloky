@@ -3,6 +3,8 @@ title: Kapitola 9\. Andrew Scheuchzer
 contentType: prose
 ---
 
+<section>
+
 I stalo se jednoho čtvrtku, kdy londýnské zoo bylo obecenstvu uzavřeno, že pan Thomas Greggs, hlídač v pavilonu ještěrů, čistil nádrže a terária svých svěřenců. Byl sám a sám v oddílu mloků, kde byl vystaven velemlok japonský, americký hellbendr, Andrias Scheuchzeri a množství drobných čolků, mločíků, axolotlů, ouhoříků, surýnů a macarátů, žebrovníků i žábronošů. Pan Greggs se oháněl hadrem a koštětem, pískaje si Annie Laurie; a najednou někdo za ním skřehotavě povídá:
 
 „Koukej, mami.“
@@ -264,3 +266,5 @@ _2\. Týž mlok dovede číst, ale jenom večerníky novin. Zajímá se o tyté�
 _3\. Jeho inteligenci není naprosto třeba přeceňovat, neboť v žádném ohledu nepřekračuje inteligenci průměrného člověka našich dnů._
 
 Přes tento střízlivý úsudek odborníků se Mluvící Mlok stal senzací londýnské zoo. Miláček Andy byl obležen lidmi, kteří s ním chtěli zapříst hovor o všem možném, počínajíc počasím a končíc hospodářskou krizí a politickou situací. Přitom dostával od svých návštěvníků tolik čokolády a bonbonů, že těžce ochuravěl žaludečním a střevním katarem. Oddělení mloků muselo být konečně zavřeno, ale bylo už pozdě; Andrias Scheuchzeri, řečený Andy, zašel na následky své popularity. Jak vidět, demoralizuje sláva i mloky.
+
+</section>

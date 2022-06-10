@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Dubbeltje – drobná holandská mince. _Pozn. red_.
 
 [\[2\]](./resources/undefined) Kampong – malajská vesnice s tržištěm. _Pozn. red_.
@@ -122,3 +124,5 @@ contentType: prose
 [\[59\]](./resources/undefined) Árie z opery J. Offenbacha Hoffmannovy povídky, pův. píseň benátských gondoliérů. _Pozn. red_.
 
 [\[60\]](./resources/undefined) Kris – dýka s vlnkovitým ostřím. _Pozn. red_.
+
+</section>

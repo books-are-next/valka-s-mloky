@@ -3,6 +3,8 @@ title: Kapitola 2\. Po stupních civilizace (Dějiny Mloků)1
 contentType: prose
 ---
 
+<section>
+
 V dějinné epoše, kterou ohlásil G. H. Bondy na památné valné hromadě Pacifické Exportní Společnosti svými prorockými slovy o počínající se utopii2, nemůžeme už měřit historické dění staletími ani desítkami let, jako se dálo v dosavadních dějinách světa, nýbrž čtvrtletími, ve kterých vycházejí kvartální hospodářské statistiky.3
 
 * * *
@@ -607,3 +609,5 @@ Věru že nic; neboť nyní bude Obchod s Mloky korunován i státnickou prozír
 Většina těchto návrhů byla odkázána na příští konferenci námořních mocností, která se však z různých příčin už nekonala.
 
 „Tímto mezinárodním aktem,“ napsal v Le Temps M. Jules Sauerstoff, „je zajištěna budoucnost Mloků a pokojný vývoj lidstva na dlouhé desítky let. Blahopřejeme londýnské konferenci k zdárnému ukončení jejích obtížných porad; blahopřejeme také Mlokům k tomu, že daným statutem se jim dostává ochrany haagského soudu; nyní se mohou s klidem a důvěrou věnovat své práci a svému podmořskému pokroku. Budiž zdůrazněno, že odpolitizování Mločího Problému, které došlo výrazu v Londýnské konvenci, je jednou z nejdůležitějších záruk světového míru; zejména odzbrojení Salamandrů zmenšuje pravděpodobnost podmořských konfliktů mezi jednotlivými státy. Fakt je, že – i když trvají tak četné hraniční i mocenské rozpory na všech skoro kontinentech – nehrozí světovému míru žádné aktuální nebezpečí aspoň ze strany mořské. Ale i na suché zemi se zdá být nyní mír lépe zajištěn, než býval kdy jindy; námořní státy jsou plně zaměstnány budováním nových břehů a mohou rozšiřovat svá území do světového moře, místo aby se snažily posunout své hranice na souši. Už nebude nutno bojovat železem a plynem o každou píď půdy; stačí prosté motyky a lopaty Mloků, aby si každý stát postavil tolik teritoria, kolik potřebuje; a tuto pokojnou mločí práci pro mír a blahobyt všech národů zaručuje právě Londýnská konvence. Ještě nikdy nebyl svět tak blízek trvalému míru a pokojnému sice, ale slavnému rozkvětu jako právě nyní. Místo Mločího Problému, o kterém se toho už tolik namluvilo a napsalo, bude se nyní snad právem mluvit o Zlatém Mločím Věku.“
+
+</section>

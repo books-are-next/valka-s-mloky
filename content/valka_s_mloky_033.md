@@ -3,6 +3,8 @@ title: Kapitola 10\. Pan Povondra to bere na sebe
 contentType: prose
 ---
 
+<section>
+
 Kdo by byl řekl, že uplynulo tolik vody a let! Vždyť ani náš pan Povondra už není vrátným v domě G. H. Bondyho; je to nyní, abychom tak řekli, velebný stařec, který může v klidu požívat plodů svého dlouhého a přičinlivého života v podobě malé penzičky; ale kam by stačilo těch pár stovek při téhle válečné drahotě! Ještě že sem tam člověk chytí nějakou tu rybku; sedí ve člunu s prutem v ruce a dívá se – co té vody za den uplyne a kde se jí tolik nabere! Někdy se chytne na udičku bělice, někdy je to vokoun; vůbec těch ryb je teď nějak víc, asi proto, že ty řeky jsou dnes o tolik kratší. On takový vokoun taky není špatný; je to sic malá kostička, ale maso chutná drobet po mandlích. A maminka je umí dělat. Pan Povondra ani neví, že maminka zatápí pod jeho vokouny obyčejně těmi výstřižky, které kdysi sbíral a třídil. Pravda, pan Povondra toho sbírání nechal, když šel do penze; zato si pořídil akvárium, kde vedle zlatých kapříků pěstoval maličké čolky a salamandry; po celé hodiny se na ně díval, jak leží nehybně ve vodě nebo vylézají na břeh, který jim udělal z kamenů; potom kroutil hlavou říkaje: „Kdo by to do nich řekl, maminko!“ Ale člověk nevydrží jenom se dívat; proto se pan Povondra dal na rybaření. Co dělat, mužští vždycky musejí něco mít, myslí si shovívavě maminka Povondrová. Je to lepší, než kdyby chodil do hospody a dělal politiku.
 
 Pravda, mnoho, přemnoho té vody uplynulo. Vždyť ani Frantík už není školák učící se zeměpisu ani mládenec trhající své ponožky běháním po světských marnostech. Už je to taky starší pán, ten Frantík; chválabohu, je podúředníkem na poště, – přece jen bylo k něčemu dobré, že se tak svědomitě učil zeměpisu. Taky už začíná mít rozum, myslí si pan Povondra a spouští se se svou lodičkou trochu níž pod most Legií. To on dnes za mnou přijde; je neděle a nemá službu. Vemu ho do člunu a pojedeme nahoru ke špičce Střeleckého ostrova; tam ryby líp berou; a Frantík mně poví, co je v novinách. A pak půjdeme domů, na Vyšehrad, a snacha k nám přivede obě děti – Pan Povondra se chvíli oddával pokojnému blahu dědečka. Však za rok už půjde Mařenka do školy, těší se; a malý Frantík, jako vnouče, už váží třicet kilo – Pan Povondra má silný, hluboký pocit, že všecko je přece jen ve velikém a dobrém pořádku.
@@ -140,3 +142,5 @@ Otec Povondra sebou nepokojně vrtěl: „Všude dřív bývalo moře, a bude za
 „Dědečku, nechcete čaj?“ ptala se soucitně mladá paní Povondrová.
 
 „Já bych jenom chtěl,“ vydechl starý pán, „já bych jenom chtěl, aby mně to ty děti odpustily.“
+
+</section>
