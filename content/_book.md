@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - valka_s_mloky_005.html
