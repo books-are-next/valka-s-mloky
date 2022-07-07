@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-valka-s-mloky-c22a714",
-  "revision": "c22a714",
+  "identifier": "capek-valka-s-mloky-2c4aa9e",
+  "revision": "2c4aa9e",
   "readingOrder": [
     "promo.html",
     "valka_s_mloky_005.html",
@@ -46,11 +46,11 @@
     "valka_s_mloky_036.html",
     "valka_s_mloky_037.html",
     "valka_s_mloky_038.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:31:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980299323
+    "date": "Thu Jul 07 2022 08:41:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183290919
   },
   "documents": [
     {
@@ -139,7 +139,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 2. Pan Golombek[4] a pan Valenta[5]",
+          "name": "Kapitola 2. Pan Golombek[4] a pan Valenta[5]",
           "id": null,
           "children": []
         }
@@ -159,7 +159,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 3. G. H. Bondy a jeho krajan",
+          "name": "Kapitola 3. G. H. Bondy a jeho krajan",
           "id": null,
           "children": []
         }
@@ -199,7 +199,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 5. Kapitán J. Van Toch a jeho cvičení ještěři",
+          "name": "Kapitola 5. Kapitán J. Van Toch a jeho cvičení ještěři",
           "id": null,
           "children": []
         }
@@ -219,7 +219,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 6. Jachta na laguně",
+          "name": "Kapitola 6. Jachta na laguně",
           "id": null,
           "children": []
         }
@@ -239,7 +239,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 7. Pokračování jachty na laguně",
+          "name": "Kapitola 7. Pokračování jachty na laguně",
           "id": null,
           "children": []
         }
@@ -299,7 +299,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 10. Posvícení v Novém Strašecí",
+          "name": "Kapitola 10. Posvícení v Novém Strašecí",
           "id": null,
           "children": []
         }
@@ -319,7 +319,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 11. O Lidogešterkách",
+          "name": "Kapitola 11. O Lidogešterkách",
           "id": null,
           "children": []
         }
@@ -359,7 +359,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kniha druhá Po stupních civilizace",
+          "name": "Kniha druhá Po stupních civilizace",
           "id": null,
           "children": []
         }
@@ -399,7 +399,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 2. Po stupních civilizace (Dějiny Mloků)1",
+          "name": "Kapitola 2. Po stupních civilizace (Dějiny Mloků)1",
           "id": null,
           "children": []
         }
@@ -439,7 +439,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kniha třetí Válka s mloky",
+          "name": "Kniha třetí Válka s mloky",
           "id": null,
           "children": []
         }
@@ -459,7 +459,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 1. Masakr na Ostrovech kokosových",
+          "name": "Kapitola 1. Masakr na Ostrovech kokosových",
           "id": null,
           "children": []
         }
@@ -479,7 +479,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 2. Srážka v Normandii",
+          "name": "Kapitola 2. Srážka v Normandii",
           "id": null,
           "children": []
         }
@@ -499,7 +499,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 3. Incident v La Manche",
+          "name": "Kapitola 3. Incident v La Manche",
           "id": null,
           "children": []
         }
@@ -559,7 +559,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 6. X varuje",
+          "name": "Kapitola 6. X varuje",
           "id": null,
           "children": []
         }
@@ -579,7 +579,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 7. Zemětřesení v Louisianě",
+          "name": "Kapitola 7. Zemětřesení v Louisianě",
           "id": null,
           "children": []
         }
@@ -619,7 +619,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 9. Konference ve Vaduzu",
+          "name": "Kapitola 9. Konference ve Vaduzu",
           "id": null,
           "children": []
         }
@@ -639,7 +639,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 10. Pan Povondra to bere na sebe",
+          "name": "Kapitola 10. Pan Povondra to bere na sebe",
           "id": null,
           "children": []
         }
@@ -659,7 +659,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola 11. Autor mluví sám se sebou",
+          "name": "Kapitola 11. Autor mluví sám se sebou",
           "id": null,
           "children": []
         }
@@ -699,7 +699,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -734,7 +734,7 @@
       "role": "chapter",
       "order": 34,
       "prev": "valka_s_mloky_037.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -747,11 +747,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 863,
+      "chars": 862,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "valka_s_mloky_038.html",
       "next": null,
@@ -768,8 +768,8 @@
   ],
   "totals": {
     "all": {
-      "words": 67001,
-      "chars": 413858,
+      "words": 67000,
+      "chars": 413862,
       "ideas": 1694
     },
     "chapters": {

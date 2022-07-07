@@ -49,7 +49,7 @@ readingOrder:
   - valka_s_mloky_036.html
   - valka_s_mloky_037.html
   - valka_s_mloky_038.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
