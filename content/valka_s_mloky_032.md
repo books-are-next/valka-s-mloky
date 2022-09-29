@@ -31,7 +31,7 @@ V největší rychlosti se konaly všechny přípravy pro přijetí Mloků; byly
 
 Ještě téže noci se konala s mločí delegací první porada. Na pořadu byla otázka, jak by se dal co nejrychleji obnovit mír mezi Mloky a Velkou Británií. K slovu se přihlásil profesor van Dott. Není sporu, řekl, že Mloci byli od Velké Británie napadeni; britská dělová loď Erebus přepadla na širém moři vysílací loď Mloků; britská admiralita po rušila pokojný obchodní styk s Mloky tím, že zabránila lodi Amenhotep vylodit objednaný náklad třaskavin; do třetice pak britská vláda svým zákazem jakýchkoli dodávek zahájila blokádu Salamandrů. Mloci si nemohli na tyto nepřátelské skutky stěžovat ani v Haagu, ježto Londýnská konvence nedala Mlokům právo žaloby, ani v Ženevě, protože nejsou členy Společnosti národů; nezbylo jim tedy než sáhnout k sebeobraně. Přesto je Chief Salamander ochoten zastavit válečné akce, ovšem za těchto podmínek: 1. Velká Británie se Mlokům omluví za výše uvedená příkoří; 2. odvolá všechny zákazy dodávek Mlokům; 3. jako odškodnění postoupí Salamandrům bez náhrady nížinná úvodí v Paňdžábu, aby si tam mohli zřídit nové břehy a mořské zátoky. – Nato předseda konference ohlásil, že podá o těchto podmínkách zprávu svému váženému příteli zástupci Velké Británie, který je právě nepřítomen; netajil se však s obavou, že tyto podmínky budou stěží přijatelné; nicméně lze doufat, že v nich můžeme spatřovat východisko k dalšímu jednání.
 
-Nato přišla na pořad stížnost Francie ve věci senegambského pobřeží, jež Mloci vyhodili do povětří, zasahujíce takto do francouzské koloniální državy. K slovu se přihlásil zástupce Mloků, slavný pařížský advokát dr. Julien Rosso Castelli. Dokažte to, řekl. Světové kapacity v oboru seizmografie vypovídají, že otřes země v Senegambii byl původu vulkanického a že souvisí s dávnou sopečnou činností vulkánu Pico na ostrově Fogo. Zde, zvolal dr. Rosso Castelli, tluka dlaní do svého dossieru[\[58\]](./resources/undefined), jsou jejich vědecká dobrozdání. Máte-li důkazy, že zemětřesení v Senegambii vzniklo činností mých klientů, prosím; čekám na ně.
+Nato přišla na pořad stížnost Francie ve věci senegambského pobřeží, jež Mloci vyhodili do povětří, zasahujíce takto do francouzské koloniální državy. K slovu se přihlásil zástupce Mloků, slavný pařížský advokát dr. Julien Rosso Castelli. Dokažte to, řekl. Světové kapacity v oboru seizmografie vypovídají, že otřes země v Senegambii byl původu vulkanického a že souvisí s dávnou sopečnou činností vulkánu Pico na ostrově Fogo. Zde, zvolal dr. Rosso Castelli, tluka dlaní do svého dossieru[^58], jsou jejich vědecká dobrozdání. Máte-li důkazy, že zemětřesení v Senegambii vzniklo činností mých klientů, prosím; čekám na ně.
 
 **BELGICKÝ DELEGÁT CREUX**: Váš Chief Salamander prohlásil sám, že to udělali Mloci!
 
@@ -69,8 +69,128 @@ Nastalo hrozné ticho, jen čínský delegát mluvil dál.
 
 Profesor van Dott sebou netrpělivě zavrtěl a zvedl ruku. „Pane předsedo, snad bychom se mohli vrátit k věci. Na programu je provincie Föng-tien. Jsme zmocněni nabídnout za ni japonské vládě náhradu ve zlatě. Otázka dále je, co dají interesované státy našim klientům za odklizení Číny.“
 
-V tu chvíli naslouchali noční amatéři mločímu rozhlasu. „Právě jste slyšeli z gramofonové desky barkarolu z Hoffmannových povídek[\[59\]](./resources/undefined),“ skřehotal hlasatel. „Hallo, hallo, nyní přepínáme na italské Benátsko.“
+V tu chvíli naslouchali noční amatéři mločímu rozhlasu. „Právě jste slyšeli z gramofonové desky barkarolu z Hoffmannových povídek[^59],“ skřehotal hlasatel. „Hallo, hallo, nyní přepínáme na italské Benátsko.“
 
 A potom bylo slyšet jenom černé a nesmírné šumění jakoby stoupajících vod.
 
 </section>
+
+[^1]: Dubbeltje – drobná holandská mince. _Pozn. red_.
+
+[^2]: Kampong – malajská vesnice s tržištěm. _Pozn. red_.
+
+[^3]: Toddy – palmové víno. _Pozn. red_.
+
+[^4]: Bedřich Golombek (1901–1961), čes. novinář a prozaik. _Pozn. red_.
+
+[^5]: Edvard Valenta (1901–1978), čes. spisovatel a publicista. _Pozn. red_.
+
+[^6]: Jan Eskymo Welzl (1848–1948), čes. cestovatel, vynálezce a dobrodruh. _Pozn. red_.
+
+[^7]: Lambrekýny (hol.) – závěsy na okna a dveře. _Pozn. red_.
+
+[^8]: Pozamentérie – pásková textilie určená k dekoraci. _Pozn. red_.
+
+[^9]: Bezoár – usazenina v útrobách některých savců považovaná za léčivý prostředek. _Pozn. red_.
+
+[^10]: YMCA – Young Men´s Christian Association, Křesťanské sdružení mladých mužů. _Pozn. red_.
+
+[^11]: Schillerův rytíř – odkaz na baladu _Rukavička_ Friedricha Schillera. _Pozn. red_.
+
+[^12]: Trader Horn – ve své době populární americký film o obchodníkovi Hornovi a jeho cestě do Afriky. _Pozn. red_.
+
+[^13]: Reptilia (lat.) – plazi. _Pozn. red_.
+
+[^14]: Nereidky – mořské víly. _Pozn. red_.
+
+[^15]: Pelagiál – vody osídlené planktonem. _Pozn. red_.
+
+[^16]: „Zázrační“ koně z chovu něm. podnikatele Kralle, kteří údajně uměli počítat a výsledky oznamovali údery kopyt. _Pozn. red_.
+
+[^17]: Mae West – amer. herečka, sex-symbol 30. let. 20. stol. _Pozn. red_.
+
+[^18]: V praxi, v akci. _Pozn. red_.
+
+[^19]: Lemurie – bájný světadíl (podobně jako Atlantida), měl se rozkládat v Indickém oceánu. _Pozn. red_.
+
+[^20]: Zábava, rozptýlení. _Pozn. red_.
+
+[^21]: Využití, zneužití. _Pozn. red_.
+
+[^22]: Pojištění. _Pozn. red_.
+
+[^23]: Živočich pracující, vyrábějící. _Pozn. red_.
+
+[^24]: Mlok a německý národ. _Pozn. red_.
+
+[^25]: Vývoj obojživelníků za fašismu. _Pozn. red_.
+
+[^26]: Trade Unie – zaměstnanecké odbory. _Pozn. red_.
+
+[^27]: Barkasa – člun sloužící zejména pro dopravu mezi kotvící lodí a břehem. _Pozn. red_.
+
+[^28]: Je to podivín. _Pozn. red_.
+
+[^29]: Zpráva o tělesných schopnostech Mloků. _Pozn. red_.
+
+[^30]: Xeróza (řec.) – chorobná suchost. _Pozn. red_.
+
+[^31]: François Coppé (1842–1908), franc. básník. _Pozn. red_.
+
+[^32]: Basic English – jazyk se zásobou 850 slov, který byl vytvořen v roce 1929. _Pozn. red_.
+
+[^33]: Ušlechtilý jazyk latinský. _Pozn. red_.
+
+[^34]: Svět pozemský. _Pozn. red_.
+
+[^35]: Měnový systém založený na dvou drahých kovech, na zlatě a stříbře. _Pozn. red_.
+
+[^36]: Právě tím. _Pozn. red_.
+
+[^37]: Podivuhodná díla boží. _Pozn. red_.
+
+[^38]: Monismus (řec.) – filozofická koncepce, podle níž je základem všeho jediná podstata. _Pozn. red_.
+
+[^39]: Mloci, pryč se Židy! _Pozn. red_.
+
+[^40]: Hej, vy, … co tady hledáte? _Pozn. red_.
+
+[^41]: Starosta a poslanec. _Pozn. red_.
+
+[^42]: Auspicie – výhlídka, naděje. _Pozn. red_.
+
+[^43]: Ženerózní (z franc.) – velkodušný, šlechetný. _Pozn. red_.
+
+[^44]: Chudáček, … on je tak ošklivý! _Pozn. red_.
+
+[^45]: Lac Léman – Ženevské jezero. _Pozn. red_.
+
+[^46]: Mikádo/správně mikado (jap.) – titul jap. císařů. _Pozn. red_.
+
+[^47]: Flibustýrský – pirátský. _Pozn. red_.
+
+[^48]: Torpédoborec. _Pozn. red_.
+
+[^49]: Konflagrace – vzplanutí, vypuknutí (zde války). _Pozn. red_.
+
+[^50]: Kombatant (franc.) – vojín s bojovým posláním. _Pozn. red_.
+
+[^51]: Berta – dělo. _Pozn. red_.
+
+[^52]: Takových úspěchů dosahují jen němečtí mloci. _Pozn. red_.
+
+[^53]: Zánik lidstva. _Pozn. red_.
+
+[^54]: Abyssal/abysál (řec.) – označení pro nejhlubší dno oceánu nebo hlubokých jezer. _Pozn. red_.
+
+[^55]: Mene tekel (aram.) – napomenutí, jímž byl údajně babylonskému králi Balsazarovi předpovězen pád jeho říše; přeneseně výstraha, varování. _Pozn. red_.
+
+[^56]: Mediokrita (lat.) – prostřednost. _Pozn. red_.
+
+[^57]: Wady/vádí (arab.) – vyschlá koryta řek, naplněná vodou jen v určitých ročních obdobích. _Pozn. red_.
+
+[^58]: Dossier – desky na listiny, svazek listin. _Pozn. red_.
+
+[^59]: Árie z opery J. Offenbacha Hoffmannovy povídky, pův. píseň benátských gondoliérů. _Pozn. red_.
+
+[^60]: Kris – dýka s vlnkovitým ostřím. _Pozn. red_.
