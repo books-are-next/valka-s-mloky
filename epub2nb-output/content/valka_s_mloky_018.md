@@ -55,7 +55,7 @@ Nastalo delší trapné ticho. (Jak asi vypadá ten Fanning Island, přemýšlel
 
 G. H. BONDY (vstane): „Vážení pánové, svolali jsme tuto mimořádnou valnou hromadu proto, abychom vás otevřeně upozornili na krajně nepříznivé vyhlídky naší společnosti, která, dovolte mi to připomenout, v minulých letech s hrdostí vykazovala dividendu dvacet až třiadvacet procent vedle dobře fundovaných rezerv a odpisů. Nyní stojíme na rozhraní; způsob podnikání, který se nám osvědčil v minulých letech, je prakticky v koncích; nezbývá nám než hledat nové cesty.“ (Výborně!)
 
-„Řekl bych, je to snad pokyn osudu, že právě v tuto chvíli nám odešel náš výtečný kapitán a přítel J. van Toch. S jeho osobou byl spojen ten romantický, krásný a – řeknu rovnou – poněkud pošetilý obchůdek s perlami. Považuju to za vyřízenou kapitolu našeho podniku; měla své, abych tak řekl, exotické kouzlo, ale nehodila se do moderní doby. Vážení pánové, perly nemohou nikdy být předmětem velkorysého, horizontálně i vertikálně členěného podnikání. Pro mne osobně ta záležitost s perlami byla jen malé divertissement[\[20\]](./resources/undefined) –“ (Nepokoj.) „Ano, pánové; ale divertissement, které vám i mně vynášelo slušné peníze. Mimoto v začátcích našeho podniku měli ti mloci jakýsi, řekl bych, půvab novosti. Tři sta milionů mloků už ten půvab mít nebudou.“ (Smích.)
+„Řekl bych, je to snad pokyn osudu, že právě v tuto chvíli nám odešel náš výtečný kapitán a přítel J. van Toch. S jeho osobou byl spojen ten romantický, krásný a – řeknu rovnou – poněkud pošetilý obchůdek s perlami. Považuju to za vyřízenou kapitolu našeho podniku; měla své, abych tak řekl, exotické kouzlo, ale nehodila se do moderní doby. Vážení pánové, perly nemohou nikdy být předmětem velkorysého, horizontálně i vertikálně členěného podnikání. Pro mne osobně ta záležitost s perlami byla jen malé divertissement[^20] –“ (Nepokoj.) „Ano, pánové; ale divertissement, které vám i mně vynášelo slušné peníze. Mimoto v začátcích našeho podniku měli ti mloci jakýsi, řekl bych, půvab novosti. Tři sta milionů mloků už ten půvab mít nebudou.“ (Smích.)
 
 „Řekl jsem nové cesty. Dokud byl živ můj dobrý přítel kapitán van Toch, bylo vyloučeno pomýšlet na to, dát našemu podniku jiný ráz než ten, který bych nazval stylem kapitána van Tocha.“ (Proč?) „Protože mám příliš mnoho vkusu, pane, abych míchal rozličné slohy. Sloh kapitána van Tocha, to byl, řekl bych, styl dobrodružných románů. To byl styl Jack Londona, Josepha Conrada a jiných. Starý exotický, koloniální, téměř heroický sloh. Nezapírám, že mě svým způsobem okouzloval. Ale po smrti kapitána van Tocha nemáme práva pokračovat v té dobrodružné a juvenilní epice. To, co je před námi, není nová kapitola, nýbrž nová koncepce, pánové, úkol pro novou a podstatně jinou imaginaci.“ Vy o tom mluvíte jako o románu!) „Ano, pane, máte pravdu. Mne obchod zajímá jako umělce. Bez jistého umění, pane, nevymyslíte nikdy nic nového. Musíme být básníky, chceme-li udržet svět v chodu.“ (Potlesk.)
 
@@ -93,9 +93,9 @@ Po přestávce hlásí se o slovo H. BRINKELAER. Vyslovuje své uspokojení nad 
 
 **S. WEISSBERGER** prohlašuje, že je uspokojen ujištěním místopředsedy J. Gilberta. (Potlesk.)
 
-**G. H. BONDY**: „Pánové, vzdejme se předem myšlenky, že bychom v budoucnosti udrželi monopol na mloky. Bohužel podle platných předpisů si je nemůžeme dát patentovat.“ (Smích.) „Své výsadní postavení v obchodu s mloky si musíme a také můžeme zajistit jinak; ovšem nutným předpokladem je, že se svých obchodů chopíme v jiném stylu a v daleko větším měřítku než dosud.“ (Slyšte!) „Zde leží, pánové, celý svazek předběžných dohod. Správní rada navrhuje, aby byl utvořen nový, vertikální trust pod názvem Salamander-Syndicate. Členy Mločího syndikátu by krom naší společnosti byly určité veliké podniky a finančně silné skupiny: například jistý koncern, který bude vyrábět speciální patentované kovové nástroje pro mloky –“ (Myslíte MEAS!) „Ano, pane, mluvím o MEAS. Dále chemický a potravinářský kartel, který bude vyrábět laciné patentované krmivo pro mloky; skupina dopravních společností, která si dá – s použitím dosavadních zkušeností – patentovat zvláštní hygienické tanky pro dopravu mloků; blok pojišťoven, které převezmou pojištění koupených zvířat proti úrazu i uhynutí jak během dopravy, tak na pracovištích; dále jiní zájemci průmysloví, exportní a finanční, které ze závažných důvodů zatím nebudeme jmenovat. Snad vám stačí, pánové, řeknu-li, že by tento syndikát disponoval pro začátek čtyřmi sty miliony liber sterlingů.“ Vzrušení.) „Tady ten fascikl, přátelé, jsou samé smlouvy, které stačí jenom podepsat, aby vznikla jedna z největších hospodářských organizací naší doby. Správní rada vás žádá, pánové, abyste jí udělili plnou moc k uzavření tohoto obrovitého koncernu, jehož úkolem bude racionální pěstování a exploatace[\[21\]](./resources/undefined) mloků.“ (Potlesk a hlasy protestu.)
+**G. H. BONDY**: „Pánové, vzdejme se předem myšlenky, že bychom v budoucnosti udrželi monopol na mloky. Bohužel podle platných předpisů si je nemůžeme dát patentovat.“ (Smích.) „Své výsadní postavení v obchodu s mloky si musíme a také můžeme zajistit jinak; ovšem nutným předpokladem je, že se svých obchodů chopíme v jiném stylu a v daleko větším měřítku než dosud.“ (Slyšte!) „Zde leží, pánové, celý svazek předběžných dohod. Správní rada navrhuje, aby byl utvořen nový, vertikální trust pod názvem Salamander-Syndicate. Členy Mločího syndikátu by krom naší společnosti byly určité veliké podniky a finančně silné skupiny: například jistý koncern, který bude vyrábět speciální patentované kovové nástroje pro mloky –“ (Myslíte MEAS!) „Ano, pane, mluvím o MEAS. Dále chemický a potravinářský kartel, který bude vyrábět laciné patentované krmivo pro mloky; skupina dopravních společností, která si dá – s použitím dosavadních zkušeností – patentovat zvláštní hygienické tanky pro dopravu mloků; blok pojišťoven, které převezmou pojištění koupených zvířat proti úrazu i uhynutí jak během dopravy, tak na pracovištích; dále jiní zájemci průmysloví, exportní a finanční, které ze závažných důvodů zatím nebudeme jmenovat. Snad vám stačí, pánové, řeknu-li, že by tento syndikát disponoval pro začátek čtyřmi sty miliony liber sterlingů.“ Vzrušení.) „Tady ten fascikl, přátelé, jsou samé smlouvy, které stačí jenom podepsat, aby vznikla jedna z největších hospodářských organizací naší doby. Správní rada vás žádá, pánové, abyste jí udělili plnou moc k uzavření tohoto obrovitého koncernu, jehož úkolem bude racionální pěstování a exploatace[^21] mloků.“ (Potlesk a hlasy protestu.)
 
-„Pánové, račte si uvědomit výhody této spolupráce. Mločí syndikát nebude dodávat jenom mloky, ale také veškeré nářadí a krmivo pro mloky, to jest kukuřici, škroboviny, hovězí lůj a cukr pro miliardy přikrmovaných zvířat; dále dopravu, asekuraci[\[22\]](./resources/undefined), veterinární dohled a tak dále vesměs za nejnižší sazby, které nám zaručí ne-li monopol, tedy aspoň naprostou převahu nad každou budoucí konkurencí, která by chtěla mloky prodávat. Ať to někdo zkusí, pánové; s námi dlouho soutěžit nebude.“ (Bravo!) „Ale nejen to. Mločí syndikát bude dodávat veškerý stavební materiál pro vodní práce, které budou mloci provádět; z toho důvodu za námi stojí také těžký průmysl, cement, stavební dříví a kámen –“ (Ještě nevíte, jak budou mloci pracovat!) „Pánové, v tuto chvíli pracuje dvanáct tisíc mloků v přístavu saigonském na nových dokách, bazénech a molech.“ (To jste nám neřekli!) „Ne. Je to první pokus ve velkém. Ten pokus se, pánové, podařil způsobem svrchovaně uspokojivým. Dnes je budoucnost mloků mimo veškeru pochybnost.“ (Nadšený potlesk.)
+„Pánové, račte si uvědomit výhody této spolupráce. Mločí syndikát nebude dodávat jenom mloky, ale také veškeré nářadí a krmivo pro mloky, to jest kukuřici, škroboviny, hovězí lůj a cukr pro miliardy přikrmovaných zvířat; dále dopravu, asekuraci[^22], veterinární dohled a tak dále vesměs za nejnižší sazby, které nám zaručí ne-li monopol, tedy aspoň naprostou převahu nad každou budoucí konkurencí, která by chtěla mloky prodávat. Ať to někdo zkusí, pánové; s námi dlouho soutěžit nebude.“ (Bravo!) „Ale nejen to. Mločí syndikát bude dodávat veškerý stavební materiál pro vodní práce, které budou mloci provádět; z toho důvodu za námi stojí také těžký průmysl, cement, stavební dříví a kámen –“ (Ještě nevíte, jak budou mloci pracovat!) „Pánové, v tuto chvíli pracuje dvanáct tisíc mloků v přístavu saigonském na nových dokách, bazénech a molech.“ (To jste nám neřekli!) „Ne. Je to první pokus ve velkém. Ten pokus se, pánové, podařil způsobem svrchovaně uspokojivým. Dnes je budoucnost mloků mimo veškeru pochybnost.“ (Nadšený potlesk.)
 
 „A nejen to, pánové. Tím nejsou úkoly Mločího syndikátu zdaleka vyčerpány. Salamander-Syndicate bude na celém světě vyhledávat práci pro miliony mloků. Bude dodávat plány a myšlenky na ovládnutí moří. Bude propagovat utopie a gigantické sny. Bude dodávat projekty na nové břehy a průplavy, na hráze spojující kontinenty, na celé řetězy umělých ostrovů pro oceánské lety, na nové pevniny vybudované uprostřed oceánů. Tam leží budoucnost lidstva. Pánové, čtyři pětiny zemského povrchu jsou pokryty mořem; je to nesporně příliš mnoho; povrch našeho světa, mapa moří a zemí se musí opravit. My dáme světu dělníky moře, pánové. To už nebude styl kapitána van Tocha; dobrodružnou povídku o perlách nahradíme hymnickou písní práce. Buď budeme kramařit, nebo budeme tvořit; ale nebudeme-li myslet v kontinentech a oceánech, nestačili jsme na své možnosti. Tady se prosím mluvilo o tom, zač se má prodávat párek mloků. Rád bych, abychom mysleli v celých miliardách mloků, v milionech a milionech pracovních sil, v přesunech kůry zemské, v nových genezích a nových obdobích geologických. Můžeme dnes mluvit o budoucích Atlantidách, o starých pevninách, které se budou rozpínat dál a dál do světového moře, o Nových Světech, které si postaví lidstvo samo – Promiňte, pánové, snad vám to připadá utopické. Ano, vstupujeme skutečně do Utopie. Jsme už v ní, přátelé. Musíme jen domyslet budoucnost mloků po stránce technické –“ (A hospodářské!)
 
@@ -132,6 +132,126 @@ _(Pokusy slečny Kistemaeckers doplnil zajímavými experimenty učený abbé Bo
 
 _V této souvislosti budiž uveden také podivný obřad, takzvaný tanec salamandrů. (Zde není míněn Salamander-Dance, který vešel v těch letech do módy zejména v nejlepší společnosti a byl od biskupa Hirama prohlášen za „nejoplzlejší tanec, o kterém kdy slyšel vypravovat“.) Totiž za úplňkových večerů (mimo dobu rozplozování) vystupovali Andriasové, ale jenom samci, na břeh, usadili se v kruhu a počali zvláštním, vlnivým pohybem kroutit hoření polovinou těla. Byl to pohyb i za jiných okolností charakteristický pro tyto veliké mloky; ale při řečených „tancích“ se mu oddávali divoce, náruživě a do vysílení jako tančící dervišové. Někteří učenci považovali toto šílené kroužení a přešlapování za kult Měsíce, a tedy za obřad náboženský; naproti tomu jiní v něm viděli tanec v podstatě erotický a vysvětlovali jej právě tím zvláštním sexuálním řádem, o němž jsme už mluvili. Řekli jsme, že u Andriase Scheuchzeri je vlastním oplozovatelem takzvané sexuální milieu jako hromadný a neosobní prostředník mezi samčími a samičími jedinci. Bylo také řečeno, že samice přijímají tento neosobní pohlavní vztah daleko realističtěji a samozřejměji nežli samci, kteří – patrně z pudové samčí ješitnosti a dobyvačnosti – chtějí aspoň zachovat zdání pohlavního triumfu, a proto hrají milenecké námluvy a manželské vlastnictví. Je to jedna z největších erotických iluzí, zajímavě korigovaná právě těmi velikými samčími slavnostmi, které prý nejsou nic než instinktivní snaha uvědomit si sebe samy jako Samčí Kolektiv. Tím hromadným tancem se prý překonává ona atavická a nesmyslná iluze samčího pohlavního individualismu; tato kroužící, opojená, frenetická smečka není nic jiného než Hromadný Samec, Kolektivní Ženich a Veliký Kopulátor, jenž provádí svůj slavný snubní tanec a oddává se velkému svatebnímu obřadu – za podivného vyloučení samiček, které zatím netečně mlaskají nad požíranou rybkou nebo sépií. Proslulý Charles J. Powell, jenž tyto mločí slavnosti nazval Tancem Samčího Principu, píše dále: „A nemáme v těchto společných samčích obřadech sám kořen a zdroj podivuhodného mločího kolektivismu? Uvědomme si, že skutečné zvířecí pospolitosti nalézáme jenom tam, kde život a vývoj druhu není vybudován na pohlavním páru: u včel, mravenců a termitů. Pospolitost včel lze vyjádřit slovy: Já Mateřský Úl. Pospolitost mločích oblastí lze vyjádřit docela jinak: My Mužský Princip. Teprve všichni samci dohromady, kteří v danou chvíli ze sebe téměř vypocují plodistvé sexuální prostředí, jsou tím Velikým Samcem, který proniká v lůna samic a štědře zmnožuje život. Jejich paternita je kolektivní; proto jejich celá přirozenost je kolektivní a projevuje se společným konáním, zatímco samičky, zhostivše se kladení vajec, vedou až do příštího jara život víceméně rozptýlený a samotářský. Jenom samci jsou obec. Jenom samci provozují společné úkoly. U žádného živočišného rodu nehrají samice tak podřadnou roli jako u Andriase; jsou vyloučeny z pospolitého konání a také o ně nejeví nejmenšího zájmu. Jejich chvíle nastane, když Mužský Princip prosytí jejich prostředí aciditou chemicky sotva postižitelnou, ale životně tak pronikavou, že působí i při nesmírně silném zředění mořským přílivem a odlivem. Je to, jako by se sám Oceán stával samcem, jenž oplodňuje na svých březích miliony zárodků.“_
 
-_„Přes veškerou kohoutí pýchu,“ pokračuje Charles J. Powell, „příroda udělila u většiny živočišných rodů životní převahu spíše samicím. Samci jsou tu pro svou rozkoš a proto, aby zabíjeli; jsou nadutými a načepýřenými jedinci, kdežto samice představují sám rod v jeho síle a ustálených ctnostech. U Andriase (a částečně u člověka) je poměr podstatně jiný; vytvořením samčí pospolitosti a solidarity nabývá samec zřejmé biologické převahy a určuje vývoj druhu v míře daleko větší než samice. Snad právě pro ten význačně samčí směr vývoje se tak silně uplatňuje u Andriase technické, tedy typicky mužské nadání. Andrias je rozený technik se sklonem k hromadnému podnikání; tyto sekundární mužské pohlavní znaky, totiž technický talent a smysl pro organizaci, se v něm přímo před našima očima rozvíjejí tak rychle a úspěšně, že bychom museli mluvit o přírodním divu, kdybychom nevěděli, jak mohutným životním činitelem jsou právě sexuální determinanty. Andrias Scheuchzeri jest animal faber[\[23\]](./resources/undefined) a v době možná už dohledné překoná technicky i sama člověka, a to vše jenom silou přírodního faktu, že vytvořil čistou samčí pospolitost.“_
+_„Přes veškerou kohoutí pýchu,“ pokračuje Charles J. Powell, „příroda udělila u většiny živočišných rodů životní převahu spíše samicím. Samci jsou tu pro svou rozkoš a proto, aby zabíjeli; jsou nadutými a načepýřenými jedinci, kdežto samice představují sám rod v jeho síle a ustálených ctnostech. U Andriase (a částečně u člověka) je poměr podstatně jiný; vytvořením samčí pospolitosti a solidarity nabývá samec zřejmé biologické převahy a určuje vývoj druhu v míře daleko větší než samice. Snad právě pro ten význačně samčí směr vývoje se tak silně uplatňuje u Andriase technické, tedy typicky mužské nadání. Andrias je rozený technik se sklonem k hromadnému podnikání; tyto sekundární mužské pohlavní znaky, totiž technický talent a smysl pro organizaci, se v něm přímo před našima očima rozvíjejí tak rychle a úspěšně, že bychom museli mluvit o přírodním divu, kdybychom nevěděli, jak mohutným životním činitelem jsou právě sexuální determinanty. Andrias Scheuchzeri jest animal faber[^23] a v době možná už dohledné překoná technicky i sama člověka, a to vše jenom silou přírodního faktu, že vytvořil čistou samčí pospolitost.“_
 
 </section>
+
+[^1]: Dubbeltje – drobná holandská mince. _Pozn. red_.
+
+[^2]: Kampong – malajská vesnice s tržištěm. _Pozn. red_.
+
+[^3]: Toddy – palmové víno. _Pozn. red_.
+
+[^4]: Bedřich Golombek (1901–1961), čes. novinář a prozaik. _Pozn. red_.
+
+[^5]: Edvard Valenta (1901–1978), čes. spisovatel a publicista. _Pozn. red_.
+
+[^6]: Jan Eskymo Welzl (1848–1948), čes. cestovatel, vynálezce a dobrodruh. _Pozn. red_.
+
+[^7]: Lambrekýny (hol.) – závěsy na okna a dveře. _Pozn. red_.
+
+[^8]: Pozamentérie – pásková textilie určená k dekoraci. _Pozn. red_.
+
+[^9]: Bezoár – usazenina v útrobách některých savců považovaná za léčivý prostředek. _Pozn. red_.
+
+[^10]: YMCA – Young Men´s Christian Association, Křesťanské sdružení mladých mužů. _Pozn. red_.
+
+[^11]: Schillerův rytíř – odkaz na baladu _Rukavička_ Friedricha Schillera. _Pozn. red_.
+
+[^12]: Trader Horn – ve své době populární americký film o obchodníkovi Hornovi a jeho cestě do Afriky. _Pozn. red_.
+
+[^13]: Reptilia (lat.) – plazi. _Pozn. red_.
+
+[^14]: Nereidky – mořské víly. _Pozn. red_.
+
+[^15]: Pelagiál – vody osídlené planktonem. _Pozn. red_.
+
+[^16]: „Zázrační“ koně z chovu něm. podnikatele Kralle, kteří údajně uměli počítat a výsledky oznamovali údery kopyt. _Pozn. red_.
+
+[^17]: Mae West – amer. herečka, sex-symbol 30. let. 20. stol. _Pozn. red_.
+
+[^18]: V praxi, v akci. _Pozn. red_.
+
+[^19]: Lemurie – bájný světadíl (podobně jako Atlantida), měl se rozkládat v Indickém oceánu. _Pozn. red_.
+
+[^20]: Zábava, rozptýlení. _Pozn. red_.
+
+[^21]: Využití, zneužití. _Pozn. red_.
+
+[^22]: Pojištění. _Pozn. red_.
+
+[^23]: Živočich pracující, vyrábějící. _Pozn. red_.
+
+[^24]: Mlok a německý národ. _Pozn. red_.
+
+[^25]: Vývoj obojživelníků za fašismu. _Pozn. red_.
+
+[^26]: Trade Unie – zaměstnanecké odbory. _Pozn. red_.
+
+[^27]: Barkasa – člun sloužící zejména pro dopravu mezi kotvící lodí a břehem. _Pozn. red_.
+
+[^28]: Je to podivín. _Pozn. red_.
+
+[^29]: Zpráva o tělesných schopnostech Mloků. _Pozn. red_.
+
+[^30]: Xeróza (řec.) – chorobná suchost. _Pozn. red_.
+
+[^31]: François Coppé (1842–1908), franc. básník. _Pozn. red_.
+
+[^32]: Basic English – jazyk se zásobou 850 slov, který byl vytvořen v roce 1929. _Pozn. red_.
+
+[^33]: Ušlechtilý jazyk latinský. _Pozn. red_.
+
+[^34]: Svět pozemský. _Pozn. red_.
+
+[^35]: Měnový systém založený na dvou drahých kovech, na zlatě a stříbře. _Pozn. red_.
+
+[^36]: Právě tím. _Pozn. red_.
+
+[^37]: Podivuhodná díla boží. _Pozn. red_.
+
+[^38]: Monismus (řec.) – filozofická koncepce, podle níž je základem všeho jediná podstata. _Pozn. red_.
+
+[^39]: Mloci, pryč se Židy! _Pozn. red_.
+
+[^40]: Hej, vy, … co tady hledáte? _Pozn. red_.
+
+[^41]: Starosta a poslanec. _Pozn. red_.
+
+[^42]: Auspicie – výhlídka, naděje. _Pozn. red_.
+
+[^43]: Ženerózní (z franc.) – velkodušný, šlechetný. _Pozn. red_.
+
+[^44]: Chudáček, … on je tak ošklivý! _Pozn. red_.
+
+[^45]: Lac Léman – Ženevské jezero. _Pozn. red_.
+
+[^46]: Mikádo/správně mikado (jap.) – titul jap. císařů. _Pozn. red_.
+
+[^47]: Flibustýrský – pirátský. _Pozn. red_.
+
+[^48]: Torpédoborec. _Pozn. red_.
+
+[^49]: Konflagrace – vzplanutí, vypuknutí (zde války). _Pozn. red_.
+
+[^50]: Kombatant (franc.) – vojín s bojovým posláním. _Pozn. red_.
+
+[^51]: Berta – dělo. _Pozn. red_.
+
+[^52]: Takových úspěchů dosahují jen němečtí mloci. _Pozn. red_.
+
+[^53]: Zánik lidstva. _Pozn. red_.
+
+[^54]: Abyssal/abysál (řec.) – označení pro nejhlubší dno oceánu nebo hlubokých jezer. _Pozn. red_.
+
+[^55]: Mene tekel (aram.) – napomenutí, jímž byl údajně babylonskému králi Balsazarovi předpovězen pád jeho říše; přeneseně výstraha, varování. _Pozn. red_.
+
+[^56]: Mediokrita (lat.) – prostřednost. _Pozn. red_.
+
+[^57]: Wady/vádí (arab.) – vyschlá koryta řek, naplněná vodou jen v určitých ročních obdobích. _Pozn. red_.
+
+[^58]: Dossier – desky na listiny, svazek listin. _Pozn. red_.
+
+[^59]: Árie z opery J. Offenbacha Hoffmannovy povídky, pův. píseň benátských gondoliérů. _Pozn. red_.
+
+[^60]: Kris – dýka s vlnkovitým ostřím. _Pozn. red_.

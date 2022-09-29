@@ -7,7 +7,7 @@ contentType: prose
 
 Kdybyste hledali ostrůvek Tana Masa na mapě, našli byste jej právě na rovníku kousek na západ od Sumatry; ale kdybyste se zeptali na palubě lodi Kandong Bandoeng kapitána J. van Tocha, co to je tahle Tana Masa, před kterou právě zakotvil, nadával by chvíli a pak by vám řekl, že to je ta nejšpinavější díra v celých Sundských ostrovech, ještě mizernější než Tana Bala a přinejmenším tak zatracená jako Pini nebo Banjak; že jediný s odpuštěním člověk, který tam žije – nepočítáme-li ovšem tyhle všivé Bataky –, je opilý obchodní agent, kříženec mezi Kubu a Portugalcem a ještě větší zloděj, pohan a prase než celý Kubu a celý běloch dohromady; a že je-li na světě něco zatraceného, pak je to zatracený život na téhle zatracené Tana Masa, pane. Načež byste se ho patrně zeptali, proč tu tedy spustil ty zatracené kotvy, jako by tu chtěl zůstat zatracené tři dny; i zafuněl by podrážděně a bručel by něco v tom smyslu, že Kandong Bandoeng by sem neplula jenom pro tu zatracenou kopru nebo palmový olej, to dá rozum, a ostatně po tom vám nic není, pane, já mám své zatracené rozkazy, pane, a vy buďte tak laskav, pane, a hleďte si svého. A nadával by tak rozsáhle a hojně, jak se sluší na staršího, ale na svůj věk stále ještě svěžího lodního kapitána.
 
-Ale kdybyste místo všetečných otázek nechali kapitána J. van Tocha, aby si bručel a proklínal pro sebe, mohli byste se dovědět víc. Což není na něm vidět, že si potřebuje ulevit? Jen ho nechte, jeho roztrpčenost si najde cestu sama. „Tak se podívejte, pane,“ vyhrkne kapitán, „ti chlapi u nás v Amsterodamu, ti zatracení židi tam nahoře si vzpomenou, prý perly, člověče, ohlídněte se po nějakých perlách. Prý jsou teď lidi blázni po perlách a vůbec.“ Tu si kapitán rozhořčeně odplivne. „To se ví, ukládat tititi v perlách! To je z toho, že vy lidé pořád chcete nějaké války nebo co. Strach o peníze, to je to celé. A tomu se říká krize, pane.“ Kapitán J. van Toch maličko zaváhá, nemá-li se dát s vámi do řeči o národohospodářských otázkách; dnes se totiž o jiném nemluví. Jenže tady před Tana Masou je na to příliš horko a lenivo; i mávne kapitán van Toch rukou a brumlá: „Ono se řekne, perly! Pane, na Cejloně je mají vybrakované na pět let, na Formose je zakázali lovit – A tož prý, koukejte, kapitáne van Tochu, abyste našel nová loviště. Zajeďte na ty zatracené ostrůvky, třeba se na nich najdou celé lavice škeblí – –“ Kapitán pohrdavě zatroubí do blankytně modrého kapesníku. „Ty krysy v Evropě si představují, že se tady dá ještě něco najít, o čem nikdo neví! Ježíšmarjá, jsou to moulové! Ještě že na mně nechtějí, abych se díval tady těm Batakům do rypáků, nesmrkají-li perly. Nová loviště! V Padangu je nový bordel, to ano, ale nová loviště? Pane, já tady ty všechny ostrovy znám jako své kalhoty… od Cejlonu až po ten zatracený Clipperton Island… Jestli si někdo myslí, že tu ještě něco najde, na čem by se dalo vydělat, tak šťastnou cestu, pane! Třicet let tady jezdím, a teď na mně ti pitomci chtějí, abych tu něco objevil!“ Kapitán van Toch se přímo dusí tímto urážejícím nárokem. „Ať sem pošlou nějakého zelenáče, ten jim toho objeví, že budou mrkat; ale žádat to na někom, kdo to tady zná jako kapitán J. van Toch… To račte uznat, pane. V Evropě, tam by se dalo ještě ledacos objevit; ale tady – Sem přece lidé přijdou jen proto, aby čenichali, co se dá sežrat, a ani sežrat ne: co se dá kupovat a prodávat. Pane, kdyby v celých zatracených tropech bylo ještě něco, co by mělo dubbeltje[\[1\]](./resources/undefined) ceny, tak budou u toho stát tři agenti a mávat usmrkaným kapesníkem na lodi sedmi států, aby zastavily. Tak je to, pane. Já to tu znám líp než koloniální úřad Jejího Veličenstva královny, račte prominout.“ Kapitán van Toch usilovně přemáhá svůj spravedlivý hněv, což se mu po delším burácení podaří. „Vidíte tamhle ty dva mizerné lenochy? To jsou lovci perel z Cejlonu, Bůh mě netrestej, Singhalesové, jak je Hospodin stvořil; ale proč to dělal, to nevím. Tohle teď vozím s sebou, pane, a když někde najdu kousek pobřeží, na kterém není napsáno Agency nebo Baťa nebo Celní úřad, pouštím to do vody, aby to hledalo škeble. Ten menší darebák se potápí až osmdesát metrů hluboko; tuhle na Princových ostrovech vylovil z hloubky devadesáti metrů kliku od kinematografického aparátu, pane, ale perly, kdepak! Ani zdání! Ničemná chamraď, tihle Singhalesové. Tak takovouhle zatracenou práci já mám, pane: dělat, jako bych nakupoval palmový olej, a přitom hledat nová loviště perlorodek. Snad ještě budou chtít, abych objevil nějakou panenskou pevninu, ne? To přece není práce pro poctivého obchodního kapitána, pane. J. van Toch není žádný prokletý dobrodruh, pane. Ne, pane.“ A tak dále; moře je veliké a oceán času nemá hranic; plivej do moře, člověče, a ono se nevzedme, spílej svému osudu, a nepohneš jím; a tak po mnoha přípravách a okolcích jsme konečně u toho, že kapitán holandské lodi Kandong Bandoeng J. van Toch vzdychaje a klna slézá do člunu, aby vystoupil v kampongu[\[2\]](./resources/undefined) na Tana Masa a jednal s opilým křížencem mezi Kubu a Portugalcem o některých obchodních záležitostech.
+Ale kdybyste místo všetečných otázek nechali kapitána J. van Tocha, aby si bručel a proklínal pro sebe, mohli byste se dovědět víc. Což není na něm vidět, že si potřebuje ulevit? Jen ho nechte, jeho roztrpčenost si najde cestu sama. „Tak se podívejte, pane,“ vyhrkne kapitán, „ti chlapi u nás v Amsterodamu, ti zatracení židi tam nahoře si vzpomenou, prý perly, člověče, ohlídněte se po nějakých perlách. Prý jsou teď lidi blázni po perlách a vůbec.“ Tu si kapitán rozhořčeně odplivne. „To se ví, ukládat tititi v perlách! To je z toho, že vy lidé pořád chcete nějaké války nebo co. Strach o peníze, to je to celé. A tomu se říká krize, pane.“ Kapitán J. van Toch maličko zaváhá, nemá-li se dát s vámi do řeči o národohospodářských otázkách; dnes se totiž o jiném nemluví. Jenže tady před Tana Masou je na to příliš horko a lenivo; i mávne kapitán van Toch rukou a brumlá: „Ono se řekne, perly! Pane, na Cejloně je mají vybrakované na pět let, na Formose je zakázali lovit – A tož prý, koukejte, kapitáne van Tochu, abyste našel nová loviště. Zajeďte na ty zatracené ostrůvky, třeba se na nich najdou celé lavice škeblí – –“ Kapitán pohrdavě zatroubí do blankytně modrého kapesníku. „Ty krysy v Evropě si představují, že se tady dá ještě něco najít, o čem nikdo neví! Ježíšmarjá, jsou to moulové! Ještě že na mně nechtějí, abych se díval tady těm Batakům do rypáků, nesmrkají-li perly. Nová loviště! V Padangu je nový bordel, to ano, ale nová loviště? Pane, já tady ty všechny ostrovy znám jako své kalhoty… od Cejlonu až po ten zatracený Clipperton Island… Jestli si někdo myslí, že tu ještě něco najde, na čem by se dalo vydělat, tak šťastnou cestu, pane! Třicet let tady jezdím, a teď na mně ti pitomci chtějí, abych tu něco objevil!“ Kapitán van Toch se přímo dusí tímto urážejícím nárokem. „Ať sem pošlou nějakého zelenáče, ten jim toho objeví, že budou mrkat; ale žádat to na někom, kdo to tady zná jako kapitán J. van Toch… To račte uznat, pane. V Evropě, tam by se dalo ještě ledacos objevit; ale tady – Sem přece lidé přijdou jen proto, aby čenichali, co se dá sežrat, a ani sežrat ne: co se dá kupovat a prodávat. Pane, kdyby v celých zatracených tropech bylo ještě něco, co by mělo dubbeltje[^1] ceny, tak budou u toho stát tři agenti a mávat usmrkaným kapesníkem na lodi sedmi států, aby zastavily. Tak je to, pane. Já to tu znám líp než koloniální úřad Jejího Veličenstva královny, račte prominout.“ Kapitán van Toch usilovně přemáhá svůj spravedlivý hněv, což se mu po delším burácení podaří. „Vidíte tamhle ty dva mizerné lenochy? To jsou lovci perel z Cejlonu, Bůh mě netrestej, Singhalesové, jak je Hospodin stvořil; ale proč to dělal, to nevím. Tohle teď vozím s sebou, pane, a když někde najdu kousek pobřeží, na kterém není napsáno Agency nebo Baťa nebo Celní úřad, pouštím to do vody, aby to hledalo škeble. Ten menší darebák se potápí až osmdesát metrů hluboko; tuhle na Princových ostrovech vylovil z hloubky devadesáti metrů kliku od kinematografického aparátu, pane, ale perly, kdepak! Ani zdání! Ničemná chamraď, tihle Singhalesové. Tak takovouhle zatracenou práci já mám, pane: dělat, jako bych nakupoval palmový olej, a přitom hledat nová loviště perlorodek. Snad ještě budou chtít, abych objevil nějakou panenskou pevninu, ne? To přece není práce pro poctivého obchodního kapitána, pane. J. van Toch není žádný prokletý dobrodruh, pane. Ne, pane.“ A tak dále; moře je veliké a oceán času nemá hranic; plivej do moře, člověče, a ono se nevzedme, spílej svému osudu, a nepohneš jím; a tak po mnoha přípravách a okolcích jsme konečně u toho, že kapitán holandské lodi Kandong Bandoeng J. van Toch vzdychaje a klna slézá do člunu, aby vystoupil v kampongu[^2] na Tana Masa a jednal s opilým křížencem mezi Kubu a Portugalcem o některých obchodních záležitostech.
 
 „Sorry, Captain,“ řekl konečně kříženec mezi Kubu a Portugalcem, „ale tady, na Tana Masa, žádné mušle nerostou. Ti špinaví Batakové,“ děl s nesmírnou ošklivostí, „žerou i medúzy; jsou víc ve vodě než na zemi, ženské tu smrdí rybinou, to si nemůžete představit – co jsem to chtěl říci? Aha, vy jste se ptal na ženské.“
 
@@ -153,7 +153,7 @@ Kapitán J. van Toch pokračoval v křížovém výslechu s nemalou trpělivost�
 
 Kapitán J. van Toch se díval zamyšleně na třesoucího se malého potápěče. Ten hoch už nikdy nebude k ničemu, řekl si, pošlu ho z Padangu domů na Cejlon. Bruče a funě šel do své kabiny. Tam vysypal z papírového sáčku na stůl dvě perly. Jedna byla maličká jako zrnko písku a druhá jako hrách, lesknoucí se stříbřitě a do růžova. A kapitán holandské lodi zafrkal a vyňal ze skřínky svou irskou whisky.
 
-K šesté hodině se dal znovu dovézt člunem do kampongu a rovnou k tomu kříženci mezi Kubu a Portugalcem. „Toddy[\[3\]](./resources/undefined),“ řekl, a to bylo jediné slovo, které promluvil; seděl na verandě z vlnitého plechu, držel v tlustých prstech sklenku z tlustého skla a pil a odplivoval a vejřil zpod huňatého obočí na žluté hubené slípky, které bůhvíco zobaly na špinavém a udupaném dvorku mezi palmami. Míšenec se chránil něco promluvit a jenom naléval. Pomalu se kapitánovy oči podlévaly krví a jeho prsty se začaly špatně ohýbat. Byl skoro soumrak, když vstal a povytáhl si kalhoty.
+K šesté hodině se dal znovu dovézt člunem do kampongu a rovnou k tomu kříženci mezi Kubu a Portugalcem. „Toddy[^3],“ řekl, a to bylo jediné slovo, které promluvil; seděl na verandě z vlnitého plechu, držel v tlustých prstech sklenku z tlustého skla a pil a odplivoval a vejřil zpod huňatého obočí na žluté hubené slípky, které bůhvíco zobaly na špinavém a udupaném dvorku mezi palmami. Míšenec se chránil něco promluvit a jenom naléval. Pomalu se kapitánovy oči podlévaly krví a jeho prsty se začaly špatně ohýbat. Byl skoro soumrak, když vstal a povytáhl si kalhoty.
 
 „Už jdete spat, kapitáne?“ ptal se zdvořile kříženec mezi čertem a ďáblem.
 
@@ -182,3 +182,123 @@ A dost. Toho dne Kandong Bandoeng odplula do Padangu. Z Padangu poslal kapitán 
 S tímto Dajakem se kapitán J. van Toch odstěhoval na ostrov Tana Masa.
 
 </section>
+
+[^1]: Dubbeltje – drobná holandská mince. _Pozn. red_.
+
+[^2]: Kampong – malajská vesnice s tržištěm. _Pozn. red_.
+
+[^3]: Toddy – palmové víno. _Pozn. red_.
+
+[^4]: Bedřich Golombek (1901–1961), čes. novinář a prozaik. _Pozn. red_.
+
+[^5]: Edvard Valenta (1901–1978), čes. spisovatel a publicista. _Pozn. red_.
+
+[^6]: Jan Eskymo Welzl (1848–1948), čes. cestovatel, vynálezce a dobrodruh. _Pozn. red_.
+
+[^7]: Lambrekýny (hol.) – závěsy na okna a dveře. _Pozn. red_.
+
+[^8]: Pozamentérie – pásková textilie určená k dekoraci. _Pozn. red_.
+
+[^9]: Bezoár – usazenina v útrobách některých savců považovaná za léčivý prostředek. _Pozn. red_.
+
+[^10]: YMCA – Young Men´s Christian Association, Křesťanské sdružení mladých mužů. _Pozn. red_.
+
+[^11]: Schillerův rytíř – odkaz na baladu _Rukavička_ Friedricha Schillera. _Pozn. red_.
+
+[^12]: Trader Horn – ve své době populární americký film o obchodníkovi Hornovi a jeho cestě do Afriky. _Pozn. red_.
+
+[^13]: Reptilia (lat.) – plazi. _Pozn. red_.
+
+[^14]: Nereidky – mořské víly. _Pozn. red_.
+
+[^15]: Pelagiál – vody osídlené planktonem. _Pozn. red_.
+
+[^16]: „Zázrační“ koně z chovu něm. podnikatele Kralle, kteří údajně uměli počítat a výsledky oznamovali údery kopyt. _Pozn. red_.
+
+[^17]: Mae West – amer. herečka, sex-symbol 30. let. 20. stol. _Pozn. red_.
+
+[^18]: V praxi, v akci. _Pozn. red_.
+
+[^19]: Lemurie – bájný světadíl (podobně jako Atlantida), měl se rozkládat v Indickém oceánu. _Pozn. red_.
+
+[^20]: Zábava, rozptýlení. _Pozn. red_.
+
+[^21]: Využití, zneužití. _Pozn. red_.
+
+[^22]: Pojištění. _Pozn. red_.
+
+[^23]: Živočich pracující, vyrábějící. _Pozn. red_.
+
+[^24]: Mlok a německý národ. _Pozn. red_.
+
+[^25]: Vývoj obojživelníků za fašismu. _Pozn. red_.
+
+[^26]: Trade Unie – zaměstnanecké odbory. _Pozn. red_.
+
+[^27]: Barkasa – člun sloužící zejména pro dopravu mezi kotvící lodí a břehem. _Pozn. red_.
+
+[^28]: Je to podivín. _Pozn. red_.
+
+[^29]: Zpráva o tělesných schopnostech Mloků. _Pozn. red_.
+
+[^30]: Xeróza (řec.) – chorobná suchost. _Pozn. red_.
+
+[^31]: François Coppé (1842–1908), franc. básník. _Pozn. red_.
+
+[^32]: Basic English – jazyk se zásobou 850 slov, který byl vytvořen v roce 1929. _Pozn. red_.
+
+[^33]: Ušlechtilý jazyk latinský. _Pozn. red_.
+
+[^34]: Svět pozemský. _Pozn. red_.
+
+[^35]: Měnový systém založený na dvou drahých kovech, na zlatě a stříbře. _Pozn. red_.
+
+[^36]: Právě tím. _Pozn. red_.
+
+[^37]: Podivuhodná díla boží. _Pozn. red_.
+
+[^38]: Monismus (řec.) – filozofická koncepce, podle níž je základem všeho jediná podstata. _Pozn. red_.
+
+[^39]: Mloci, pryč se Židy! _Pozn. red_.
+
+[^40]: Hej, vy, … co tady hledáte? _Pozn. red_.
+
+[^41]: Starosta a poslanec. _Pozn. red_.
+
+[^42]: Auspicie – výhlídka, naděje. _Pozn. red_.
+
+[^43]: Ženerózní (z franc.) – velkodušný, šlechetný. _Pozn. red_.
+
+[^44]: Chudáček, … on je tak ošklivý! _Pozn. red_.
+
+[^45]: Lac Léman – Ženevské jezero. _Pozn. red_.
+
+[^46]: Mikádo/správně mikado (jap.) – titul jap. císařů. _Pozn. red_.
+
+[^47]: Flibustýrský – pirátský. _Pozn. red_.
+
+[^48]: Torpédoborec. _Pozn. red_.
+
+[^49]: Konflagrace – vzplanutí, vypuknutí (zde války). _Pozn. red_.
+
+[^50]: Kombatant (franc.) – vojín s bojovým posláním. _Pozn. red_.
+
+[^51]: Berta – dělo. _Pozn. red_.
+
+[^52]: Takových úspěchů dosahují jen němečtí mloci. _Pozn. red_.
+
+[^53]: Zánik lidstva. _Pozn. red_.
+
+[^54]: Abyssal/abysál (řec.) – označení pro nejhlubší dno oceánu nebo hlubokých jezer. _Pozn. red_.
+
+[^55]: Mene tekel (aram.) – napomenutí, jímž byl údajně babylonskému králi Balsazarovi předpovězen pád jeho říše; přeneseně výstraha, varování. _Pozn. red_.
+
+[^56]: Mediokrita (lat.) – prostřednost. _Pozn. red_.
+
+[^57]: Wady/vádí (arab.) – vyschlá koryta řek, naplněná vodou jen v určitých ročních obdobích. _Pozn. red_.
+
+[^58]: Dossier – desky na listiny, svazek listin. _Pozn. red_.
+
+[^59]: Árie z opery J. Offenbacha Hoffmannovy povídky, pův. píseň benátských gondoliérů. _Pozn. red_.
+
+[^60]: Kris – dýka s vlnkovitým ostřím. _Pozn. red_.

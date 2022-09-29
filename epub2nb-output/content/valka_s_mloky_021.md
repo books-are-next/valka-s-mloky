@@ -9,7 +9,7 @@ V dějinné epoše, kterou ohlásil G. H. Bondy na památné valné hromadě Pac
 
 * * *
 
-1 Srov. G. Kreuzmann, Geschichte der Molche. Hans Tietze, Der Molch des XX. Jahrhunderts. Kurt Wolff, Der Molch und das deutsche Volk[\[24\]](./resources/undefined). Sir Herbert Owen, The Salamanders and the British Empire. Giovanni Focaja, L’evoluzione degli anfibii durante il Fascismo[\[25\]](./resources/undefined). Léon Bonnet, Les Urodèles et la Société des Nations. S. Madariaga, Las Salamandras y la Civilización a m. j.
+1 Srov. G. Kreuzmann, Geschichte der Molche. Hans Tietze, Der Molch des XX. Jahrhunderts. Kurt Wolff, Der Molch und das deutsche Volk[^24]. Sir Herbert Owen, The Salamanders and the British Empire. Giovanni Focaja, L’evoluzione degli anfibii durante il Fascismo[^25]. Léon Bonnet, Les Urodèles et la Société des Nations. S. Madariaga, Las Salamandras y la Civilización a m. j.
 
 2 Srov. Válka s Mloky, kniha I, kapitola 12.
 
@@ -49,7 +49,7 @@ Na dotaz člena parlamentu Mr. B. Russela sdělil sir Samuel, že toto stanovisk
 
 STÁVKOVÉ HNUTÍ V AUSTRÁLII
 
-_(Havas) Vůdce australských Trade Unií[\[26\]](./resources/undefined) Harry Mac Namara ohlašuje generální stávku všech zaměstnanců přístavních, dopravních, elektrárenských a jiných. Odborové organizace totiž žádají, aby byl dovoz pracovních Mloků do Austrálie přísně kontingentován podle imigračních zákonů. Naproti tomu australští farmáři se domáhají toho, aby byl dovoz Mloků uvolněn, neboť jejich krmením značně stoupá odbyt domácí kukuřice a zvířecích tuků, zejména ovčího loje. Vláda usiluje o kompromis; Mločí syndikát nabízí, že by vyplácel tradeuniím za každého přivezeného Mloka příspěvek šesti šilinků. Vláda je ochotna dát záruky, že Mloci budou zaměstnáni jenom ve vodě a že se (z důvodů mravnostních) nevynoří z vody víc než 40 cm, to jest po prsa. Trade Unie však trvají na 12 cm a žádají za každého Mloka poplatek deseti šilinků vedle registrační taxy. Zdá se, že dojde k dohodě za přispění státní pokladny._
+_(Havas) Vůdce australských Trade Unií[^26] Harry Mac Namara ohlašuje generální stávku všech zaměstnanců přístavních, dopravních, elektrárenských a jiných. Odborové organizace totiž žádají, aby byl dovoz pracovních Mloků do Austrálie přísně kontingentován podle imigračních zákonů. Naproti tomu australští farmáři se domáhají toho, aby byl dovoz Mloků uvolněn, neboť jejich krmením značně stoupá odbyt domácí kukuřice a zvířecích tuků, zejména ovčího loje. Vláda usiluje o kompromis; Mločí syndikát nabízí, že by vyplácel tradeuniím za každého přivezeného Mloka příspěvek šesti šilinků. Vláda je ochotna dát záruky, že Mloci budou zaměstnáni jenom ve vodě a že se (z důvodů mravnostních) nevynoří z vody víc než 40 cm, to jest po prsa. Trade Unie však trvají na 12 cm a žádají za každého Mloka poplatek deseti šilinků vedle registrační taxy. Zdá se, že dojde k dohodě za přispění státní pokladny._
 
 7 MLOCI ZACHRAŇUJÍ 36 TONOUCÍCH
 
@@ -57,7 +57,7 @@ _(Havas) Vůdce australských Trade Unií[\[26\]](./resources/undefined) Harry M
 
 Madras 3. dubna
 
-_Ve zdejším přístavu narazil parník Indian Star na člun převážející asi čtyřicet domorodců, který se ihned potopil. Dříve než bylo možno vypravit policejní barkasu[\[27\]](./resources/undefined), přichvátali na pomoc Mloci pracující na odklízení bahna z přístavu a dopravili na břeh třicet šest tonoucích. Jeden Salamandr sám vytáhl z vody tři ženy a dvě děti. Odměnou za tento statečný čin dostali Mloci písemné poděkování od místních autorit v nepromokavém pouzdře._
+_Ve zdejším přístavu narazil parník Indian Star na člun převážející asi čtyřicet domorodců, který se ihned potopil. Dříve než bylo možno vypravit policejní barkasu[^27], přichvátali na pomoc Mloci pracující na odklízení bahna z přístavu a dopravili na břeh třicet šest tonoucích. Jeden Salamandr sám vytáhl z vody tři ženy a dvě děti. Odměnou za tento statečný čin dostali Mloci písemné poděkování od místních autorit v nepromokavém pouzdře._
 
  ![2](./resources/2.jpg)
 
@@ -165,7 +165,7 @@ _Zkráceně se mu říká Kongres obojživelníků ocasatých, kdežto jeho ofic
 
 Šli jsme se tedy podívat na ces Zoos-là spíše ze zvědavosti než z referentské povinnosti. Ze zvědavosti, rozumějte, která se netýkala těch univerzitních, většinou starších a brejlatých kapacit, nýbrž právě těch… tvorů (proč nám nechce z pera slovo „zvířat“?), o kterých se toho už tolik napsalo od vědeckých foliantů až po bulvární písničky a kteří jsou prý – podle některých – novinářský humbuk, podle jiných bytosti v mnohém směru nadanější než sám pán tvorstva a koruna stvoření, jak se ještě dnes (míním po světové válce a jiných dějinných okolnostech) říká člověku. Doufal jsem, že slovutní páni účastníci kongresu pro duševní výzkum obojživelníků ocasatých dají nám laikům jasnou a konečnou odpověď, jak to vypadá s tou pověstnou učenlivostí Andriase Scheuchzeri; že nám řeknou: ano, toto je tvor rozumný nebo aspoň tak dalece schopný civilizace jako vy nebo já; proto se s ním musí pro budoucnost počítat, tak jako musíme počítat s budoucností lidských ras druhdy považovaných za divoké a primitivní… pravím, žádná taková odpověď, ba ani otázka na kongrese nepadla; na to je dnešní věda příliš… odborná, aby se zabývala problémy toho druhu.
 
-Nuže, poučme se tedy o tom, čemu se vědecky říká duševní život u zvířat. Ten dlouhý pán s vlajícím vousem černokněžníka, který právě burácí na pódiu, je slavný profesor Dubosque; zdá se, že potírá nějakou zvrácenou teorii kteréhosi váženého kolegy, ale tuto stránku jeho výkladu nemůžeme dobře sledovat. Teprve po delší chvíli pochopíme, že ten vášnivý černokněžník mluví o vnímavosti Andriase pro barvy a o jeho schopnosti rozlišovat různé barevné odstíny. Nevím, zda jsem to dobře pochopil, ale odnesl jsem si dojem, že Andrias Scheuchzeri je snad poněkud barvoslepý, ale že profesor Dubosque musí být hrozně krátkozraký podle toho, jak zvedal své papíry až k tlustým, divoce blýskajícím brejlím. Nato mluvil usměvavý japonský učenec dr. Okagawa; bylo to něco o reakčním oblouku, jakož i o úkazech, které nastanou, když se přetne jakási senzorická dráha v mozku Andriase; potom líčil, co Andrias dělá, když se mu rozdrtí ústroj odpovídající ušnímu labyrintu. Nato profesor Rehmann podrobně vysvětloval, jak Andrias reaguje na elektrické dráždění. Nato se strhl jakýsi vášnivý spor mezi ním a profesorem Brucknerem. C’est un type[\[28\]](./resources/undefined), tenhle profesor Bruckner: malý, zlostný a téměř tragicky živý; mimo jiné tvrdil, že Andrias je smyslově stejně špatně vybaven jako člověk a vyznačuje se stejnou chudobou instinktů; čistě biologicky vzato, je prý to právě tak úpadkové zvíře jako člověk, a podobně jako on hledí svou biologickou méněcennost nahradit tím, čemu se říká intelekt. Zdá se však, že ostatní odborníci nebrali profesora Brucknera vážně, asi proto, že nepřetínal žádné senzorické dráhy a nevysílal do mozku Andriase žádné elektrické výboje. Nato profesor van Dieten pomalu a téměř bohoslužebně líčil, jaké poruchy se jeví u Andriase, kterému byl odňat pravý čelní mozkový lalok nebo okcipitální závit na levé straně mozku. Potom americký profesor Devrient přednesl –
+Nuže, poučme se tedy o tom, čemu se vědecky říká duševní život u zvířat. Ten dlouhý pán s vlajícím vousem černokněžníka, který právě burácí na pódiu, je slavný profesor Dubosque; zdá se, že potírá nějakou zvrácenou teorii kteréhosi váženého kolegy, ale tuto stránku jeho výkladu nemůžeme dobře sledovat. Teprve po delší chvíli pochopíme, že ten vášnivý černokněžník mluví o vnímavosti Andriase pro barvy a o jeho schopnosti rozlišovat různé barevné odstíny. Nevím, zda jsem to dobře pochopil, ale odnesl jsem si dojem, že Andrias Scheuchzeri je snad poněkud barvoslepý, ale že profesor Dubosque musí být hrozně krátkozraký podle toho, jak zvedal své papíry až k tlustým, divoce blýskajícím brejlím. Nato mluvil usměvavý japonský učenec dr. Okagawa; bylo to něco o reakčním oblouku, jakož i o úkazech, které nastanou, když se přetne jakási senzorická dráha v mozku Andriase; potom líčil, co Andrias dělá, když se mu rozdrtí ústroj odpovídající ušnímu labyrintu. Nato profesor Rehmann podrobně vysvětloval, jak Andrias reaguje na elektrické dráždění. Nato se strhl jakýsi vášnivý spor mezi ním a profesorem Brucknerem. C’est un type[^28], tenhle profesor Bruckner: malý, zlostný a téměř tragicky živý; mimo jiné tvrdil, že Andrias je smyslově stejně špatně vybaven jako člověk a vyznačuje se stejnou chudobou instinktů; čistě biologicky vzato, je prý to právě tak úpadkové zvíře jako člověk, a podobně jako on hledí svou biologickou méněcennost nahradit tím, čemu se říká intelekt. Zdá se však, že ostatní odborníci nebrali profesora Brucknera vážně, asi proto, že nepřetínal žádné senzorické dráhy a nevysílal do mozku Andriase žádné elektrické výboje. Nato profesor van Dieten pomalu a téměř bohoslužebně líčil, jaké poruchy se jeví u Andriase, kterému byl odňat pravý čelní mozkový lalok nebo okcipitální závit na levé straně mozku. Potom americký profesor Devrient přednesl –
 
 Promiňte, nevím opravdu, co přednesl; neboť v tu chvíli mi počalo vrtat hlavou, jaké poruchy by se asi jevily u profesora Devrienta, kdybych mu odňal pravý čelní mozkový lalok; jak by reagoval usměvavý dr. Okagawa, kdybych ho elektricky dráždil, a jak by se asi choval profesor Rehmann, kdyby mu někdo rozdrtil ušní labyrint. Pocítil jsem také jakousi nejistotu, jak je to vlastně s mým rozlišováním barev nebo s faktorem t v mých motorických reakcích. Mučila mne pochybnost, máme-li (v přísně vědeckém smyslu) právo mluvit o svém (míním lidském) duševním životě, pokud jsme jeden druhému nevykuchali mozkové laloky a nepřeťali senzorické dráhy. Měli bychom se vlastně na sebe vrhnout se skalpely v rukou, abychom navzájem studovali svůj duševní život. Co mne se týče, byl bych ochoten v zájmu vědy rozbít brejle profesora Dubosqua nebo pouštět elektrické výboje do pleše profesora Dietena, načež bych uveřejnil článek o tom, jak na to reagovali. Abych řekl pravdu, dovedu si to živě představit. Méně živě si dovedu představit, co se při takových pokusech dálo v duši Andriase Scheuchzeri; ale mám za to, že je to nesmírně trpělivý a dobrácký tvor. Žádná z přednášejících kapacit totiž neřekla, že by se chudák Andrias Scheuchzeri někdy také rozzuřil.
 
@@ -179,11 +179,11 @@ Dík tomuto vědeckému bádání přestali lidé považovat Mloky za nějaký z
 
 12 Užitečnost Mloků zkoumal zejména hamburský badatel Wuhrmann, z jehož příslušných statí citujeme aspoň v kratičkém výtahu jeho:
 
-BERICHT ÜBER DIE SOMATISCHE VERANLAGUNG DER MOLCHE[\[29\]](./resources/undefined)
+BERICHT ÜBER DIE SOMATISCHE VERANLAGUNG DER MOLCHE[^29]
 
 _Pokusy, které jsem s pacifickým velemlokem (Andrias Scheuchzeri Tschudi) podnikl ve své hamburské laboratoři, se nesly za zcela určitým cílem: vyzkoušet vzdornost Mloků vůči změnám prostředí a jiným zevním zásahům a tím prokázat jejich praktickou upotřebitelnost v rozličných zeměpisných oblastech a za různě obměňovaných podmínek._
 
-První sérií pokusů se mělo zjistit, jak dlouho vydrží Mlok mimo vodu. Pokusná zvířata byla chována v suchých kádích při teplotě 40 až 50 °C. Po několika hodinách jevila zřejmou únavu; byla-li porosena, ožila opět. Po čtyřiadvaceti hodinách ležela nehybně, pohybujíce jenom očními víčky; srdeční tep zpomalen, veškerá tělová činnost snížena na minimum. Zvířata zřejmě trpí a sebemenší pohyb je stojí velkou námahu. Po třech dnech nastává stav kataleptické strnulosti (xeróza[\[30\]](./resources/undefined)); zvířata nereagují, ani když jsou pálena elektrokauterem. Zvýší-li se vlhkost ovzduší, počnou jevit aspoň některé známky života (zavírají oči před prudkým světlem apod.). Byl-li takto vysušený Mlok hozen po sedmi dnech do vody, ožil po uplynutí delší doby; při déle trvajícím sušení však uhynul větší počet pokusných zvířat. Na přímém slunci hynou již po několika hodinách.
+První sérií pokusů se mělo zjistit, jak dlouho vydrží Mlok mimo vodu. Pokusná zvířata byla chována v suchých kádích při teplotě 40 až 50 °C. Po několika hodinách jevila zřejmou únavu; byla-li porosena, ožila opět. Po čtyřiadvaceti hodinách ležela nehybně, pohybujíce jenom očními víčky; srdeční tep zpomalen, veškerá tělová činnost snížena na minimum. Zvířata zřejmě trpí a sebemenší pohyb je stojí velkou námahu. Po třech dnech nastává stav kataleptické strnulosti (xeróza[^30]); zvířata nereagují, ani když jsou pálena elektrokauterem. Zvýší-li se vlhkost ovzduší, počnou jevit aspoň některé známky života (zavírají oči před prudkým světlem apod.). Byl-li takto vysušený Mlok hozen po sedmi dnech do vody, ožil po uplynutí delší doby; při déle trvajícím sušení však uhynul větší počet pokusných zvířat. Na přímém slunci hynou již po několika hodinách.
 
 Jiná pokusná zvířata byla přinucena točit potmě hřídelem ve vysoce suchém prostředí. Po třech hodinách jejich výkonnost počala klesat, ale stoupla opět po vydatném postříkání. Při často opětovaném postřiku vydržela zvířata točit klikou hřídele sedmnáct, dvacet a v jednom případě šestadvacet hodin bez přerušení, kdežto kontrolní člověk byl už po pěti hodinách týmž mechanickým výkonem značně vyčerpán. Z těchto pokusů můžeme uzavírat, že Mloci jsou dobře použitelní i k práci na suché zemi, ovšem za dvou podmínek: že nejsou vystaveni přímému slunci a že jsou občas po celém povrchu těla postříkáni vodou.
 
@@ -258,7 +258,7 @@ Pravda je, že veliká mločí senzace záhy vyvanula, aby učinila místo něč
 
 _„Přednášela nám Lafontainovy bajky, sedíc u naší prosté, ale čisté a pohodlné nádrže; trpěla sice vlhkem, ale nedbala toho, oddána plně svému učitelskému úkolu. Říkala nám, mes petits Chinois, protože jsme podobně jako Číňané nedovedli vyslovovat hlásku r. Po čase si však na to zvykla tak, že sama vyslovovala své jméno Mme Zimmelmann. My pulci jsme ji zbožňovali; ti malí, kteří ještě neměli vyvinuté plíce a následkem toho nemohli opustit vodu, plakali, že ji nemohou doprovázet na jejích procházkách po školní zahradě. Byla tak mírná a laskavá, že – pokud vím – se rozhněvala jen jednou; to bylo, když naše mladá učitelka dějin si za horkého letního dne vzala koupací oblek a sestoupila mezi nás do vodní nádrže, kde nám přednášela o nizozemských bojích za svobodu, sedíc až po krk ve vodě. Tehdy se naše drahá Mme Zimmelmann vážně rozhněvala: Jděte se ihned vykoupat, Mademoiselle, jděte, jděte, volala se slzami v očích. Pro nás to byla jemná, ale srozumitelná lekce, že přece jenom nepatříme mezi lidi; později jsme byli naší duchovní matce vděčni, že nám to vědomí vštípila způsobem tak rozhodným a taktním._
 
-Když jsme se dobře učili, předčítala nám za odměnu moderní básně, jako François Coppéa[\[31\]](./resources/undefined). Je to sice příliš moderní, říkala, ale koneckonců i to dnes už patří k dobrému vzdělání. Při konci školního roku byla pořádána veřejná akademie, na kterou býval zván pan prefekt z Nice a jiné úřední a vynikající osobnosti. Nadaní a pokročilejší žáci, kteří už měli plíce, byli osušeni od školníka a oděni do jakýchsi bílých říz; potom přednášeli za tenkou oponou (aby se jich dámy nepolekaly) Lafontainovy bajky, matematické vzorce a posloupnost Kapetovců s příslušnými letopočty. Nato pan prefekt v dlouhé a krásné řeči vyslovil dík a poklonu naší drahé ředitelce, čímž se radostný den končil. Stejně jako o náš duševní pokrok bylo pečováno i o naše blaho tělesné; jednou za měsíc nás prohlížel místní zvěrolékař a jednou za půl roku byl každý z nás vážen, má-li předepsanou váhu. Zvlášť na srdce nám naše vzácná vůdkyně kladla to, abychom odložili ohavný, prostopášný zvyk Měsíčních tanců; stydím se říci, že přesto se někteří vyspělejší chovanci potají za úplňku dopouštěli této zvířecí hanebnosti. Doufám, že se o tom naše mateřská přítelkyně nikdy nedověděla; bylo by to zlomilo její veliké, šlechetné a láskyplné srdce.“
+Když jsme se dobře učili, předčítala nám za odměnu moderní básně, jako François Coppéa[^31]. Je to sice příliš moderní, říkala, ale koneckonců i to dnes už patří k dobrému vzdělání. Při konci školního roku byla pořádána veřejná akademie, na kterou býval zván pan prefekt z Nice a jiné úřední a vynikající osobnosti. Nadaní a pokročilejší žáci, kteří už měli plíce, byli osušeni od školníka a oděni do jakýchsi bílých říz; potom přednášeli za tenkou oponou (aby se jich dámy nepolekaly) Lafontainovy bajky, matematické vzorce a posloupnost Kapetovců s příslušnými letopočty. Nato pan prefekt v dlouhé a krásné řeči vyslovil dík a poklonu naší drahé ředitelce, čímž se radostný den končil. Stejně jako o náš duševní pokrok bylo pečováno i o naše blaho tělesné; jednou za měsíc nás prohlížel místní zvěrolékař a jednou za půl roku byl každý z nás vážen, má-li předepsanou váhu. Zvlášť na srdce nám naše vzácná vůdkyně kladla to, abychom odložili ohavný, prostopášný zvyk Měsíčních tanců; stydím se říci, že přesto se někteří vyspělejší chovanci potají za úplňku dopouštěli této zvířecí hanebnosti. Doufám, že se o tom naše mateřská přítelkyně nikdy nedověděla; bylo by to zlomilo její veliké, šlechetné a láskyplné srdce.“
 
 * * *
 
@@ -268,11 +268,11 @@ Otázka mločí výchovy se nyní počala rozvíjet rychle a normální cestou. 
 
 Je přirozeno, že nyní také v jiných státech se ozvalo volání po řádném a povinném školství pro Mloky pod dozorem státním. Došlo k tomu postupně ve všech námořních zemích (ovšem s výjimkou Velké Británie); a protože tyto mločí školy nebyly zatíženy starými klasickými tradicemi škol lidských a mohly tedy užít všech nejnovějších metod psychotechniky, technologické výchovy, předvojenského výcviku a jiných posledních vymožeností pedagogických, vyvinulo se z nich záhy to nejmodernější a vědecky nejpokročilejší školství na světě, jež právem bylo předmětem závisti všech pedagogů i školáků lidských.
 
-Ruku v ruce s mločím školstvím se vynořila otázka jazyková. Které ze světových řečí se mají Salamandři nejspíš učit? Prvotní Mloci z tichomořských ostrovů se ovšem vyjadřovali Pidgin English, jak to pochytili od domorodců a námořníků; mnozí mluvili malajsky nebo v jiných místních nářečích. Mloci pěstění pro trh singaporský byli vedeni k tomu, aby mluvili v Basic English[\[32\]](./resources/undefined), oné vědecky zjednodušené angličtině, která se obejde s několika sty výrazy bez zastaralých gramatických okolků; proto také se této reformované standardní angličtině počalo říkat Salamander English. Na vzorných Écoles Zimmermann se Mloci vyjadřovali v řeči Corneillově, nikoli ovšem z důvodů nacionálních, nýbrž proto, že to náleží k vyššímu vzdělání; naproti tomu na reformních školách se učili esperantu jako jazyku dorozumívacímu. Mimoto vzniklo v té době asi pět nebo šest nových Univerzálních Jazyků, které chtěly nahradit babylonský zmatek řečí lidských a dát jednu společnou mateřštinu celému světu lidí i Mloků; bylo ovšem mnoho sporů o to, který z těchto Mezinárodních Jazyků je nejúčelnější, nejlibozvučnější a nejuniverzálnější. Nakonec to ovšem dopadlo tak, že v každém národě byl propagován jiný Univerzální Jazyk.15
+Ruku v ruce s mločím školstvím se vynořila otázka jazyková. Které ze světových řečí se mají Salamandři nejspíš učit? Prvotní Mloci z tichomořských ostrovů se ovšem vyjadřovali Pidgin English, jak to pochytili od domorodců a námořníků; mnozí mluvili malajsky nebo v jiných místních nářečích. Mloci pěstění pro trh singaporský byli vedeni k tomu, aby mluvili v Basic English[^32], oné vědecky zjednodušené angličtině, která se obejde s několika sty výrazy bez zastaralých gramatických okolků; proto také se této reformované standardní angličtině počalo říkat Salamander English. Na vzorných Écoles Zimmermann se Mloci vyjadřovali v řeči Corneillově, nikoli ovšem z důvodů nacionálních, nýbrž proto, že to náleží k vyššímu vzdělání; naproti tomu na reformních školách se učili esperantu jako jazyku dorozumívacímu. Mimoto vzniklo v té době asi pět nebo šest nových Univerzálních Jazyků, které chtěly nahradit babylonský zmatek řečí lidských a dát jednu společnou mateřštinu celému světu lidí i Mloků; bylo ovšem mnoho sporů o to, který z těchto Mezinárodních Jazyků je nejúčelnější, nejlibozvučnější a nejuniverzálnější. Nakonec to ovšem dopadlo tak, že v každém národě byl propagován jiný Univerzální Jazyk.15
 
 * * *
 
-15 Mimo jiné navrhoval slovutný filolog Curtius ve spisu _Janua linguarum aperta_, aby jako jediný obcovací jazyk pro Mloky byla adoptována latina zlatého věku Vergiliova. Dnes je v naší moci, volal, aby se latina, tento jazyk nejdokonalejší, nejbohatší na gramatická pravidla a vědecky nejlépe zpracovaný, stala opět živou a světovou řečí. Nechopí-li se vzdělané lidstvo této příležitosti, učiňte to vy sami, Salamandrae, gens maritima; zvolte si za svou mateřštinu eruditam linguam Latinam[\[33\]](./resources/undefined), jedinou řeč hodnou toho, aby jí mluvil orbis terrarum[\[34\]](./resources/undefined). Nehynoucí bude vaše zásluha, Salamandrae, vzkřísíte-li k novému životu věčný jazyk bohů a héroů; neb s tímto jazykem, gens Tritonum, převezmete jednou i odkaz světovládného Říma.
+15 Mimo jiné navrhoval slovutný filolog Curtius ve spisu _Janua linguarum aperta_, aby jako jediný obcovací jazyk pro Mloky byla adoptována latina zlatého věku Vergiliova. Dnes je v naší moci, volal, aby se latina, tento jazyk nejdokonalejší, nejbohatší na gramatická pravidla a vědecky nejlépe zpracovaný, stala opět živou a světovou řečí. Nechopí-li se vzdělané lidstvo této příležitosti, učiňte to vy sami, Salamandrae, gens maritima; zvolte si za svou mateřštinu eruditam linguam Latinam[^33], jedinou řeč hodnou toho, aby jí mluvil orbis terrarum[^34]. Nehynoucí bude vaše zásluha, Salamandrae, vzkřísíte-li k novému životu věčný jazyk bohů a héroů; neb s tímto jazykem, gens Tritonum, převezmete jednou i odkaz světovládného Říma.
 
 Naproti tomu jistý lotyšský telegrafní úředník, jménem Wolteras, spolu s pastorem Mendeliusem vynalezl a vypracoval zvláštní _řeč pro Mloky_, nazvanou řeč pontická (pontic lang); použil pro ni prvků všech jazyků světa, zejména nářečí afrických. Tato mločtina (jak se jí také říkalo) dosáhla jistého rozšíření zejména v severských státech, bohužel však jenom mezi lidmi; v Uppsale byla dokonce zřízena stolice pro jazyk mlocký, ale z Mloků, pokud je známo, nemluvil touto řečí ani jediný. Po pravdě řečeno, nejvíce se mezi Salamandry vžilo Basic English a později se stalo oficiálním jazykem Mloků.
 
@@ -306,7 +306,7 @@ Pohlédli jsme překvapeně oním směrem. Nebyl tam nikdo, jen veliký černý 
 
 „Jak, kde a proč,“ naléhal jsem, „jste se naučil česky?“
 
-„Náhoda mi zanesla do rukou tuto knihu,“ odvece Mlok a podal mi knížku, kterou držel v ruce; bylo to Česky pro Mloky a její listy nesly stopy častého a pilného používání. „Dostala se sem se zásilkou kněh obsahu poučného. Mohl jsem si vybrati Geometrii pro vyšší třídy škol středních, Dějiny válečné taktiky, Průvodce po Dolomitech nebo Zásady bimetalismu[\[35\]](./resources/undefined). Zvolil jsem si však tuto knížku, jež se mi stala druhem nejmilejším. Znám ji juž celou zpaměti, avšak nalézám v ní stále nové zdroje zábavy i poučení.“
+„Náhoda mi zanesla do rukou tuto knihu,“ odvece Mlok a podal mi knížku, kterou držel v ruce; bylo to Česky pro Mloky a její listy nesly stopy častého a pilného používání. „Dostala se sem se zásilkou kněh obsahu poučného. Mohl jsem si vybrati Geometrii pro vyšší třídy škol středních, Dějiny válečné taktiky, Průvodce po Dolomitech nebo Zásady bimetalismu[^35]. Zvolil jsem si však tuto knížku, jež se mi stala druhem nejmilejším. Znám ji juž celou zpaměti, avšak nalézám v ní stále nové zdroje zábavy i poučení.“
 
 Moje paní i já jsme projevili svoji nelíčenou radost i podiv nad jeho správnou, ba téměř srozumitelnou výslovností. „Bohužel není zde nikoho, s kým bych mluvil česky,“ pravil náš nový přítel skromně, „a nejsem si ani jist, je-li sedmý pád od slova kůň koni nebo koňmi.“
 
@@ -422,7 +422,7 @@ Tím byla věc právně skončena; není známo, jak se přístavní úřad v A 
 
 Pokud je známo, první zákony pro Salamandry byly vydány ve Francii. Paragraf prvý stanovil povinnosti Mloků v případě mobilizace a války; druhý zákon (zvaný lex Deval) nařizoval Mlokům, že se smějí usazovat jenom na těch místech pobřeží, která jim vykáže jejich majitel nebo příslušný departementální úřad; třetí zákon vyslovil, že Mloci jsou bezpodmínečně povinni uposlechnout všech policejních nařízení; v případě, že by tak neučinili, mají policejní úřady právo trestat je uzavřením na suchém a světlém místě, nebo dokonce odnětím práce na delší dobu. Nato levicové strany podaly v parlamentě návrh, aby bylo vypracováno sociální zákonodárství pro Salamandry, které by vymezilo jejich pracovní povinnosti a uložilo zaměstnavatelům určité závazky vůči pracujícím Mlokům (například čtrnáctidenní dovolenou v době jarního páření); proti tomu krajní levice žádala, aby Mloci byli vůbec vykázáni jakožto nepřátelé pracujícího lidu, kteří ve službách kapitalismu pracují příliš mnoho a téměř zadarmo a tím ohrožují životní úroveň dělnické třídy. Na dotvrzení tohoto požadavku došlo ke stávce v Brestu a k velikým demonstracím v Paříži; bylo mnoho raněných a ministerstvo Devalovo bylo nuceno podat demisi. V Itálii byli Salamandři podřízeni zvláštní Mločí korporaci, složené ze zaměstnavatelů a úřadů, v Holandsku byli spravováni ministerstvem pro vodní stavby, zkrátka každý stát řešil Mločí Problém po svém a odlišně; ale spousta úředních aktů, kterými se upravovaly veřejné povinnosti a vhodně omezovala animální svoboda Mloků, byla všude celkem stejná.
 
-Rozumí se, že se hned s prvními zákony pro Mloky vyskytli lidé, kteří ve jménu právní logiky dovozovali, že ukládá-li lidská společnost Salamandrům určité povinnosti, musí jim přiznat také nějaká práva. Stát, který dává Mlokům zákony, uznává je ipso facto[\[36\]](./resources/undefined) za bytosti odpovědné a svobodné, za právní subjekty, ba dokonce i za své státní příslušníky; v tom případě bude nutno nějak upravit jejich občanský poměr k státu, pod jehož legislativou žijí. Bylo by ovšem možno pokládat Mloky za cizí imigraci; ale v tom případě by jim nemohl stát ukládat určité služby a povinnosti pro čas mobilizace a války, jako se děje (s výjimkou Anglie) ve všech civilizovaných zemích. Budeme zajisté žádat na Mlocích, aby v případě válečného konfliktu hájili našich pobřeží; ale pak jim nemůžeme upírat jistá občanská práva, například právo hlasovací, právo shromažďovací, zastoupení v různých veřejných sborech a tak dále.20
+Rozumí se, že se hned s prvními zákony pro Mloky vyskytli lidé, kteří ve jménu právní logiky dovozovali, že ukládá-li lidská společnost Salamandrům určité povinnosti, musí jim přiznat také nějaká práva. Stát, který dává Mlokům zákony, uznává je ipso facto[^36] za bytosti odpovědné a svobodné, za právní subjekty, ba dokonce i za své státní příslušníky; v tom případě bude nutno nějak upravit jejich občanský poměr k státu, pod jehož legislativou žijí. Bylo by ovšem možno pokládat Mloky za cizí imigraci; ale v tom případě by jim nemohl stát ukládat určité služby a povinnosti pro čas mobilizace a války, jako se děje (s výjimkou Anglie) ve všech civilizovaných zemích. Budeme zajisté žádat na Mlocích, aby v případě válečného konfliktu hájili našich pobřeží; ale pak jim nemůžeme upírat jistá občanská práva, například právo hlasovací, právo shromažďovací, zastoupení v různých veřejných sborech a tak dále.20
 
 * * *
 
@@ -440,7 +440,7 @@ Podobně bez přímého zájmu a zasahování Mloků se dála jiná veliká disk
 
 * * *
 
-21 Viz encykliku Svatého otce Mirabilia Dei opera[\[37\]](./resources/undefined).
+21 Viz encykliku Svatého otce Mirabilia Dei opera[^37].
 
 22 Ve věci vyšla tak ohromná literatura, že by jenom její bibliografie zabrala dva mohutné svazky.
 
@@ -448,7 +448,7 @@ Podobně bez přímého zájmu a zasahování Mloků se dála jiná veliká disk
 
 Ne tolik skrupulí měly některé náboženské sekty (zejména americké), které vysílaly k Mlokům své misionáře, aby jim kázali Pravou Víru a křtili je podle slov Písma: Jdouce do celého světa, učte všechny národy. Ale jenom několika málo misionářům se podařilo dostat se za prkennou ohradu, která oddělovala Salamandry od lidí; zaměstnavatelé jim zabraňovali přístup k Mlokům, aby je svým kázáním zbytečně nezdržovali od práce. Bylo tedy tu a tam vidět kazatele, který stoje u dehtovaného plotu mezi psy, zuřivě štěkajícími proti svým nepřátelům na druhé straně ohrady, marně, ale horlivě vykládá Slovo Boží.
 
-Pokud známo, poněkud většího rozšíření došel u Mloků monismus[\[38\]](./resources/undefined); někteří Mloci věřili také v materialismus, zlatý standard a jiné vědecké věrouky. Jeden populární filozof, jménem Georg Sequenz, sestavil dokonce zvláštní náboženskou nauku pro Mloky, jejímž hlavním a nejvyšším článkem byla víra ve Velkého Salamandra. Tato víra se sice u Mloků vůbec neujala, ale zato našla hojně přívrženců u lidí, zejména ve velkých městech, kde vznikla skoro přes noc spousta tajných templů pro salamandří kult.23
+Pokud známo, poněkud většího rozšíření došel u Mloků monismus[^38]; někteří Mloci věřili také v materialismus, zlatý standard a jiné vědecké věrouky. Jeden populární filozof, jménem Georg Sequenz, sestavil dokonce zvláštní náboženskou nauku pro Mloky, jejímž hlavním a nejvyšším článkem byla víra ve Velkého Salamandra. Tato víra se sice u Mloků vůbec neujala, ale zato našla hojně přívrženců u lidí, zejména ve velkých městech, kde vznikla skoro přes noc spousta tajných templů pro salamandří kult.23
 
 * * *
 
@@ -512,7 +512,7 @@ I když toto provolání nemělo, jak se zdá, na Mloky přímého vlivu, vyvola
 
 MLOCI, ODHOĎTE ZBRANĚ! (Pacifistický manifest)
 
-MOLCHE, WIRFT JUDEN HERAUS![\[39\]](./resources/undefined) (Německý leták)
+MOLCHE, WIRFT JUDEN HERAUS![^39] (Německý leták)
 
 KAMARÁDI MLOCI! (Provolání skupiny anarchistů-bakuninců)
 
@@ -544,11 +544,11 @@ Poněkud pomaleji to šlo s jiným mezinárodním uznáním Mloků, a sice na po
 
 NICE 6. KVĚTNA
 
-_V pěkné, jasné budově Ústavu pro středomořská studia na promenade des Anglais je dnes živo; dva agents de police udržují na chodníku volnou cestu pro pozvané osobnosti, které kráčejí po červeném koberci do přívětivého, příjemně chladného amfiteátru. Vidíme usměvavého pana starostu nicejského, pana prefekta v cylindru, generála v blankytné uniformě, pány s červeným knoflíkem Čestné legie, dámy jistého věku (převládá letos módní barva terakota), viceadmirály, novináře, profesory a vznešené stařečky všech národů, kterých je na Côte d’Azur vždycky plno. Najednou malý incident: mezi vší touto honorací se plaše a nepozorovaně snaží proklouznout podivné stvořeníčko; je od hlavy po zem zahaleno jakousi dlouhou černou pelerínou nebo dominem, na očích má ohromné černé okuláry a chvatně, nejistě ťape k přeplněnému vestibulu. „Hé, vous,“ křikl jeden strážník, „qu’est-ce que vous cherchez ici?“[\[40\]](./resources/undefined) Ale tu už k polekanému příchozímu přistupují univerzitní hodnostáři, a cher docteur sem, cher docteur tam. Tohle tedy je dr. Charles Mercier, učený Mlok, který dnes má přednášet před výkvětem Azurového pobřeží! Rychle dovnitř, abychom ještě ulovili místečko v slavnostně vzrušeném auditoriu!_
+_V pěkné, jasné budově Ústavu pro středomořská studia na promenade des Anglais je dnes živo; dva agents de police udržují na chodníku volnou cestu pro pozvané osobnosti, které kráčejí po červeném koberci do přívětivého, příjemně chladného amfiteátru. Vidíme usměvavého pana starostu nicejského, pana prefekta v cylindru, generála v blankytné uniformě, pány s červeným knoflíkem Čestné legie, dámy jistého věku (převládá letos módní barva terakota), viceadmirály, novináře, profesory a vznešené stařečky všech národů, kterých je na Côte d’Azur vždycky plno. Najednou malý incident: mezi vší touto honorací se plaše a nepozorovaně snaží proklouznout podivné stvořeníčko; je od hlavy po zem zahaleno jakousi dlouhou černou pelerínou nebo dominem, na očích má ohromné černé okuláry a chvatně, nejistě ťape k přeplněnému vestibulu. „Hé, vous,“ křikl jeden strážník, „qu’est-ce que vous cherchez ici?“[^40] Ale tu už k polekanému příchozímu přistupují univerzitní hodnostáři, a cher docteur sem, cher docteur tam. Tohle tedy je dr. Charles Mercier, učený Mlok, který dnes má přednášet před výkvětem Azurového pobřeží! Rychle dovnitř, abychom ještě ulovili místečko v slavnostně vzrušeném auditoriu!_
 
-Na pódiu usedá Monsieur le Maire, Monsieur Paul Mallory, veliký básník. Mme Maria Dimineanu jako delegátka Mezinárodního ústavu pro intelektuální spolupráci, rektor Institutu pro středomořská studia a jiné oficiální osobnosti; po straně pódia je pult pro přednášejícího a za ním – Nu ano, je to skutečně plechová vana. Obyčejná plechová vana, jaké bývají v koupelnách. A dva funkcionáři přivádějí na pódium plaché stvoření zahalené v dlouhé kápi. Ozve se poněkud rozpačitý potlesk. Dr. Charles Mercier se ostýchavě uklání a ohlíží se nejistě, kam si má sednout. „Voila, Monsieur,“ šeptá jeden funkcionář a ukazuje na plechovou vanu. „To je pro vás.“ Dr. Mercier se zřejmě hrozně stydí, neví, jak by odmítl tuto pozornost; pokouší se pokud možno nenápadně zaujmout místo ve vaně, ale zamotá se do dlouhé peleríny a s hlučným šplouchnutím padá do vany. Hodně to postříkalo pány na pódiu, kteří se ovšem tváří, jako by se nic nestalo; v auditoriu se kdosi hystericky uchechtl, ale páni z předních rad se káravě ohlížejí a syčí psst! V tu chvíli už povstává Monsieur le Maire et Député[\[41\]](./resources/undefined) a ujímá se slova. Dámy a pánové, praví, mám tu čest uvítat na půdě krásného města Nice doktora Charles Merciera, vynikajícího představitele vědeckého života u našich blízkých sousedů, obyvatelů hlubin mořských. (Dr. Mercier se vynořuje do půl těla z vody a hluboce se uklání.) Je to poprvé v dějinách civilizace, že si moře a země podávají ruce k intelektuální spolupráci. Dotud byla duchovnímu životu uložena nepřekročitelná hranice: tou byl světový oceán. Mohli jsme jej překročit, mohli jsme jej na svých korábech brázdit všemi směry, ale pod jeho povrch, dámy a pánové, nemohla civilizace proniknout. Ten malý kousek pevniny, na kterém žije lidstvo, byl až dotud obklopen morem panenským a divokým; byl to nádherný rámec, ale bylo to také odvěké rozmezí: na jedné straně stoupající civilizace, na druhé straně věčná a nezměnitelná příroda. Tato mez, moji drazí posluchači, nyní padá. (Potlesk.) Nám, dětem této veliké doby, se dostalo nesrovnatelného štěstí být očitými svědky toho, jak roste naše duchovní vlast, jak překračuje své vlastní břehy, sestupuje do vln mořských, dobývá vodních hlubin a připojuje k staré vzdělané zemi oceán moderní a civilizovaný. Jaká to úžasná podívaná! (Bravo!) Dámy a pánové, teprve zrozením oceánské kultury, jejíhož eminentního představitele máme tu čest dnes vítat v našem středu, se naše zeměkoule stala planetou skutečně a cele civilizovanou. (Nadšený potlesk. Dr. Mercier ve vaně povstává a klaní se.)
+Na pódiu usedá Monsieur le Maire, Monsieur Paul Mallory, veliký básník. Mme Maria Dimineanu jako delegátka Mezinárodního ústavu pro intelektuální spolupráci, rektor Institutu pro středomořská studia a jiné oficiální osobnosti; po straně pódia je pult pro přednášejícího a za ním – Nu ano, je to skutečně plechová vana. Obyčejná plechová vana, jaké bývají v koupelnách. A dva funkcionáři přivádějí na pódium plaché stvoření zahalené v dlouhé kápi. Ozve se poněkud rozpačitý potlesk. Dr. Charles Mercier se ostýchavě uklání a ohlíží se nejistě, kam si má sednout. „Voila, Monsieur,“ šeptá jeden funkcionář a ukazuje na plechovou vanu. „To je pro vás.“ Dr. Mercier se zřejmě hrozně stydí, neví, jak by odmítl tuto pozornost; pokouší se pokud možno nenápadně zaujmout místo ve vaně, ale zamotá se do dlouhé peleríny a s hlučným šplouchnutím padá do vany. Hodně to postříkalo pány na pódiu, kteří se ovšem tváří, jako by se nic nestalo; v auditoriu se kdosi hystericky uchechtl, ale páni z předních rad se káravě ohlížejí a syčí psst! V tu chvíli už povstává Monsieur le Maire et Député[^41] a ujímá se slova. Dámy a pánové, praví, mám tu čest uvítat na půdě krásného města Nice doktora Charles Merciera, vynikajícího představitele vědeckého života u našich blízkých sousedů, obyvatelů hlubin mořských. (Dr. Mercier se vynořuje do půl těla z vody a hluboce se uklání.) Je to poprvé v dějinách civilizace, že si moře a země podávají ruce k intelektuální spolupráci. Dotud byla duchovnímu životu uložena nepřekročitelná hranice: tou byl světový oceán. Mohli jsme jej překročit, mohli jsme jej na svých korábech brázdit všemi směry, ale pod jeho povrch, dámy a pánové, nemohla civilizace proniknout. Ten malý kousek pevniny, na kterém žije lidstvo, byl až dotud obklopen morem panenským a divokým; byl to nádherný rámec, ale bylo to také odvěké rozmezí: na jedné straně stoupající civilizace, na druhé straně věčná a nezměnitelná příroda. Tato mez, moji drazí posluchači, nyní padá. (Potlesk.) Nám, dětem této veliké doby, se dostalo nesrovnatelného štěstí být očitými svědky toho, jak roste naše duchovní vlast, jak překračuje své vlastní břehy, sestupuje do vln mořských, dobývá vodních hlubin a připojuje k staré vzdělané zemi oceán moderní a civilizovaný. Jaká to úžasná podívaná! (Bravo!) Dámy a pánové, teprve zrozením oceánské kultury, jejíhož eminentního představitele máme tu čest dnes vítat v našem středu, se naše zeměkoule stala planetou skutečně a cele civilizovanou. (Nadšený potlesk. Dr. Mercier ve vaně povstává a klaní se.)
 
-Drahý doktore a veliký vědče, obrátil se potom Monsieur le Maire et Député k dr. Mercierovi. který se opíral o kraj vany, dojatě a těžce cukaje svými žábrami, budete moci tlumočit svým krajanům a přátelům na dně mořském naše blahopřání, náš obdiv a naši nejvřelejší sympatii. Řekněte jim, že ve vás, našich sousedech mořských, pozdravujeme předvoj pokroku a vzdělanosti, předvoj, který bude krok za krokem kolonizovat nekonečné oblasti mořské a na dně oceánu zřídí nový kulturní svět. Vidím už vyrůstat v hlubinách mořských nové Atény a nové Římy; vidím tam vzkvétat novou Paříž s podmořskými Louvry a Sorbonnami, s podmořskými Vítěznými oblouky a Hroby neznámých vojínů, s divadly a bulváry; a dovolte, abych vyslovil i svou myšlenku nejtajnější: doufám, že proti naší drahé Nice vyroste v modrých vlnách středomořských nová slavná Nice, vaše Nice, která bude svými nádhernými podmořskými třídami, sady a promenádami vroubit naše Azurové pobřeží. Chceme vás poznat a chceme, abyste znali nás; jsem osobně přesvědčen, že bližší vědecký a společenský styk, který dnes za tak šťastných auspicií[\[42\]](./resources/undefined) zahajujeme, povede naše národy k stále těsnější kulturní i politické spolupráci v zájmu celého lidstva, v zájmu světového míru, blahobytu a pokroku. (Dlouhotrvající potlesk.)
+Drahý doktore a veliký vědče, obrátil se potom Monsieur le Maire et Député k dr. Mercierovi. který se opíral o kraj vany, dojatě a těžce cukaje svými žábrami, budete moci tlumočit svým krajanům a přátelům na dně mořském naše blahopřání, náš obdiv a naši nejvřelejší sympatii. Řekněte jim, že ve vás, našich sousedech mořských, pozdravujeme předvoj pokroku a vzdělanosti, předvoj, který bude krok za krokem kolonizovat nekonečné oblasti mořské a na dně oceánu zřídí nový kulturní svět. Vidím už vyrůstat v hlubinách mořských nové Atény a nové Římy; vidím tam vzkvétat novou Paříž s podmořskými Louvry a Sorbonnami, s podmořskými Vítěznými oblouky a Hroby neznámých vojínů, s divadly a bulváry; a dovolte, abych vyslovil i svou myšlenku nejtajnější: doufám, že proti naší drahé Nice vyroste v modrých vlnách středomořských nová slavná Nice, vaše Nice, která bude svými nádhernými podmořskými třídami, sady a promenádami vroubit naše Azurové pobřeží. Chceme vás poznat a chceme, abyste znali nás; jsem osobně přesvědčen, že bližší vědecký a společenský styk, který dnes za tak šťastných auspicií[^42] zahajujeme, povede naše národy k stále těsnější kulturní i politické spolupráci v zájmu celého lidstva, v zájmu světového míru, blahobytu a pokroku. (Dlouhotrvající potlesk.)
 
 Nyní povstává dr. Charles Mercier a pokouší se několika slovy poděkovat panu starostovi a poslanci nicejskému; ale jednak je příliš dojat, jednak má trochu zvláštní výslovnost; z jeho řeči jsem zachytil jen něco málo namáhavě vyrážených slov; nemýlím-li se, bylo to „velmi poctěn“, „kulturní styky“ a „Victor Hugo“. Nato, zřejmě ztrémován, se opět ukryl v kádi.
 
@@ -556,11 +556,11 @@ Slova se ujímá Paul Mallory; to, co pronáší, není řeč, nýbrž hymnická
 
 * * *
 
-Na této manifestaci byla přítomna jako delegátka za ženevské organizace také Mme Maria Dimineanu; tato výtečná, ženerózní[\[43\]](./resources/undefined) dáma byla tak dojata skromným chováním a učeností dr. Merciera („Pauvre petit,“ vyjádřila prý se, „il est tellement laid!“[\[44\]](./resources/undefined)), že si vzala za úkol svého neúnavně činného života, aby Mloci byli přijati za člena Společnosti národů. Marně vysvětlovali státníci výmluvné a energické dámě, že Salamandři, nemajíce nikde na světě své vlastní státní svrchovanosti ani svého státního území, nemohou být členy Společnosti národů. Mme Dimineanu počala propagovat myšlenku, aby tedy Mloci dostali někde své svobodné území a svůj podmořský stát. Ta myšlenka byla ovšem dosti nevítaná, ne-li přímo povážlivá; konečně se však našlo šťastné řešení, že při Společnosti národů bude zřízena zvláštní Komise pro studium Mločí Otázky, do které budou pozváni také dva delegáti Mloci; jako první byl na nátlak paní Dimineanu povolán dr. Charles Mercier z Toulonu, druhý pak byl nějaký don Mario, tlustý a učený Mlok z Kuby, pracující vědecky v oboru planktonu a neritického pelagiálu. Tím dosáhli Mloci nejvyššího té doby mezinárodního uznání své existence.28
+Na této manifestaci byla přítomna jako delegátka za ženevské organizace také Mme Maria Dimineanu; tato výtečná, ženerózní[^43] dáma byla tak dojata skromným chováním a učeností dr. Merciera („Pauvre petit,“ vyjádřila prý se, „il est tellement laid!“[^44]), že si vzala za úkol svého neúnavně činného života, aby Mloci byli přijati za člena Společnosti národů. Marně vysvětlovali státníci výmluvné a energické dámě, že Salamandři, nemajíce nikde na světě své vlastní státní svrchovanosti ani svého státního území, nemohou být členy Společnosti národů. Mme Dimineanu počala propagovat myšlenku, aby tedy Mloci dostali někde své svobodné území a svůj podmořský stát. Ta myšlenka byla ovšem dosti nevítaná, ne-li přímo povážlivá; konečně se však našlo šťastné řešení, že při Společnosti národů bude zřízena zvláštní Komise pro studium Mločí Otázky, do které budou pozváni také dva delegáti Mloci; jako první byl na nátlak paní Dimineanu povolán dr. Charles Mercier z Toulonu, druhý pak byl nějaký don Mario, tlustý a učený Mlok z Kuby, pracující vědecky v oboru planktonu a neritického pelagiálu. Tím dosáhli Mloci nejvyššího té doby mezinárodního uznání své existence.28
 
 * * *
 
-28 V papírech pana Povondry se uchovala poněkud nejasná fotografie z novin, na níž oba mločí delegáti vystupují po schůdkách z Ženevského jezera na Quai du Mont Blanc, aby se odebrali do sezení komise. Zdá se tedy, že byli oficiálně ubytováni rovnou v Lac Léman[\[45\]](./resources/undefined).
+28 V papírech pana Povondry se uchovala poněkud nejasná fotografie z novin, na níž oba mločí delegáti vystupují po schůdkách z Ženevského jezera na Quai du Mont Blanc, aby se odebrali do sezení komise. Zdá se tedy, že byli oficiálně ubytováni rovnou v Lac Léman[^45].
 
 Pokud se týče ženevské Komise pro studium Mločí Otázky, vykonala velikou a záslužnou práci hlavně tím, že se pečlivě vystříhala všech ožehavých politických i hospodářských otázek. Zasedala permanentně po dlouhou řadu let a konala přes třináct set schůzí, na nichž se pilně jednalo o mezinárodním sjednocení názvosloví pro Mloky. V tom ohledu totiž panoval beznadějný chaos; vedle vědeckých názvů Salamandra, Molche, Batrachus a podobně (kteréžto názvy se počaly cítit jako poněkud nezdvořilé) byla navrhována celá spousta jiných jmen; Mlokům se mělo říkat Tritoni, Neptunidi, Tethydové, Nereidi, Atlantové, Oceanikové, Poseidoni, Lemurové, Pelagové, Litoralové, Pontikové, Bathydové, Abyssové, Hydrioni, Žandemeři (Gens de Mer), Sumarini a tak dále; Komise pro studium Mločí Otázky měla z těchto všech názvů vybrat jméno nejvhodnější a zabývala se tím horlivě a svědomitě až po sám konec Mločího Věku; ke konečnému a jednomyslnému závěru ovšem nedospěla.
 
@@ -611,3 +611,123 @@ Většina těchto návrhů byla odkázána na příští konferenci námořních
 „Tímto mezinárodním aktem,“ napsal v Le Temps M. Jules Sauerstoff, „je zajištěna budoucnost Mloků a pokojný vývoj lidstva na dlouhé desítky let. Blahopřejeme londýnské konferenci k zdárnému ukončení jejích obtížných porad; blahopřejeme také Mlokům k tomu, že daným statutem se jim dostává ochrany haagského soudu; nyní se mohou s klidem a důvěrou věnovat své práci a svému podmořskému pokroku. Budiž zdůrazněno, že odpolitizování Mločího Problému, které došlo výrazu v Londýnské konvenci, je jednou z nejdůležitějších záruk světového míru; zejména odzbrojení Salamandrů zmenšuje pravděpodobnost podmořských konfliktů mezi jednotlivými státy. Fakt je, že – i když trvají tak četné hraniční i mocenské rozpory na všech skoro kontinentech – nehrozí světovému míru žádné aktuální nebezpečí aspoň ze strany mořské. Ale i na suché zemi se zdá být nyní mír lépe zajištěn, než býval kdy jindy; námořní státy jsou plně zaměstnány budováním nových břehů a mohou rozšiřovat svá území do světového moře, místo aby se snažily posunout své hranice na souši. Už nebude nutno bojovat železem a plynem o každou píď půdy; stačí prosté motyky a lopaty Mloků, aby si každý stát postavil tolik teritoria, kolik potřebuje; a tuto pokojnou mločí práci pro mír a blahobyt všech národů zaručuje právě Londýnská konvence. Ještě nikdy nebyl svět tak blízek trvalému míru a pokojnému sice, ale slavnému rozkvětu jako právě nyní. Místo Mločího Problému, o kterém se toho už tolik namluvilo a napsalo, bude se nyní snad právem mluvit o Zlatém Mločím Věku.“
 
 </section>
+
+[^1]: Dubbeltje – drobná holandská mince. _Pozn. red_.
+
+[^2]: Kampong – malajská vesnice s tržištěm. _Pozn. red_.
+
+[^3]: Toddy – palmové víno. _Pozn. red_.
+
+[^4]: Bedřich Golombek (1901–1961), čes. novinář a prozaik. _Pozn. red_.
+
+[^5]: Edvard Valenta (1901–1978), čes. spisovatel a publicista. _Pozn. red_.
+
+[^6]: Jan Eskymo Welzl (1848–1948), čes. cestovatel, vynálezce a dobrodruh. _Pozn. red_.
+
+[^7]: Lambrekýny (hol.) – závěsy na okna a dveře. _Pozn. red_.
+
+[^8]: Pozamentérie – pásková textilie určená k dekoraci. _Pozn. red_.
+
+[^9]: Bezoár – usazenina v útrobách některých savců považovaná za léčivý prostředek. _Pozn. red_.
+
+[^10]: YMCA – Young Men´s Christian Association, Křesťanské sdružení mladých mužů. _Pozn. red_.
+
+[^11]: Schillerův rytíř – odkaz na baladu _Rukavička_ Friedricha Schillera. _Pozn. red_.
+
+[^12]: Trader Horn – ve své době populární americký film o obchodníkovi Hornovi a jeho cestě do Afriky. _Pozn. red_.
+
+[^13]: Reptilia (lat.) – plazi. _Pozn. red_.
+
+[^14]: Nereidky – mořské víly. _Pozn. red_.
+
+[^15]: Pelagiál – vody osídlené planktonem. _Pozn. red_.
+
+[^16]: „Zázrační“ koně z chovu něm. podnikatele Kralle, kteří údajně uměli počítat a výsledky oznamovali údery kopyt. _Pozn. red_.
+
+[^17]: Mae West – amer. herečka, sex-symbol 30. let. 20. stol. _Pozn. red_.
+
+[^18]: V praxi, v akci. _Pozn. red_.
+
+[^19]: Lemurie – bájný světadíl (podobně jako Atlantida), měl se rozkládat v Indickém oceánu. _Pozn. red_.
+
+[^20]: Zábava, rozptýlení. _Pozn. red_.
+
+[^21]: Využití, zneužití. _Pozn. red_.
+
+[^22]: Pojištění. _Pozn. red_.
+
+[^23]: Živočich pracující, vyrábějící. _Pozn. red_.
+
+[^24]: Mlok a německý národ. _Pozn. red_.
+
+[^25]: Vývoj obojživelníků za fašismu. _Pozn. red_.
+
+[^26]: Trade Unie – zaměstnanecké odbory. _Pozn. red_.
+
+[^27]: Barkasa – člun sloužící zejména pro dopravu mezi kotvící lodí a břehem. _Pozn. red_.
+
+[^28]: Je to podivín. _Pozn. red_.
+
+[^29]: Zpráva o tělesných schopnostech Mloků. _Pozn. red_.
+
+[^30]: Xeróza (řec.) – chorobná suchost. _Pozn. red_.
+
+[^31]: François Coppé (1842–1908), franc. básník. _Pozn. red_.
+
+[^32]: Basic English – jazyk se zásobou 850 slov, který byl vytvořen v roce 1929. _Pozn. red_.
+
+[^33]: Ušlechtilý jazyk latinský. _Pozn. red_.
+
+[^34]: Svět pozemský. _Pozn. red_.
+
+[^35]: Měnový systém založený na dvou drahých kovech, na zlatě a stříbře. _Pozn. red_.
+
+[^36]: Právě tím. _Pozn. red_.
+
+[^37]: Podivuhodná díla boží. _Pozn. red_.
+
+[^38]: Monismus (řec.) – filozofická koncepce, podle níž je základem všeho jediná podstata. _Pozn. red_.
+
+[^39]: Mloci, pryč se Židy! _Pozn. red_.
+
+[^40]: Hej, vy, … co tady hledáte? _Pozn. red_.
+
+[^41]: Starosta a poslanec. _Pozn. red_.
+
+[^42]: Auspicie – výhlídka, naděje. _Pozn. red_.
+
+[^43]: Ženerózní (z franc.) – velkodušný, šlechetný. _Pozn. red_.
+
+[^44]: Chudáček, … on je tak ošklivý! _Pozn. red_.
+
+[^45]: Lac Léman – Ženevské jezero. _Pozn. red_.
+
+[^46]: Mikádo/správně mikado (jap.) – titul jap. císařů. _Pozn. red_.
+
+[^47]: Flibustýrský – pirátský. _Pozn. red_.
+
+[^48]: Torpédoborec. _Pozn. red_.
+
+[^49]: Konflagrace – vzplanutí, vypuknutí (zde války). _Pozn. red_.
+
+[^50]: Kombatant (franc.) – vojín s bojovým posláním. _Pozn. red_.
+
+[^51]: Berta – dělo. _Pozn. red_.
+
+[^52]: Takových úspěchů dosahují jen němečtí mloci. _Pozn. red_.
+
+[^53]: Zánik lidstva. _Pozn. red_.
+
+[^54]: Abyssal/abysál (řec.) – označení pro nejhlubší dno oceánu nebo hlubokých jezer. _Pozn. red_.
+
+[^55]: Mene tekel (aram.) – napomenutí, jímž byl údajně babylonskému králi Balsazarovi předpovězen pád jeho říše; přeneseně výstraha, varování. _Pozn. red_.
+
+[^56]: Mediokrita (lat.) – prostřednost. _Pozn. red_.
+
+[^57]: Wady/vádí (arab.) – vyschlá koryta řek, naplněná vodou jen v určitých ročních obdobích. _Pozn. red_.
+
+[^58]: Dossier – desky na listiny, svazek listin. _Pozn. red_.
+
+[^59]: Árie z opery J. Offenbacha Hoffmannovy povídky, pův. píseň benátských gondoliérů. _Pozn. red_.
+
+[^60]: Kris – dýka s vlnkovitým ostřím. _Pozn. red_.
