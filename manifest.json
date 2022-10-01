@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-valka-s-mloky-18604b5",
-  "revision": "18604b5",
+  "identifier": "capek-valka-s-mloky-e718b4e",
+  "revision": "e718b4e",
   "readingOrder": [
     "promo.html",
     "valka_s_mloky_005.html",
@@ -49,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:37:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487456287
+    "date": "Sat Oct 01 2022 16:06:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640409749
   },
   "documents": [
     {
