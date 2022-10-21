@@ -70,7 +70,7 @@ V MKP 2. opravené vydání
 [^58]: Dossier – desky na listiny, svazek listin. _Pozn. red_.  
 [^59]: Árie z opery J. Offenbacha Hoffmannovy povídky, pův. píseň benátských gondoliérů. _Pozn. red_.  
 [^60]: Kris – dýka s vlnkovitým ostřím. _Pozn. red_.  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
